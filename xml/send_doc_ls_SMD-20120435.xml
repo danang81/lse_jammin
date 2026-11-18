@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20120435</no_ls>
+    <tgl_ls>2020-12-20</tgl_ls>
+    <tgl_ls_expired>2021-01-20</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>462LC200000406A</no_lc>
+    <tgl_lc>2020-12-11</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>75658.80</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 462LC200000406A, 11 DESEMBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE (BOA) BY KFT-1, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-12-18</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1089/BT/XSP/XII/2020</nopacklist>
+    <tglpacklist>2020-12-20</tglpacklist>
+    <noinvoice>1089/BT/XSP/XII/2020</noinvoice>
+    <tglinvoice>2020-12-20</tglinvoice>
+    <namaclient>XIANGYU (SINGAPORE) PTE LTD</namaclient>
+    <alamatclient>8 TEMASEK BOULEVARD HEX 43-02
+SUNTEC TOWER THREE
+SINGAPORE 038988</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-12-11</tglmuat>
+    <namavessel>MV AGIOS SOSTIS</namavessel>
+    <tglmuatvessel>2020-12-18</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 462LC200000406A, 11 DESEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>70681.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>CNQZH </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>5216257.80</value_currency>
+      <currency>USD</currency>
+      <value_fob>2608128.90</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4247.00</cal_arb>
+      <cal_adb>5377.00</cal_adb>
+      <tm_arb>33.03</tm_arb>
+      <tash_adb>3.02</tash_adb>
+      <tsulf_adb>0.12</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal/>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>06B661JNEQF6GA51</nobayarroyalti>
+      <tglbayarroyalti>2020-12-08</tglbayarroyalti>
+      <jmlVolume>70000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>30933.41</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

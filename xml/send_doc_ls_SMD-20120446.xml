@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20120446</no_ls>
+    <tgl_ls>2020-12-25</tgl_ls>
+    <tgl_ls_expired>2021-01-25</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>M10BX2012NU00018</no_lc>
+    <tgl_lc>2020-12-15</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CY</bendera>
+    <jeniskapal>BULK CARRIER </jeniskapal>
+    <kapkapal>75611.00</kapkapal>
+    <asuransi>THE STANDARD CLUB IRELAND DAC</asuransi>
+    <catatanperiksa>NO LC. M10BX2012NU00018, 15 DESEMBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-12-24</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1088/BT/BOIM/XII/2020</nopacklist>
+    <tglpacklist>2020-12-25</tglpacklist>
+    <noinvoice>1088/BT/BOIM/XII/2020</noinvoice>
+    <tglinvoice>2020-12-25</tglinvoice>
+    <namaclient>BOIM CORPORATION</namaclient>
+    <alamatclient>1469-120, YEOSUSANDAN-RO, YEOSU-SI,
+JEOLLANAM-DO, SOUTH KOREA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-12-15</tglmuat>
+    <namavessel> MV STARLIGHT</namavessel>
+    <tglmuatvessel>2020-12-24</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. M10BX2012NU00018, 15 DESEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>50989.106</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>SUB-BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>KRYEC </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>5282640.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2040584.02</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>15010.894</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>SUB-BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>KRYEC </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>5282640.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>600735.98</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4637.00</cal_arb>
+      <cal_adb>5670.00</cal_adb>
+      <tm_arb>29.02</tm_arb>
+      <tash_adb>4.01</tash_adb>
+      <tsulf_adb>0.27</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>E77CF6U8DPTUB80N</nobayarroyalti>
+      <tglbayarroyalti>2020-12-22</tglbayarroyalti>
+      <jmlVolume>60000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>25951.31</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>BF23955DE4ORADD1</nobayarroyalti>
+      <tglbayarroyalti>2020-12-11</tglbayarroyalti>
+      <jmlVolume>7510.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>43359.31</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>250F97QLTKG0HCEG</nobayarroyalti>
+      <tglbayarroyalti>2020-12-11</tglbayarroyalti>
+      <jmlVolume>7510.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>43359.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

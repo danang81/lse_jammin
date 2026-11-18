@@ -1,0 +1,228 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed'); ?>
+<div class="row-fluid">
+    <article class="col-sm-12 col-md-12 col-lg-12">
+        <div class="jarviswidget" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false">
+            <div>
+                <div class="widget-body">
+                    <?php echo form_open($url, array('class' => 'form-horizontal', 'id' => 'validation-form', 'data-bv-message' => 'This value is not valid', 'data-bv-feedbackicons-valid' => 'glyphicon glyphicon-ok', 'data-bv-feedbackicons-invalid' => 'glyphicon glyphicon-remove', 'data-bv-feedbackicons-validating' => 'glyphicon glyphicon-refresh')); ?>
+                    <legend><strong>Form Edit Royalty - <?= $no_lse; ?></strong></legend>
+                    <fieldset>
+                        <div class="col-md-12">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >NPWP No<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        echo form_dropdown('client_id', $option_exporter, $exporter, 'id ="client_id" class="chzn-select form-control" data-bv-notempty="true" style="width:100%", onchange="getdetailExporter(this.value);"');
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Origin Goods<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        $input = array('name' => 'exporter_name', 'id' => 'exporter_name', 'value' => $client_name, 'placeholder' => "Nama Perusahaan Asal Barang", 'class' => 'form-control', 'data-bv-notempty' => 'true', 'readonly' => 'true');
+                                        echo form_input($input);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Address<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        $txtarea = array('name' => 'exporter_address', 'value' => $exporter_address, 'id' => 'exporter_address', 'placeholder' => "Alamat Eksportir", 'rows' => 4, 'class' => 'form-control', 'data-bv-notempty' => 'true', 'readonly' => 'true');
+                                        echo form_textarea($txtarea);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Provinsi Asal Barang<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <?php
+                                echo form_dropdown('provinsi_asal_barang', $option_province, $provinsi_asal_barang, 'id="province2" class="form-control"  ');
+                                ?>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <?php
+                                $usd = "";
+                                $idr = "";
+                                if ($valuta == "IDR") {
+                                    $idr = "selected";
+                                } elseif ($valuta == "USD") {
+                                    $usd = "selected";
+                                }
+                                    elseif ($valuta == "RP") {
+                                        $usd = "selected";
+                                    }
+                                    elseif ($valuta == "AUD") {
+                                        $usd = "selected";
+                                    }elseif ($valuta == "EUR") {
+                                        $usd = "selected";
+                                    }
+                                    elseif ($valuta == "SGD") {
+                                        $usd = "selected";
+                                    }
+                                    elseif ($valuta == "CNY") {
+                                        $usd = "selected";
+                                    }
+                                ?>
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Valuta<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <select name="valuta" class="form-control">
+                                            <option value="IDR" <?= $idr; ?>>IDR</option>
+                                            <option value="USD" <?= $usd; ?>>USD</option>
+                                            <option value="RP" <?= $rp; ?>>RP</option>
+                                            <option value="AUD" <?= $aud; ?>>AUD</option>
+                                            <option value="EUR" <?= $eur; ?>>EUR</option>
+                                            <option value="SGD" <?= $sgd; ?>>SGD</option>
+                                            <option value="CNY" <?= $cny; ?>>CNY</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Royalty DP.<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        $input = array('name' => 'royalty_dp', 'value' => number_format($royalty_dp, 2), 'placeholder' => "Royalti Dimuka", 'class' => 'form-control', 'id' => 'royalty', 'data-bv-notempty' => 'true', 'onkeypress' => 'return isNumberKey(event)');
+                                        echo form_input($input);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- <?php
+                            if($jenis_lse =='COAL') { ?>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Sample (Y/N)? </label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        //echo form_dropdown('type_origin_goods', $option_type_origin_goods, $type_origin_goods, 'id ="type_origin_goods" class="chzn-select form-control" data-bv-notempty="true" style="width:20%"');
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+                        <?php } ?> -->
+                            
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Quantity (TNE)<span class="text-danger">*</span></label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        $input = array('name' => 'quantity', 'value' => number_format($quantity, 4), 'placeholder' => "Jumlah (TNE)", 'class' => 'form-control', 'id' => 'quantity', 'data-bv-notempty' => 'true', 'onkeypress' => 'return isNumberKey(event)');
+                                        echo form_input($input);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <?php
+                                if ($jenis_lse == 'COAL'){ ?>
+
+                                <div class="col-md-6">
+                                   <div class="form-group">
+                                        <label for="" class="col-md-4 control-label" >Royalty Payment No</label>
+                                        <div class="col-md-6">
+                                            <?php
+                                            $input = array('name' => 'no_royalty_payment', 'class' => 'form-control', 'maxlength'=>16, 'value' =>$no_royalty_payment,'placeholder' => "Nomor Pembayaran Royalti");
+                                            echo form_input($input);
+                                            ?>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            <?php    } else{ ?>
+
+                            <div class="col-md-6">
+                               <div class="form-group">
+                                    <label for="" class="col-md-4 control-label" >Royalty Payment No</label>
+                                    <div class="col-md-6">
+                                        <?php
+                                        $input = array('name' => 'no_royalty_payment', 'class' => 'form-control', 'value' =>$no_royalty_payment,'placeholder' => "Nomor Pembayaran Royalti");
+                                        echo form_input($input);
+                                        ?>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <?php } ?> 
+                            
+                            <div class="col-md-6">
+                               <div class="form-group">
+                                <label for="" class="col-md-4 control-label" >Date of Royalty Payment</label>
+                                <div class="col-md-6">
+                                    <div class=" input-group">
+                                        <?php
+                                        $input = array('name' => 'date_royalty_payment', 'placeholder' => "Tanggal Pembayaran Royalti", 'class' => 'form-control datepicker', 'data-dateformat' => 'yy-mm-dd','value' =>$date_royalty_payment);
+                                        echo form_input($input);
+                                        ?>
+                                        <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </fieldset> 
+                    <i><strong><span class="text-danger">*</span>) Required</strong></i>
+                    <div class="form-actions">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button type="submit" name="close" value="close" class="btn btn-small btn-default" onclick="self.close();"><i class="fa fa-remove"></i> Close</button>
+                                <?php
+                                echo nbs(1);
+                                echo form_hidden('no_lse', $no_lse);
+                                ?>
+                                <button type="submit" name="btn_submit" value="Save" class="btn btn-small btn-primary"><i class="fa fa-save"></i> Submit</button>&nbsp;
+                                <button class="btn btn-small btn-danger" data-toggle="modal" data-target="#myModal"><i class="fa fa-trash"></i>&nbsp;Delete</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <?php echo form_close(); ?>
+                </div>
+            </div>
+        </div>
+    </article>
+    <div class="clearfix"></div>
+</div>
+
+<?php echo form_open($url_del, array('name' => 'del', 'id' => 'del')); ?>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="myModalLabel"><i class="fa fa-times"></i>&nbsp;Delete</a></h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Are you sure to delete this data..!!!
+                </p>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">
+                    Cancel
+                </button>
+                <button type="submit" name="btn_submit_delete" class="btn btn-danger" value="delete">
+                    Delete
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" name="id" id="delid" value="<?php echo $id_roy; ?>">
+<?php echo form_close(); ?>

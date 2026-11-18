@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BAYAN RESOURCES.TBK</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA </alamatPerusahaan>
+        <telepon>021-2933 2888</telepon>
+        <fax>021-2933 2999</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23030148</no_ls>
+        <tgl_ls>2023-03-22</tgl_ls>
+        <tgl_ls_expired>2023-04-22</tgl_ls_expired>
+        <no_izin>03.ET-04.23.0097</no_izin>
+        <tgl_izin>2023-02-22</tgl_izin>
+        <tgl_izin_expired>2023-04-22</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.23.0097</noizinterdaftar>
+        <tglizinterdaftar>2023-02-22</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-04-22</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>HK</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>81938.00</kapkapal>
+        <asuransi>THE NORTH OF ENGLAND PROTECTI</asuransi>
+        <catatanperiksa>NO LC : 316010656700-G, 22 FEBRUARI 2023</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-03-19</tglperiksa>
+        <portperiksa>IDBPN</portperiksa>
+        <nopacklist>1823/BR/SEIL/III/2023</nopacklist>
+        <tglpacklist>2023-03-22</tglpacklist>
+        <noinvoice>1823/BR/SEIL/III/2023 </noinvoice>
+        <tglinvoice>2023-03-22</tglinvoice>
+        <namaclient>SEMBCORP ENERGY INDIA LIMITED</namaclient>
+        <alamatclient>ANANTHAVARAM VILLAGE, THOTAPALLI, GUDUR MANDAL
+VARAKAVIPUDI PANCHAYAT, NELLORE- 524344, ANDHRA PRADE</alamatclient>
+        <namavessel>MV THERESA GUANGDONG</namavessel>
+        <tglmuatvessel>2023-03-19</tglmuatvessel>
+        <noiupop>50/I/IUP/PMDN/2018</noiupop>
+        <tgliupop>2018-07-16</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : 316010656700-G, 22 FEBRUARI 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>70374.936</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>STEAM COAL IN BULK OF INDONESIAN ORIGIN</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>INKRI</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>17319348.22</value_currency>
+          <currency>USD</currency>
+          <value_fob>7777134.23</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>7986.064</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>STEAM COAL IN BULK OF INDONESIAN ORIGIN</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>INKRI</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>17319348.22</value_currency>
+          <currency>USD</currency>
+          <value_fob>882539.88</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4241.00</cal_arb>
+          <cal_adb>5391.00</cal_adb>
+          <tm_arb>35.26</tm_arb>
+          <tash_adb>3.58</tash_adb>
+          <tsulf_adb>0.08</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>59A6A7QLUFJAFPRK</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39165.04</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>C57EA3CIFANCESUH</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39165.04</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>13A181JNFLIJLL5F</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39360.96</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>132A155DEVS59KLV</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39360.96</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>E52082G4VG5028C4</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39165.04</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>057640N9VR0780JU</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39165.04</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>1FE350N9VR078LI8</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39360.96</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>EB5141JNFLIJLM6J</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39360.96</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>536708N3EA5MTLD7</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39360.96</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>71DCF7QLUFJAGMLG</nobayarroyalti>
+          <tglbayarroyalti>2023-03-14</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39360.96</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>48D751JNFLIKNONP</nobayarroyalti>
+          <tglbayarroyalti>2023-03-15</tglbayarroyalti>
+          <npwp>014346324725000</npwp>
+          <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>39165.04</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

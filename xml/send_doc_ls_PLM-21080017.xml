@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027639665333000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT.  MINEMEX INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>DUSUN TEBAT RT 05 06 DESA MANDIANGIN KEC MANDIANGIN KAB SAROLANGUN  JAMBI</alamatPerusahaan>
+    <telepon>02125675936</telepon>
+    <fax>02125675938</fax>
+    <emailPerusahaan>02125675938</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-21080017</no_ls>
+    <tgl_ls>2021-09-01</tgl_ls>
+    <tgl_ls_expired>2021-10-01</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0040</no_izin>
+    <tgl_izin>2021-02-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0040</noizinterdaftar>
+    <tglizinterdaftar>2021-02-19</tglizinterdaftar>
+    <no_lc>0503ILCFS210108</no_lc>
+    <tgl_lc>2021-08-24</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>55650.00</kapkapal>
+    <asuransi>ASSURANCEFORENINGEN GARD</asuransi>
+    <catatanperiksa>L/C NO 0503ILCFS210108</catatanperiksa>
+    <tempatperiksa>MUARA SABAK ANCHORAGE, JAMBI INDONESIA</tempatperiksa>
+    <tglperiksa>2021-09-01</tglperiksa>
+    <portperiksa>IDMSK</portperiksa>
+    <nopacklist>001/MMI-ACCPL/PL/IX/2021</nopacklist>
+    <tglpacklist>2021-09-01</tglpacklist>
+    <noinvoice>001/MMI-ACCPL/IX/2021</noinvoice>
+    <tglinvoice>2021-09-01</tglinvoice>
+    <namaclient>AGARWAL COAL CORPORATION(S) PTE LTD</namaclient>
+    <alamatclient>16 JALAN KILANG TIMOR #07-07,REDHILL FORUM, SINGAPORE 159308</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-08-24</tglmuat>
+    <namavessel>MV. FORTUNE WING</namavessel>
+    <tglmuatvessel>2021-08-25</tglmuatvessel>
+    <noiupop>9/1/IUP-PB/PMA/2018</noiupop>
+    <tgliupop>2018-12-31</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>L/C NO 0503ILCFS210108</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>54100.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN  BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDMSK</kdPortAsal>
+      <kdPortBongkar>INIXY </kdPortBongkar>
+      <kdPortMuat>IDMSK</kdPortMuat>
+      <value_currency>2174820.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2174820.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3400.00</cal_arb>
+      <cal_adb>5100.00</cal_adb>
+      <tm_arb>45.00</tm_arb>
+      <tash_adb>8.00</tash_adb>
+      <tsulf_adb>0.20</tsulf_adb>
+      <klasifikasibb>5100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>C01681JNF3DOSCVP</nobayarroyalti>
+      <tglbayarroyalti>2021-08-23</tglbayarroyalti>
+      <jmlVolume>54100.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027639665333000</npwp>
+      <nmpersh> MINEMEX INDONESIA</nmpersh>
+      <idprop>7</idprop>
+      <nmprop>Jambi</nmprop>
+      <royalti>60326.91</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

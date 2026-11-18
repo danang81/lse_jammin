@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021959085728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>CV. BETUAH</namaPerusahaan>
+    <alamatPerusahaan>JL  IMAM BONJOL GANG DHARMA NO 32 RT 14  KEL  PELABUHAN  KEC  SAMARINDA KOTA  KOTA SAMARINDA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>000000</telepon>
+    <fax>000000</fax>
+    <emailPerusahaan>000000</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21080441</no_ls>
+    <tgl_ls>2021-08-24</tgl_ls>
+    <tgl_ls_expired>2021-09-24</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0126</no_izin>
+    <tgl_izin>2021-07-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0126</noizinterdaftar>
+    <tglizinterdaftar>2021-07-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CN</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>48793.00</kapkapal>
+    <asuransi>COSCO SHIPPING</asuransi>
+    <catatanperiksa>NO LC. ANTWLI01501667, 13 AGUSTUS 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-08-10</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>135/INV-BTH-PVEB/DIR/VIII/2021</nopacklist>
+    <tglpacklist>2021-08-24</tglpacklist>
+    <noinvoice>135/INV-BTH-PVEB/DIR/VIII/2021</noinvoice>
+    <tglinvoice>2021-08-24</tglinvoice>
+    <namaclient>SHANDONG SUNRISE FUEL CO.,LTD</namaclient>
+    <alamatclient>21 FLOOR,NO.141 ,LONGYU PLAZA ,HUAGUANG ROAD,
+ZIBO, SHANDONG, CHINA, 255000</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. BAO HE LING</namavessel>
+    <tglmuatvessel>2021-08-15</tglmuatvessel>
+    <noiupop>503/896/IUP-OP/DPMPTSP/VI/2017</noiupop>
+    <tgliupop>2017-06-06</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. ANTWLI01501667, 13 AGUSTUS 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>17111.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNBHX</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>761439.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>761439.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4118.00</cal_arb>
+      <cal_adb>5075.00</cal_adb>
+      <tm_arb>32.96</tm_arb>
+      <tash_adb>7.96</tash_adb>
+      <tsulf_adb>0.31</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>FAE3C2G4UTVQV9EC</nobayarroyalti>
+      <tglbayarroyalti>2021-08-12</tglbayarroyalti>
+      <jmlVolume>5471.5600</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021959085728000</npwp>
+      <nmpersh>BETUAH</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>153538485.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>FC7E22G4UU038LQU</nobayarroyalti>
+      <tglbayarroyalti>2021-08-21</tglbayarroyalti>
+      <jmlVolume>2084.1700</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021959085728000</npwp>
+      <nmpersh>BETUAH</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>58553381.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>C08F755DEDN7FTPJ</nobayarroyalti>
+      <tglbayarroyalti>2021-08-20</tglbayarroyalti>
+      <jmlVolume>4402.5500</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021959085728000</npwp>
+      <nmpersh>BETUAH</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>123686737.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>CE92D61QU89IMLK6</nobayarroyalti>
+      <tglbayarroyalti>2021-08-19</tglbayarroyalti>
+      <jmlVolume>5153.5600</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021959085728000</npwp>
+      <nmpersh>BETUAH</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>144474489.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

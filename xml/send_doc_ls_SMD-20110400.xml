@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024331100091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BAYAN RESOURCES</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   SENAYAN KEBAYORAN BARU JAKARTA SELATAN     12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20110400</no_ls>
+    <tgl_ls>2020-11-23</tgl_ls>
+    <tgl_ls_expired>2020-12-23</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0049</no_izin>
+    <tgl_izin>2020-03-30</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+    <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+    <no_lc>L044527</no_lc>
+    <tgl_lc>2020-11-18</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>60309.00</kapkapal>
+    <asuransi>STEAMSHIP MUTUAL</asuransi>
+    <catatanperiksa>NO LC. L044527, 18 NOVEMBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN (BCT), INDONESIA</tempatperiksa>
+    <tglperiksa>2020-11-22</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1128/BR/GNPK/XI/2020</nopacklist>
+    <tglpacklist>2020-11-23</tglpacklist>
+    <noinvoice>1128/BR/GNPK/XI/2020</noinvoice>
+    <tglinvoice>2020-11-23</tglinvoice>
+    <namaclient>GNPOWER KAUSWAGAN LTD. CO.</namaclient>
+    <alamatclient>28 TH FLOOR, THE ORIENT SQUARE BLDG.,
+DON FRANCISCO, ORTIGAS JR. RD.
+ORTIGAS CENTER, PASIG CITY
+1605, PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-11-18</tglmuat>
+    <namavessel>MV STH SYDNEY</namavessel>
+    <tglmuatvessel>2020-11-22</tglmuatvessel>
+    <noiupop>50/I/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-07-16</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. L044527, 18 NOVEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>60259.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHIGN</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>3959016.30</value_currency>
+      <currency>USD</currency>
+      <value_fob>1979508.15</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4133.00</cal_arb>
+      <cal_adb>5291.00</cal_adb>
+      <tm_arb>35.67</tm_arb>
+      <tash_adb>3.42</tash_adb>
+      <tsulf_adb>0.11</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2263.72</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1616.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2679.69</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1616.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1616.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1616.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>7</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1616.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>8</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1616.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>9</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2263.72</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>10</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2263.72</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

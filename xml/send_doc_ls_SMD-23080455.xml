@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BAYAN RESOURCES TBK.</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H  JALAN SENOPATI NO  8B  SENAYAN  KEBAYORAN BARU  KOTA ADM  JAKART</alamatPerusahaan>
+        <telepon>021-2933 2888</telepon>
+        <fax>021-2933 2999</fax>
+        <emailPerusahaan>katherina.clorinda@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23080455</no_ls>
+        <tgl_ls>2023-08-06</tgl_ls>
+        <tgl_ls_expired>2023-09-06</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0097</noizinterdaftar>
+        <tglizinterdaftar>2023-02-22</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-02-22</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>PA</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>61238.00</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : LC11123C301305, 31 JULI 2023</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-08-06</tglperiksa>
+        <portperiksa>IDBPP</portperiksa>
+        <nopacklist>1987/BR/CMC/VIII/2023</nopacklist>
+        <tglpacklist>2023-08-06</tglpacklist>
+        <noinvoice>1987/BR/CMC/VIII/2023</noinvoice>
+        <tglinvoice>2023-08-06</tglinvoice>
+        <namaclient>CHINA NATIONAL MACHINERY IMPORT AND EXPORT CORPORATION</namaclient>
+        <alamatclient>BUILDING C, GENERAL TIMES CENTER, JINZE EAST ROAD, FENGTAI DISTRICT, BEIJING, 100073, CHINA</alamatclient>
+        <namavessel>MV ANAHITA</namavessel>
+        <tglmuatvessel>2023-08-06</tglmuatvessel>
+        <noiupop>81201161016940002</noiupop>
+        <tgliupop>2023-01-02</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : LC11123C301305, 31 JULI 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>18257.661</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>QUALITY 5,050 GAR COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>BD</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>BDMGL</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>6177470.40</value_currency>
+          <currency>USD</currency>
+          <value_fob>1488729.68</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>5585.547</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>QUALITY 5,050 GAR COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>BD</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>BDMGL</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>6177470.40</value_currency>
+          <currency>USD</currency>
+          <value_fob>455445.50</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>3</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>5682.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>QUALITY 5,050 GAR COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>BD</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>BDMGL</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>6177470.40</value_currency>
+          <currency>USD</currency>
+          <value_fob>463310.28</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>4</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>8354.792</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>QUALITY 5,050 GAR COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>BD</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>BDMGL</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>6177470.40</value_currency>
+          <currency>USD</currency>
+          <value_fob>681249.74</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4879.00</cal_arb>
+          <cal_adb>5696.00</cal_adb>
+          <tm_arb>27.35</tm_arb>
+          <tash_adb>6.00</tash_adb>
+          <tsulf_adb>0.37</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>B65410N9VRCF63RQ</nobayarroyalti>
+          <tglbayarroyalti>2023-07-25</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>8200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>15835.84</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>F16648N3EAHUS6AT</nobayarroyalti>
+          <tglbayarroyalti>2023-07-25</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5600.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>10814.72</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>C23617QLUFVIE5UA</nobayarroyalti>
+          <tglbayarroyalti>2023-07-25</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>8200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>15835.84</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>D5FAB6U8ELD6159V</nobayarroyalti>
+          <tglbayarroyalti>2023-07-25</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>8200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>15835.84</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>D26727QLUFV5GT8U</nobayarroyalti>
+          <tglbayarroyalti>2023-07-11</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>14365.36</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>FA07355DF08D81Q3</nobayarroyalti>
+          <tglbayarroyalti>2023-07-25</tglbayarroyalti>
+          <npwp>018215368091000</npwp>
+          <nmpersh>TEGUH SINARABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>8800.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>53127.36</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>5F0B38N3EAI12D01</nobayarroyalti>
+          <tglbayarroyalti>2023-07-27</tglbayarroyalti>
+          <npwp>018604264731000</npwp>
+          <nmpersh>BANGUN BANUA PERSADA KALIMANTAN </nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>76848.97</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SurveyorCheck xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>026717330012000</npwp>
+        <no_izin>03.ET-04.21.0012</no_izin>
+        <tgl_izin>2021-01-19</tgl_izin>
+      </header>
+      <detailBarang>
+        <loop>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+        </loop>
+      </detailBarang>
+    </LSE_Document>
+  </string2>
+</SurveyorCheck>

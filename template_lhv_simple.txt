@@ -1,0 +1,120 @@
+<table width="100%" border="1">
+                        <tbody>
+                            <tr>
+                                <td align="center" colspan="6"><strong>LAPORAN HASIL VERIFIKASI (LHV)</strong></td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="6"><strong>PENJUALAN BATU BARA KE DOMESTIK</strong></td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="6"><strong>NO LHV : {no_lhv}</strong></td>
+                            </tr>
+                            <tr style="height:30px">
+                                <td align="center" colspan="6"><strong><u>PERATURAN MENTERI PERDAGANGAN RI NO. 39/M-DAG/PER/7/2014, 15 JULI 2014</u></strong></td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="6" style="font-size: 11px;"><strong>A. PENJUAL BATUBARA *)</strong></td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-size: 11px;">Perusahaan</td>
+                                <td style="font-size: 11px;" align="center">Nama Perusahaan dan Lokasi Tambang/Sumber Batu Bara *)</td>
+                                <td colspan="2" style="font-size: 11px;" align="center">No & Tgl Surat Keputusan **)</td>
+                                <td colspan="2" style="font-size: 11px;" align="center">Alamat Kantor</td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-size: 11px;">{jenis_perizinan}</td>
+                                <td style="font-size: 11px;" align="center">{supplyer_name}</td>
+                                <td colspan="2" style="font-size: 11px;" align="center">{no_tgl_sk}</td>
+                                <td colspan="2" style="font-size: 11px;" align="center">{alamat_perusahaan_supplyer}</td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-size: 11px;">{jenis_perizinan_lainnya}</td>
+                                <td style="font-size: 11px;" align="center">{supplyer_name_lainnya}</td>
+                                <td colspan="2" style="font-size: 11px;" align="center">{no_tgl_sk_lainnya}</td>
+                                <td colspan="2" style="font-size: 11px;" align="center">{alamat_perusahaan_supplyer_lainnya}</td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-size: 11px;">Nama Produk Tambang</td>
+                                <td style="font-size: 11px;" align="left" colspan="5">{sumber_komoditas}</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="6" style="font-size: 11px;"><strong>*)</strong>Isi yang sesuai <br/><strong>**)</strong>Untuk PKP2B dan IUP OP nomor SK Tahap Operasi Produksi</td>
+                            </tr>
+                            <tr>
+                                <td colspan="6"><br/></td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="6" style="font-size: 11px;"><strong>B. PELABUHAN</strong></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="left" style="font-size: 11px;">Pelabuhan Muat (Nama Pelabuhan, alamat lengkap)</td>
+                                <td colspan="4" style="font-size: 11px;" align="left">{pelabuhan_muat}</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="left" style="font-size: 11px;">Pelabuhan Bongkar (Nama Pelabuhan, alamat lengkap)</td>
+                                <td colspan="4" style="font-size: 11px;" align="left">{pelabuhan_bongkar}</td>
+                            </tr>
+                            <tr>
+                                <td colspan="6"><br/></td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="6" style="font-size: 11px;"><strong>C. NAMA KAPAL ANGKUT *)</strong></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="left" style="font-size: 11px;">Vessel</td>
+                                <td colspan="4" style="font-size: 11px;" align="left">{nama_vessel}</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="left" style="font-size: 11px;">Barge dan Tug Boat</td>
+                                <td colspan="4" style="font-size: 11px;" align="left">{barge_tug_boat}</td>
+                            </tr>
+                            <tr>
+                                <td colspan="6"><br/></td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="6" style="font-size: 11px;"><strong>D. VERIFIKASI DOKUMEN</strong></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 11px;">No.</td>
+                                <td colspan="2"  align="center" style="font-size: 11px;">Uraian</td>
+                                <td colspan="2"  align="center" style="font-size: 11px;">Ada/Tidak Ada *)</td>
+                                <td align="center" style="font-size: 11px;">Keterangan</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 11px;">1.</td>
+                                <td colspan="2"  align="left" style="font-size: 11px;">Total Muatan</td>
+                                <td colspan="2"  align="center" style="font-size: 11px;">{total_tonase}</td>
+                                <td align="center" style="font-size: 11px;">{total_tonase_keterangan}</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" align="center" style="font-size: 11px;">2.</td>
+                                <td colspan="2"  align="left" style="font-size: 11px;">Royalti</td>
+                                <td colspan="2"  align="center" style="font-size: 11px;">Ada</td>
+                                <td align="center" style="font-size: 11px;">{royalty}</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2"  align="left" style="font-size: 11px;">Bukti Setor</td>
+                                <td colspan="2"  align="center" style="font-size: 11px;">{bukti_setor}</td>
+                                <td align="center" style="font-size: 11px;">{remark_bukti_setor}</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 11px;">3.</td>
+                                <td colspan="2"  align="left" style="font-size: 11px;">Copy Sertifikat CNC</td>
+                                <td colspan="2"  align="center" style="font-size: 11px;">{bukti_cnc}</td>
+                                <td align="center" style="font-size: 11px;">{remark_bukti_cnc}</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 11px;">4.</td>
+                                <td colspan="2"  align="left" style="font-size: 11px;">Surat Pernyataan Kebenaran Dokumen dari Shipper</td>
+                                <td colspan="2" align="center" style="font-size: 11px;">{bukti_shipper}</td>
+                                <td align="center" style="font-size: 11px;">{remark_bukti_shipper}</td>
+                            </tr>
+                            <tr>
+                                <td align="left" colspan="6" style="font-size: 11px;"><strong>*)</strong>Coret yang tidak perlu</td>
+                            </tr>
+                            <tr>
+                                <td align="center"  colspan="3" style=" border-top: none;border-left:none;border-right: none;border-bottom:none;"><br/>Direksi Perusahaan Surveyor<br/><strong>{nama_surveyor}</strong><br/><br/><br/><br/><br/><br/><strong>{nama_atasan}</strong><br/>{posisi_atasan}</td>
+                                <td align="center" colspan="3" style=" border-top: none;border-left:none;border-right: none;border-bottom:none;">Diterbitkan di : ...................................................<br/>Petugas Surveyor<br/><br/><br/><br/><br/><br/><strong>{nama_petugas}</strong><br/>{no_register}</td>
+                            </tr>
+                        </tbody>
+                    </table>

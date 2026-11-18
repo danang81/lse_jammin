@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21060293</no_ls>
+    <tgl_ls>2021-06-09</tgl_ls>
+    <tgl_ls_expired>2021-07-09</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>02026010524253</no_lc>
+    <tgl_lc>2021-06-03</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>81383.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 02026010524253 dan 03 JUNI 2021</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE , EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-06-08</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1226/BT/TPEC/VI/2021</nopacklist>
+    <tglpacklist>2021-06-09</tglpacklist>
+    <noinvoice>1226/BT/TPEC/VI/2021</noinvoice>
+    <tglinvoice>2021-06-09</tglinvoice>
+    <namaclient>TEAM (PHILIPPINES) ENERGY CORPORATION</namaclient>
+    <alamatclient>25TH FLOOR, W FIFTH AVENUE BUILDING
+5TH AVENUE, BONIFACIO GLOBAL CITY,
+TAGUIG CITY, 1634 PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-06-03</tglmuat>
+    <namavessel>MV FRONTIER LEADER</namavessel>
+    <tglmuatvessel>2021-06-08</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 02026010524253 dan 03 JUNI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>9724.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>TABANG COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHPGB</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>1119815.84</value_currency>
+      <currency>USD</currency>
+      <value_fob>559907.92</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4300.00</cal_arb>
+      <cal_adb>5570.00</cal_adb>
+      <tm_arb>34.93</tm_arb>
+      <tash_adb>3.66</tash_adb>
+      <tsulf_adb>0.10</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>FBE3D48VUIUBQREE</nobayarroyalti>
+      <tglbayarroyalti>2021-06-04</tglbayarroyalti>
+      <jmlVolume>9724.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>7987.29</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

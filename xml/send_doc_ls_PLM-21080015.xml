@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>026225540021000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. PT. PUTRA MUBA COAL</namaPerusahaan>
+    <alamatPerusahaan>MNC TOWER  19TH FLOOR  JALAN KEBON SIRIH NO  17 19 JAKARTA PUSAT 10340  INDONESIA</alamatPerusahaan>
+    <telepon>021 3922950</telepon>
+    <fax>021 3927879</fax>
+    <emailPerusahaan>021 3927879</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-21080015</no_ls>
+    <tgl_ls>2021-08-10</tgl_ls>
+    <tgl_ls_expired>2021-09-10</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0191</no_izin>
+    <tgl_izin>2020-09-25</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0191</noizinterdaftar>
+    <tglizinterdaftar>2020-09-25</tglizinterdaftar>
+    <no_lc>1B070SL00034</no_lc>
+    <tgl_lc>2021-08-04</tgl_lc>
+    <modetransport>Barge</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>ID</bendera>
+    <jeniskapal>STEEL BARGE</jeniskapal>
+    <kapkapal>10000.00</kapkapal>
+    <asuransi>PT. ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>LC NO 1807SL00034 / 04 AGUSTUS 2021</catatanperiksa>
+    <tempatperiksa>JETTY PT PMC, SUNGAI LILIN SOUTH SUMATERA, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-08-10</tglperiksa>
+    <portperiksa>IDPLM</portperiksa>
+    <nopacklist>002/PMC/PL/VIII/2021</nopacklist>
+    <tglpacklist>2021-08-10</tglpacklist>
+    <noinvoice>SI.2021.08.000919</noinvoice>
+    <tglinvoice>2021-08-10</tglinvoice>
+    <namaclient>WELHUNT VIET NAM COMPANY LIMITED</namaclient>
+    <alamatclient>6TH FLOOR, MAPLETREE TOWER BUSINESS CENTER, 1060 NGUYEN VAN LINH, TAN PHONG WARD, DISTRICT 7, HO CHI MINH CITY, VIETNAM</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-08-04</tglmuat>
+    <namavessel>TB MARINA 2433 / BG. MARINE POWER 3082</namavessel>
+    <tglmuatvessel>2021-08-08</tglmuatvessel>
+    <noiupop>016/DPMTSP.V/I/2018</noiupop>
+    <tgliupop>2018-01-05</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO 1807SL00034 / 04 AGUSTUS 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>9203.170</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN THERMAL COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDPLM</kdPortAsal>
+      <kdPortBongkar>VNVUT </kdPortBongkar>
+      <kdPortMuat>IDPLM</kdPortMuat>
+      <value_currency>326528.47</value_currency>
+      <currency>USD</currency>
+      <value_fob>326528.47</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3400.00</cal_arb>
+      <cal_adb>5600.00</cal_adb>
+      <tm_arb>45.00</tm_arb>
+      <tash_adb>10.00</tash_adb>
+      <tsulf_adb>1.00</tsulf_adb>
+      <klasifikasibb>5600-5400</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>6D8AE48VUJ4DK4JK</nobayarroyalti>
+      <tglbayarroyalti>2021-08-06</tglbayarroyalti>
+      <jmlVolume>9203.1700</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026225540021000</npwp>
+      <nmpersh>PT. PUTRA MUBA COAL</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>9795.85</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

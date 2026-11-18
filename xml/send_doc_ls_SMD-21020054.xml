@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>821897170031000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BULK COMMUDITIES INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>GD GRAND SLIPI TOWER LEVEL 9 UNIT G JL  LETJEND S PARMAN KAV 22 24  JAKARTA BARAT</alamatPerusahaan>
+    <telepon>811889590</telepon>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21020054</no_ls>
+    <tgl_ls>2021-02-15</tgl_ls>
+    <tgl_ls_expired>2021-03-15</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0209</no_izin>
+    <tgl_izin>2018-10-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0209</noizinterdaftar>
+    <tglizinterdaftar>2018-10-16</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2021-02-13</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>002/BCI/2021</nopacklist>
+    <tglpacklist>2021-02-10</tglpacklist>
+    <noinvoice>001/ BCI/2021</noinvoice>
+    <tglinvoice>2021-02-10</tglinvoice>
+    <namaclient/>
+    <alamatclient>89-37, Ocheon-Myeon, Boryeong-Si,
+Chungcheongnam-Do, 33408, Republic of Korea
+Attn : Lee San &#8211; Wook
+Ph : 070 &#8211; 7511 &#8211; 2212</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K-MILE AIR</namavessel>
+    <tglmuatvessel>2021-02-15</tglmuatvessel>
+    <noiupop>59/1/IUP/PMA/2018</noiupop>
+    <tgliupop>2018-08-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV DOOYANG JEJU</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>KRICN</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>0.00</cal_arb>
+      <cal_adb>0.00</cal_adb>
+      <tm_arb>0.00</tm_arb>
+      <tash_adb>0.00</tash_adb>
+      <tsulf_adb>0.00</tsulf_adb>
+      <klasifikasibb>-</klasifikasibb>
+      <keterangan>0</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>821897170031000</npwp>
+      <nmpersh>BULK COMMUDITIES INDONESIA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040200</no_ls>
+    <tgl_ls>2021-04-23</tgl_ls>
+    <tgl_ls_expired>2021-05-23</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82099.00</kapkapal>
+    <asuransi>HP INTERNATIONAL (HELLAS) CORP</asuransi>
+    <catatanperiksa>NO LC. 730ILFS211050001, 15 APRIL 2021</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-23</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1196/BT/TLI/IV/2021</nopacklist>
+    <tglpacklist>2021-04-23</tglpacklist>
+    <noinvoice>1196/BT/TLI/IV/2021</noinvoice>
+    <tglinvoice>2021-04-23</tglinvoice>
+    <namaclient>THERMA LUZON, INC.</namaclient>
+    <alamatclient>14TH FLOOR NAC TOWER 32ND STREET
+BONIFACIO GLOBAL CITY, FORT BONIFACIO
+1634 TAGUIG, METRO MANILA PHILIPPINES
+TIN NO. 266-567-164-000
+BUSINESS STYLE: THERMA LUZON, INC.</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV KONKAR VENTURE</namavessel>
+    <tglmuatvessel>2021-04-23</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 730ILFS211050001, 15 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>58126.909</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHQZT</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>7831831.20</value_currency>
+      <currency>USD</currency>
+      <value_fob>3112114.71</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>15013.091</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHQZT</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>7831831.20</value_currency>
+      <currency>USD</currency>
+      <value_fob>803800.89</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4532.00</cal_arb>
+      <cal_adb>5595.00</cal_adb>
+      <tm_arb>32.02</tm_arb>
+      <tash_adb>3.63</tash_adb>
+      <tsulf_adb>0.24</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>F3DB02G4UTK06ROI</nobayarroyalti>
+      <tglbayarroyalti>2021-04-16</tglbayarroyalti>
+      <jmlVolume>65000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>50280.46</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>236751JNF2RRFA0H</nobayarroyalti>
+      <tglbayarroyalti>2021-02-25</tglbayarroyalti>
+      <jmlVolume>7510.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>61706.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>04FB161QU7QCN8HM</nobayarroyalti>
+      <tglbayarroyalti>2021-03-10</tglbayarroyalti>
+      <jmlVolume>7510.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>60866.54</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

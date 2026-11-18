@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>023747371728000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BARA TABANG </namaPerusahaan>
+        <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10 RT  19 KEL DAMAI BARU  KEC  BALIKPAPAN SEL</alamatPerusahaan>
+        <telepon>0542 - 874147</telepon>
+        <fax>0542 - 874147</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23070387</no_ls>
+        <tgl_ls>2023-07-04</tgl_ls>
+        <tgl_ls_expired>2023-08-04</tgl_ls_expired>
+        <no_izin>03.ET-04.23.0052</no_izin>
+        <tgl_izin>2023-02-07</tgl_izin>
+        <tgl_izin_expired>2023-08-04</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.23.0052</noizinterdaftar>
+        <tglizinterdaftar>2023-02-07</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-08-04</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>HK</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>93113.52</kapkapal>
+        <asuransi>PICC</asuransi>
+        <catatanperiksa>NO LC : ILC-23-0064 , 13 JUNI 2023</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-07-01</tglperiksa>
+        <portperiksa>IDBPP</portperiksa>
+        <nopacklist>1497/BT/GNPD/VII/2023</nopacklist>
+        <tglpacklist>2023-07-04</tglpacklist>
+        <noinvoice>1497/BT/GNPD/VII/2023</noinvoice>
+        <tglinvoice>2023-07-04</tglinvoice>
+        <namaclient>GNPOWER DINGININ LTD. CO.</namaclient>
+        <alamatclient>GNPOWER ENERGY COMPLEX, SITIO DINGININ,
+BRGY. ALASASIN
+MARIVELES, BATAAN, PHILIPPINES 2105
+</alamatclient>
+        <namavessel>MV OCEAN VENUS</namavessel>
+        <tglmuatvessel>2023-07-01</tglmuatvessel>
+        <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+        <tgliupop>2011-05-02</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : ILC-23-0064 , 13 JUNI 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>86000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>PHBTN</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>12368520.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>6184260.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4251.00</cal_arb>
+          <cal_adb>5368.00</cal_adb>
+          <tm_arb>34.95</tm_arb>
+          <tash_adb>4.40</tash_adb>
+          <tsulf_adb>0.09</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>381A17QLUFSHOCT6</nobayarroyalti>
+          <tglbayarroyalti>2023-06-23</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>86000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>191401.60</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

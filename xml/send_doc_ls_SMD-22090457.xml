@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <refnumber>321207567</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BAYAN RESOURCES.TBK</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA </alamatPerusahaan>
+        <telepon>021-2933 2888</telepon>
+        <fax>021-2933 2999</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22090457</no_ls>
+        <tgl_ls>2022-09-23</tgl_ls>
+        <tgl_ls_expired>2022-10-23</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0049</no_izin>
+        <tgl_izin>2020-03-30</tgl_izin>
+        <tgl_izin_expired>2022-10-23</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+        <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-10-23</tglizinterdaftar_expired>
+        <no_lc>M42B42209NS00032</no_lc>
+        <tgl_lc>2022-09-07</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>PA</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>81399.00</kapkapal>
+        <asuransi/>
+        <catatanperiksa>LC NO : M42B42209NS00032 dan 07 September 2022&#xD;
+</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-09-22</tglperiksa>
+        <portperiksa>IDBPN</portperiksa>
+        <nopacklist>1609/BR/KOEN/IX/2022</nopacklist>
+        <tglpacklist>2022-09-23</tglpacklist>
+        <noinvoice>1609/BR/KOEN/IX/2022</noinvoice>
+        <tglinvoice>2022-09-23</tglinvoice>
+        <namaclient>KOREA SOUTH-EAST POWER CO., LTD.</namaclient>
+        <alamatclient>9F KOSEP B/D, SADEUL-RO 123 BEON-GIL
+32, JINJU-SI, GYEONGSANGNAM-DO, KOREA, 52852</alamatclient>
+        <tglmuat>2022-09-07</tglmuat>
+        <namavessel>MV DAEBO GLADSTONE</namavessel>
+        <tglmuatvessel>2022-09-22</tglmuatvessel>
+        <noiupop>50/I/IUP/PMDN/2018</noiupop>
+        <tgliupop>2018-07-16</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>LC NO : M42B42209NS00032 dan 07 September 2022&#xD;
+</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>60812.562</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>KRSCP</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>13829469.40</value_currency>
+          <currency>USD</currency>
+          <value_fob>5509009.99</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>15517.438</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>KRSCP</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>13829469.40</value_currency>
+          <currency>USD</currency>
+          <value_fob>1405724.71</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4313.00</cal_arb>
+          <cal_adb>5503.00</cal_adb>
+          <tm_arb>34.06</tm_arb>
+          <tash_adb>3.52</tash_adb>
+          <tsulf_adb>0.10</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>B5E2F3CIF1VAB68F</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>4800.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>27916.80</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>9D43A48VUSHMO9VI</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>CA8937QLU6R8CABI</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>126DD2G4V7CTUAP4</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>5</idseriAsal>
+          <idposTarif>5</idposTarif>
+          <nobayarroyalti>97ACD3CIF1VABBB9</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>6</idseriAsal>
+          <idposTarif>6</idposTarif>
+          <nobayarroyalti>FC3FD1JNFCQHHBQH</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>7</idseriAsal>
+          <idposTarif>7</idposTarif>
+          <nobayarroyalti>9A5D71JNFCQHHEAH</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>8</idseriAsal>
+          <idposTarif>8</idposTarif>
+          <nobayarroyalti>F63FD6U8EC8RVF5J</nobayarroyalti>
+          <tglbayarroyalti>2022-09-16</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>46350.88</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>9</idseriAsal>
+          <idposTarif>9</idposTarif>
+          <nobayarroyalti>F71043CIF1SOC5VH</nobayarroyalti>
+          <tglbayarroyalti>2022-08-30</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>3000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>6598.80</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>10</idseriAsal>
+          <idposTarif>10</idposTarif>
+          <nobayarroyalti>83D330N9VI82TC4E</nobayarroyalti>
+          <tglbayarroyalti>2022-09-14</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>14957.07</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>11</idseriAsal>
+          <idposTarif>11</idposTarif>
+          <nobayarroyalti>8CB620N9VI82TCHI</nobayarroyalti>
+          <tglbayarroyalti>2022-09-14</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>14957.07</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

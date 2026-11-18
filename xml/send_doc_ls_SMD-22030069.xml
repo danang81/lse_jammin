@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <refnumber>7705729594</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BAYAN RESOURCES TBK</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA </alamatPerusahaan>
+        <telepon>021-2933 2888</telepon>
+        <fax>021-2933 2999</fax>
+        <emailPerusahaan/>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22030069</no_ls>
+        <tgl_ls>2022-03-05</tgl_ls>
+        <tgl_ls_expired>2022-04-05</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0049</no_izin>
+        <tgl_izin>2020-03-30</tgl_izin>
+        <tgl_izin_expired>2022-04-05</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+        <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-04-05</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>LR</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>81272.40</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : 730ILFS220590002, 28 FEBRUARI 2022</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-03-04</tglperiksa>
+        <portperiksa>IDBPN</portperiksa>
+        <nopacklist>1371/BR/MPP/III/2022</nopacklist>
+        <tglpacklist>2022-03-05</tglpacklist>
+        <noinvoice>1371/BR/MPP/III/2022</noinvoice>
+        <tglinvoice>2022-03-05</tglinvoice>
+        <namaclient>MASINLOC POWER PARTNERS CO., LTD.</namaclient>
+        <alamatclient>BARANGAY BANI,
+MASINLOC, ZAMBALES
+PHILIPPINES</alamatclient>
+        <namavessel> MV STAR LAMBADA</namavessel>
+        <tglmuatvessel>2022-03-04</tglmuatvessel>
+        <noiupop>50/I/IUP/PMDN/2018</noiupop>
+        <tgliupop>2018-07-16</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>NO LC : 730ILFS220590002, 28 FEBRUARI 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>6808.500</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>PHMSC</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>14998865.20</value_currency>
+          <currency>USD</currency>
+          <value_fob>1499776.38</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>16283.095</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>PHMSC</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>14998865.20</value_currency>
+          <currency>USD</currency>
+          <value_fob>3586840.17</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>3</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>44998.405</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>PHMSC</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>14998865.20</value_currency>
+          <currency>USD</currency>
+          <value_fob>9912248.65</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>5903.00</cal_arb>
+          <cal_adb>6529.00</cal_adb>
+          <tm_arb>13.89</tm_arb>
+          <tash_adb>12.28</tash_adb>
+          <tsulf_adb>0.56</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>1A6C42G4V6O128O6</nobayarroyalti>
+          <tglbayarroyalti>2022-02-15</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>8398.50</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>22F0F7QLU66BGAJE</nobayarroyalti>
+          <tglbayarroyalti>2022-02-15</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>11757.90</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>E958D1JNFC5GDG6R</nobayarroyalti>
+          <tglbayarroyalti>2022-02-11</tglbayarroyalti>
+          <npwp>028320059046000</npwp>
+          <nmpersh>SEBUKU TANJUNG COAL</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>41057.40</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>4308E61QUH1EE8V4</nobayarroyalti>
+          <tglbayarroyalti>2022-02-11</tglbayarroyalti>
+          <npwp>028320059046000</npwp>
+          <nmpersh>SEBUKU TANJUNG COAL</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>41057.40</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>5</idseriAsal>
+          <idposTarif>5</idposTarif>
+          <nobayarroyalti>26AB455DEMEQNRL9</nobayarroyalti>
+          <tglbayarroyalti>2022-02-03</tglbayarroyalti>
+          <npwp>028320059046000</npwp>
+          <nmpersh>SEBUKU TANJUNG COAL</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>41023.19</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>6</idseriAsal>
+          <idposTarif>6</idposTarif>
+          <nobayarroyalti>7DE5861QUH1LSAQM</nobayarroyalti>
+          <tglbayarroyalti>2022-02-18</tglbayarroyalti>
+          <npwp>017110610091000</npwp>
+          <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>73608.75</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>7</idseriAsal>
+          <idposTarif>7</idposTarif>
+          <nobayarroyalti>146F948VURT2BQ9S</nobayarroyalti>
+          <tglbayarroyalti>2022-02-24</tglbayarroyalti>
+          <npwp>017110610091000</npwp>
+          <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>73608.75</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>8</idseriAsal>
+          <idposTarif>8</idposTarif>
+          <nobayarroyalti>2EFE67QLU66JVT9K</nobayarroyalti>
+          <tglbayarroyalti>2022-02-24</tglbayarroyalti>
+          <npwp>017110610091000</npwp>
+          <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>73608.75</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>9</idseriAsal>
+          <idposTarif>9</idposTarif>
+          <nobayarroyalti>A4A0C55DEMF9FB3D</nobayarroyalti>
+          <tglbayarroyalti>2022-02-18</tglbayarroyalti>
+          <npwp>017110610091000</npwp>
+          <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>73608.75</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>10</idseriAsal>
+          <idposTarif>10</idposTarif>
+          <nobayarroyalti>B3F6755DEMFEOTTR</nobayarroyalti>
+          <tglbayarroyalti>2022-02-24</tglbayarroyalti>
+          <npwp>017110610091000</npwp>
+          <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>73608.75</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>11</idseriAsal>
+          <idposTarif>11</idposTarif>
+          <nobayarroyalti>102AC7QLU66JVQ6I</nobayarroyalti>
+          <tglbayarroyalti>2022-02-24</tglbayarroyalti>
+          <npwp>017110610091000</npwp>
+          <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>73608.75</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

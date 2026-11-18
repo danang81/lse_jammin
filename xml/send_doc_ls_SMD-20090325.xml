@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015396989054000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARAMULTI SUKSESSARANA TBK</namaPerusahaan>
+    <alamatPerusahaan>GD  SAHID SUDIRMAN CENTER LT 56 SUITE C DJL  JENDRAL SUDIRMAN NO 86 KARET TENGSIN TANAH ABANGJAKARTA PUSAT DKI JAKARTA 10220</alamatPerusahaan>
+    <telepon/>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20090325</no_ls>
+    <tgl_ls>2020-09-27</tgl_ls>
+    <tgl_ls_expired>2020-10-27</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0080</no_izin>
+    <tgl_izin>2020-05-13</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0080</noizinterdaftar>
+    <tglizinterdaftar>2020-05-13</tglizinterdaftar>
+    <no_lc>ENBDLC2003898</no_lc>
+    <tgl_lc>2020-09-13</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>76554.00</kapkapal>
+    <asuransi>WEST OF ENGLAND INSURANCE SERVICES (LUXEMBOURG) S.A.</asuransi>
+    <catatanperiksa>NO LC. ENBDLC2003898, 13 SEPTEMBER 2020</catatanperiksa>
+    <tempatperiksa>SAMARINDA</tempatperiksa>
+    <tglperiksa>2020-09-27</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>021A/BSSR/EXP/PL/IX/2020</nopacklist>
+    <tglpacklist>2020-09-27</tglpacklist>
+    <noinvoice>021A/BSSR/EXP/KEU/IX/2020</noinvoice>
+    <tglinvoice>2020-09-27</tglinvoice>
+    <namaclient>ADANI ENTERPRISES LIMITED</namaclient>
+    <alamatclient>ADANI HOUSE, NEAR MITHAKHALI CIRCLE, NAVRANGPURA, AHMEDABAD 380009, GUJARAT, INDIA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-09-13</tglmuat>
+    <namavessel>MV TOMINI INTEGRITY</namavessel>
+    <tglmuatvessel>2020-09-23</tglmuatvessel>
+    <noiupop>503/799/IUP-OP/DPMPTSP/V/2017</noiupop>
+    <tgliupop>2017-05-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. ENBDLC2003898, 13 SEPTEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>15000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INNAV</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>772500.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>386250.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5218.00</cal_adb>
+      <tm_arb>34.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.40</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>015396989054000</npwp>
+      <nmpersh>BARAMULTI SUKSESSARANA TBK</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>38295.05</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

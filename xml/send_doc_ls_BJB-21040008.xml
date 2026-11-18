@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015767825714000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>CV. BUNDA KANDUNG</namaPerusahaan>
+    <alamatPerusahaan>JALAN SEMOGA INDAH II  NOMOR 098  RT 014  KEL  LANJAS  KEC  TEWEH TENGAH  KAB  BARITO UTARA  KALIMANTAN TENGAH</alamatPerusahaan>
+    <telepon>0519-21941</telepon>
+    <fax>0519-21941</fax>
+    <emailPerusahaan>0519-21941</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21040008</no_ls>
+    <tgl_ls>2021-04-29</tgl_ls>
+    <tgl_ls_expired>2021-05-29</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0062</no_izin>
+    <tgl_izin>2021-03-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0062</noizinterdaftar>
+    <tglizinterdaftar>2021-03-16</tglizinterdaftar>
+    <no_lc>LC5TF12013439</no_lc>
+    <tgl_lc>2021-04-22</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>57368.80</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO DAN TANGGAL L/C LC5TF12013439  22-04-2021</catatanperiksa>
+    <tempatperiksa>TABONEO ANCHORAGE , SOUTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-24</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>001/BK-LGH/PL-IV/2021</nopacklist>
+    <tglpacklist>2021-04-29</tglpacklist>
+    <noinvoice>001/BK-LGH/INV-IV/2021</noinvoice>
+    <tglinvoice>2021-04-29</tglinvoice>
+    <namaclient>NOCINCO KAIMING CHEMICALS CO.,LTD.</namaclient>
+    <alamatclient>5F NORTH REAL ESTATE BUILDING NO. 81 ZIZHUYUAN ROAD, HAIDIAN DIST., BEIJING 100089, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-04-22</tglmuat>
+    <namavessel>MV. FRIEDERIKE</namavessel>
+    <tglmuatvessel>2021-04-24</tglmuatvessel>
+    <noiupop>188.45/47/2010</noiupop>
+    <tgliupop>2010-02-01</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NO DAN TANGGAL L/C LC5TF12013439  22-04-2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>41.372</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CN  PAJ </kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>1175792.24</value_currency>
+      <currency>USD</currency>
+      <value_fob>1175792.24</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3803.00</cal_arb>
+      <cal_adb>4810.00</cal_adb>
+      <tm_arb>35.10</tm_arb>
+      <tash_adb>7.95</tash_adb>
+      <tsulf_adb>0.51</tsulf_adb>
+      <klasifikasibb>&lt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>66CE88N3DNKLV481</nobayarroyalti>
+      <tglbayarroyalti>2021-04-14</tglbayarroyalti>
+      <jmlVolume>7284.0060</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>130370111.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>1D2E861QU7THSBGQ</nobayarroyalti>
+      <tglbayarroyalti>2021-04-16</tglbayarroyalti>
+      <jmlVolume>7245.5900</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>129700192.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>D720161QU7TLRLTE</nobayarroyalti>
+      <tglbayarroyalti>2021-04-19</tglbayarroyalti>
+      <jmlVolume>7359.4940</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>131816432.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>F83166U8E2G2JU2P</nobayarroyalti>
+      <tglbayarroyalti>2021-04-20</tglbayarroyalti>
+      <jmlVolume>7254.3780</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>129120319.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>C920548VUIOVGDPK</nobayarroyalti>
+      <tglbayarroyalti>2021-04-22</tglbayarroyalti>
+      <jmlVolume>7203.2660</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>127841169.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>F63576U8E2G5Q677</nobayarroyalti>
+      <tglbayarroyalti>2021-04-23</tglbayarroyalti>
+      <jmlVolume>5024.9520</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>89433120.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

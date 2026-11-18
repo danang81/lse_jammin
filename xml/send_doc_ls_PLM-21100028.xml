@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021916655021000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BHUMI SRIWIJAYA PERDANA COAL</namaPerusahaan>
+    <alamatPerusahaan>MNC TOWER  19TH FLOOR  JALAN KEBON SIRIH NO  17 19 JAKARTA PUSAT 10340  INDONESIA</alamatPerusahaan>
+    <telepon>021 3922950</telepon>
+    <fax>021 3297879</fax>
+    <emailPerusahaan>021 3297879</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-21100028</no_ls>
+    <tgl_ls>2021-10-23</tgl_ls>
+    <tgl_ls_expired>2021-11-23</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0199</no_izin>
+    <tgl_izin>2020-10-06</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0199</noizinterdaftar>
+    <tglizinterdaftar>2020-10-06</tglizinterdaftar>
+    <no_lc>LC5TF12034658</no_lc>
+    <tgl_lc>2021-10-13</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>VESSEL</jeniskapal>
+    <kapkapal>58689.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>L/C No.LC5TF12034658 / 13 OKTOBER 2021</catatanperiksa>
+    <tempatperiksa>TANJUNG BUYUT ANCHORGAE, SOUTH SUMATERA</tempatperiksa>
+    <tglperiksa>2021-10-23</tglperiksa>
+    <portperiksa>IDPLM</portperiksa>
+    <nopacklist>007/BSPC/PVEB/X/2021</nopacklist>
+    <tglpacklist>2021-10-23</tglpacklist>
+    <noinvoice>SI.2021.10.000185</noinvoice>
+    <tglinvoice>2021-10-23</tglinvoice>
+    <namaclient>XIAMEN C AND D ENERGY RESOURCES CO., LTD</namaclient>
+    <alamatclient>22F,C AND D INTERNATIONAL BUILDING,N0 1699 HUANDAO EAST ROAD, XIAMEN 361008, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-10-13</tglmuat>
+    <namavessel>MV TOP WEATHER</namavessel>
+    <tglmuatvessel>2021-10-21</tglmuatvessel>
+    <noiupop>608 TAHUN 2012</noiupop>
+    <tgliupop>2012-05-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>L/C No.LC5TF12034658 / 13 OKTOBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>15000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>STEAM (NON COKING) COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDPLM</kdPortAsal>
+      <kdPortBongkar>CNDGG</kdPortBongkar>
+      <kdPortMuat>IDPLM</kdPortMuat>
+      <value_currency>727500.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>727500.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3300.00</cal_arb>
+      <cal_adb>5400.00</cal_adb>
+      <tm_arb>49.00</tm_arb>
+      <tash_adb>8.00</tash_adb>
+      <tsulf_adb>1.00</tsulf_adb>
+      <klasifikasibb>5400-5200</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>E04AD7QLTTK47JLG</nobayarroyalti>
+      <tglbayarroyalti>2021-10-13</tglbayarroyalti>
+      <jmlVolume>5000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021916655021000</npwp>
+      <nmpersh>BHUMI SRIWIJAYA PERDANA COAL</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>94602750.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>432F50N9V9127NF4</nobayarroyalti>
+      <tglbayarroyalti>2021-10-15</tglbayarroyalti>
+      <jmlVolume>4000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021916655021000</npwp>
+      <nmpersh>BHUMI SRIWIJAYA PERDANA COAL</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>75682200.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>792708N3DO6HSNO5</nobayarroyalti>
+      <tglbayarroyalti>2021-10-15</tglbayarroyalti>
+      <jmlVolume>6000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021916655021000</npwp>
+      <nmpersh>BHUMI SRIWIJAYA PERDANA COAL</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>115143300.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

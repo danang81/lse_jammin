@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>422185108031000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. TUNAS NIAGA ENERGI</namaPerusahaan>
+    <alamatPerusahaan>GRAND SLIPI TOWER 19TH FLOOT UNIT C  JL  LETJEN S PARMAN KAV  22 24  KEL  PALMERAH KEC  PALMERAH JAKARTA</alamatPerusahaan>
+    <telepon>021-31182727</telepon>
+    <fax>-</fax>
+    <emailPerusahaan>-</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21100025</no_ls>
+    <tgl_ls>2021-10-23</tgl_ls>
+    <tgl_ls_expired>2021-11-23</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0173</no_izin>
+    <tgl_izin>2021-07-09</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0173</noizinterdaftar>
+    <tglizinterdaftar>2021-07-09</tglizinterdaftar>
+    <no_lc>IX011170010333327</no_lc>
+    <tgl_lc>2021-10-06</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>INDONESIAN STEAM COAL IN BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>55596.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa/>
+    <tempatperiksa>TABONEO ANCHORAGE, SOUTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-10-22</tglperiksa>
+    <portperiksa>IDBDJ</portperiksa>
+    <nopacklist>PTTNE-FLAME/PL/EXP 21-012/JKT/X/2021</nopacklist>
+    <tglpacklist>2021-10-23</tglpacklist>
+    <noinvoice>TNE-INV20210004</noinvoice>
+    <tglinvoice>2021-10-23</tglinvoice>
+    <namaclient>HUANENG GUANGDONG FUEL CO., LTD.</namaclient>
+    <alamatclient>NO.168 GUORUIXINXI BUILDING, ZHONGSAN ROAD, SHANTOU, CHINA, 515041</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-10-06</tglmuat>
+    <namavessel>MV. INDIGO TRAVELLER</namavessel>
+    <tglmuatvessel>2021-10-19</tglmuatvessel>
+    <noiupop>-</noiupop>
+    <tgliupop>0000-00-00</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>466/1/IUP/PMDN/2021</noiupopkolah>
+    <tgliupopkolah>2021-06-03</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>49.810</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBDJ</kdPortAsal>
+      <kdPortBongkar>CNGUT</kdPortBongkar>
+      <kdPortMuat>IDBDJ</kdPortMuat>
+      <value_currency>6329356.70</value_currency>
+      <currency>USD</currency>
+      <value_fob>6329356.70</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5274.00</cal_arb>
+      <cal_adb>6043.00</cal_adb>
+      <tm_arb>22.49</tm_arb>
+      <tash_adb>5.76</tash_adb>
+      <tsulf_adb>0.33</tsulf_adb>
+      <klasifikasibb>&gt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>9BEE98N3DO683JK3</nobayarroyalti>
+      <tglbayarroyalti>2021-10-05</tglbayarroyalti>
+      <jmlVolume>50.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025338534714000</npwp>
+      <nmpersh>PADA IDI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>4440879180.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

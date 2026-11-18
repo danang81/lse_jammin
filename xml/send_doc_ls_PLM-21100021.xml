@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>010000115051000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BUKIT ASAM (Persero) Tbk</namaPerusahaan>
+    <alamatPerusahaan>JALAN PARIGI NOMOR 1 TANJUNG ENIM  KAB  MUARA ENIM  SUMATERA SELATAN</alamatPerusahaan>
+    <telepon>0734451096</telepon>
+    <fax>0734451098</fax>
+    <emailPerusahaan>0734451098</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-21100021</no_ls>
+    <tgl_ls>2021-10-01</tgl_ls>
+    <tgl_ls_expired>2021-11-01</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0053</no_izin>
+    <tgl_izin>2020-04-06</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0053</noizinterdaftar>
+    <tglizinterdaftar>2020-04-06</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Containers</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>-</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>-</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>LOKASI PABEAN TEMPAT MUAT </tempatperiksa>
+    <tglperiksa>2021-10-01</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>003/PCL-SAMPLE/IX/2021</nopacklist>
+    <tglpacklist>2021-10-29</tglpacklist>
+    <noinvoice>003/INV-SAMPLE/IX/2021</noinvoice>
+    <tglinvoice>2021-10-29</tglinvoice>
+    <namaclient>KOREA SOUTH EAST POWER CO</namaclient>
+    <alamatclient>YOUNGHUNG THERMAL POWER CONSTRUCTION SITE OFFICE
+ 293-75, YEONGHEUNGNAM-RO, YEONGHEUNG-MYEON, ONGJIN-GUN, INCHEON, KOREA, 23120</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K-MILE AIR </namavessel>
+    <tglmuatvessel>2021-10-01</tglmuatvessel>
+    <noiupop>389/KPTS/TAMBEN/2010</noiupop>
+    <tgliupop>2010-04-13</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV. PEAK PEGASUS</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>KRICN</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>5.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>0.00</cal_arb>
+      <cal_adb>0.00</cal_adb>
+      <tm_arb>0.00</tm_arb>
+      <tash_adb>0.00</tash_adb>
+      <tsulf_adb>0.00</tsulf_adb>
+      <klasifikasibb>0</klasifikasibb>
+      <keterangan>-</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>010000115051000</npwp>
+      <nmpersh>BUKIT ASAM TBK</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

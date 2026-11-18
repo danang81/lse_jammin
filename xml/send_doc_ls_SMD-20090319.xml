@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20090319</no_ls>
+    <tgl_ls>2020-09-24</tgl_ls>
+    <tgl_ls_expired>2020-10-24</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>02026010505648</no_lc>
+    <tgl_lc>2020-09-15</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>79898.70</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 02026010505648, 15 SEPTEMBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-09-23</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1032/BT/TPEC/IX/2020</nopacklist>
+    <tglpacklist>2020-09-24</tglpacklist>
+    <noinvoice>1032/BT/TPEC/IX/2020</noinvoice>
+    <tglinvoice>2020-09-24</tglinvoice>
+    <namaclient>TEAM (PHILIPPINES) ENERGY CORPORATION</namaclient>
+    <alamatclient>25TH FLOOR, W FIFTH AVENUE BUILDING,
+5TH AVENUE, BONIFACIO GLOBAL CITY,
+TAGUIG CITY, 1634 PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-09-15</tglmuat>
+    <namavessel>MV ZAGREB</namavessel>
+    <tglmuatvessel>2020-09-24</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 02026010505648, 15 SEPTEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>6400.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>TABANG COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHPGB</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>524800.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>262400.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4228.00</cal_arb>
+      <cal_adb>5511.00</cal_adb>
+      <tm_arb>35.57</tm_arb>
+      <tash_adb>2.59</tash_adb>
+      <tsulf_adb>0.09</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>3128.39</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>906574314741000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. RESTU ENERGI SEPADAN</namaPerusahaan>
+    <alamatPerusahaan>JALAN MT  HARYONO PERUMAHAN BUKIT MEDITERANIA BLOK BMR 29  KOTA SAMARINDA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>000000000000</telepon>
+    <fax>0</fax>
+    <emailPerusahaan>0</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21060305</no_ls>
+    <tgl_ls>2021-06-14</tgl_ls>
+    <tgl_ls_expired>2021-07-14</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0003</no_izin>
+    <tgl_izin>2021-01-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0003</noizinterdaftar>
+    <tglizinterdaftar>2021-01-08</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Containers</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMAPT MUAT</tempatperiksa>
+    <tglperiksa>2021-06-14</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>003/RES/OCI SE/VI/2021</nopacklist>
+    <tglpacklist>2021-06-10</tglpacklist>
+    <noinvoice>003/RES/OCI SE/VI/2021</noinvoice>
+    <tglinvoice>2021-06-10</tglinvoice>
+    <namaclient>OCI SE COMPANY LTD,</namaclient>
+    <alamatclient>(OSIKDO-DONG) 213 SAEMANGEUMSANDAN 3-RO
+GUNSAN-SI JEOLLABUK-DO 54002</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K-MILE AIR</namavessel>
+    <tglmuatvessel>2021-06-14</tglmuatvessel>
+    <noiupop>181/1/IUP/PMDN/2019</noiupop>
+    <tgliupop>2019-05-27</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>KRKUV</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>5.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>0.00</cal_arb>
+      <cal_adb>0.00</cal_adb>
+      <tm_arb>0.00</tm_arb>
+      <tash_adb>0.00</tash_adb>
+      <tsulf_adb>0.00</tsulf_adb>
+      <klasifikasibb>---</klasifikasibb>
+      <keterangan>---</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>906574314741000</npwp>
+      <nmpersh>RESTU ENERGI SEPADAN</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

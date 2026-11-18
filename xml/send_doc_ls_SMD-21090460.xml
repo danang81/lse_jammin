@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>013158779091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BUKIT BAIDURI ENERGI</namaPerusahaan>
+    <alamatPerusahaan>SAHID SUDIRMAN CENTER LANTAI 31 JL  JEND  SUDIRMAN KAV  86  KEL  KARET TENGSIN  KEC  TANAH ABANG  JAKARTA PUSAT</alamatPerusahaan>
+    <telepon>021-50807177</telepon>
+    <fax>021-50807107</fax>
+    <emailPerusahaan>021-50807107</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21090460</no_ls>
+    <tgl_ls>2021-09-10</tgl_ls>
+    <tgl_ls_expired>2021-10-10</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0090</no_izin>
+    <tgl_izin>2020-06-05</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0090</noizinterdaftar>
+    <tglizinterdaftar>2020-06-05</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>57949.00</kapkapal>
+    <asuransi>GARD</asuransi>
+    <catatanperiksa>NO LC. SGAX131-206966, 31 AGUSTUS 2021</catatanperiksa>
+    <tempatperiksa>JETTY BBE, MERANDAI</tempatperiksa>
+    <tglperiksa>2021-08-30</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>043/BBE/INV/IX/2021</nopacklist>
+    <tglpacklist>2021-09-09</tglpacklist>
+    <noinvoice>043/BBE/INV/IX/2021</noinvoice>
+    <tglinvoice>2021-09-09</tglinvoice>
+    <namaclient>GHCL LIMITED</namaclient>
+    <alamatclient>VILLAGE SUTRAPADA, DIST GIR SOMNATH, GUJARAT, INDIA.</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV GOOBY</namavessel>
+    <tglmuatvessel>2021-09-06</tglmuatvessel>
+    <noiupop>503/1602/IUP-OP/DPMPTSP/IX/2018</noiupop>
+    <tgliupop>2018-09-18</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. SGAX131-206966, 31 AGUSTUS 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>28750.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INPPV</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3388762.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>3388762.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5800.00</cal_arb>
+      <cal_adb>6100.00</cal_adb>
+      <tm_arb>19.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>D856C3CIEOIP5KE7</nobayarroyalti>
+      <tglbayarroyalti>2021-09-01</tglbayarroyalti>
+      <jmlVolume>57500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>013158779091000</npwp>
+      <nmpersh>BUKIT BAIDURI ENERGI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>426046.25</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

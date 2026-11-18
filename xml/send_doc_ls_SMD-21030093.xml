@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024331100091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BAYAN RESOURCES, TBK</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   SENAYAN KEBAYORAN BARU JAKARTA SELATAN     12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21030093</no_ls>
+    <tgl_ls>2021-03-02</tgl_ls>
+    <tgl_ls_expired>2021-04-02</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0049</no_izin>
+    <tgl_izin>2020-03-30</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+    <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2021-03-02</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>336/BR/GNPK-CS/II/2021</nopacklist>
+    <tglpacklist>2021-02-23</tglpacklist>
+    <noinvoice>336/BR/GNPK-CS/II/2021</noinvoice>
+    <tglinvoice>2021-02-23</tglinvoice>
+    <namaclient>GNPOWER KASUWAGAN LTD. CO.</namaclient>
+    <alamatclient>BRGY. LIBERTAD, KASUWAGAN, LANAO DEL
+NORTE</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K-MILE AIR</namavessel>
+    <tglmuatvessel>2021-03-02</tglmuatvessel>
+    <noiupop>50/I/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-07-16</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV HANTON TRADER I</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>PHMNL</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4250.00</cal_arb>
+      <cal_adb>5421.00</cal_adb>
+      <tm_arb>35.19</tm_arb>
+      <tash_adb>3.79</tash_adb>
+      <tsulf_adb>0.11</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>024331100091000</npwp>
+      <nmpersh>BAYAN RESOURCES, TBK</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

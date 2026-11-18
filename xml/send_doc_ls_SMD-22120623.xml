@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>021958582728000</npwp>
+        <refnumber>73079824</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. GHANI RAYA MANDIRI</namaPerusahaan>
+        <alamatPerusahaan>JL  SUTA KANAN RT  XII  KEL  LIANG  KEC  KOTA BANGUN  KAB  KUTAI  KARTANEGARA  KALIMANTAN TIMUR</alamatPerusahaan>
+        <telepon>0000</telepon>
+        <fax>0000</fax>
+        <emailPerusahaan>grmshipping22@gmail.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22120623</no_ls>
+        <tgl_ls>2022-12-09</tgl_ls>
+        <tgl_ls_expired>2023-01-09</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0202</no_izin>
+        <tgl_izin>2021-08-10</tgl_izin>
+        <tgl_izin_expired>2023-01-09</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0202</noizinterdaftar>
+        <tglizinterdaftar>2021-08-10</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-01-09</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>MT</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>56773.50</kapkapal>
+        <asuransi>THE STANDARD CLUB UK LTD</asuransi>
+        <catatanperiksa>NO LC : MI70622000334, 25 NOVEMBER 2022</catatanperiksa>
+        <tempatperiksa>MUARA BERAU ANCHORAGE</tempatperiksa>
+        <tglperiksa>2022-12-06</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>053A/PL/GRM-QUATIM/XII/2022</nopacklist>
+        <tglpacklist>2022-12-09</tglpacklist>
+        <noinvoice>053A/INV/GRM-QUATIM/XII/2022</noinvoice>
+        <tglinvoice>2022-12-09</tglinvoice>
+        <namaclient>KUTCH CHEMICAL INDUSTRIES LIMITED</namaclient>
+        <alamatclient>SARA NIWAS, 20-21, HARI NAGAR
+SOCIETY, GOTRI ROAD, BARODA
+390007, GUJARAT, INDIA</alamatclient>
+        <namavessel>MV. RED FIN</namavessel>
+        <tglmuatvessel>2022-12-05</tglmuatvessel>
+        <noiupop>503/3664/IUP-OP/DPMPTSP/VI/2020</noiupop>
+        <tgliupop>2020-06-15</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : MI70622000334, 25 NOVEMBER 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>20000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>INIXY</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>1400800.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1400800.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3700.00</cal_arb>
+          <cal_adb>4933.00</cal_adb>
+          <tm_arb>40.00</tm_arb>
+          <tash_adb>6.00</tash_adb>
+          <tsulf_adb>0.20</tsulf_adb>
+          <klasifikasibb>&lt; 4200</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>A02CA3CIF25GAS8H</nobayarroyalti>
+          <tglbayarroyalti>2022-11-23</tglbayarroyalti>
+          <npwp>021958582728000</npwp>
+          <nmpersh>GHANI RAYA MANDIRI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>50000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>6382696000.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

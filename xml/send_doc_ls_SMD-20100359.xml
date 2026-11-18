@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>018215368091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. TEGUH SINARABADI</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 30 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   KEL SENAYAN KEC  KEBAYORAN BARU JAKARTA SELATAN   12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20100359</no_ls>
+    <tgl_ls>2020-10-21</tgl_ls>
+    <tgl_ls_expired>2020-11-21</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0067</no_izin>
+    <tgl_izin>2020-04-27</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0067</noizinterdaftar>
+    <tglizinterdaftar>2020-04-27</tglizinterdaftar>
+    <no_lc>DIP0086220B00021</no_lc>
+    <tgl_lc>2020-10-20</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>KR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82091.00</kapkapal>
+    <asuransi>STEAMSHIP MUTUAL</asuransi>
+    <catatanperiksa>NO LC. DIP0086220B00021, 20 OCTOBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-10-20</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>294/TSA/KNK/X/2020</nopacklist>
+    <tglpacklist>2020-10-21</tglpacklist>
+    <noinvoice>294/TSA/KNK/X/2020</noinvoice>
+    <tglinvoice>2020-10-21</tglinvoice>
+    <namaclient>KNK ENERGY PTE. LTD.</namaclient>
+    <alamatclient>2 HAVELOCK ROAD HEX 05-22
+HAVELOCK 2
+SINGAPORE 59763</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-10-20</tglmuat>
+    <namavessel>MV GLOVIS DAYLIGHT</namavessel>
+    <tglmuatvessel>2020-10-20</tglmuatvessel>
+    <noiupop>317.K/30/DJB/2008</noiupop>
+    <tgliupop>2008-04-29</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. DIP0086220B00021, 20 OCTOBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>38220.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>KRTAN </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>5610696.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1402674.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>38220.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>KRTAN </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>5610696.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1402674.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4988.00</cal_arb>
+      <cal_adb>5890.00</cal_adb>
+      <tm_arb>27.57</tm_arb>
+      <tash_adb>3.54</tash_adb>
+      <tsulf_adb>0.28</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>018215368091000</npwp>
+      <nmpersh>TEGUH SINARABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>104322.38</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1703.75</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1703.75</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1696.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1696.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1696.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>7</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1696.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>8</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2385.25</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015343825091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ANTANG GUNUNG MERATUS</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG SAHID SUDIRMAN CENTRE LT  11 SUITE A JL  JEND SUDIRMAN  NOMOR 86  RW 011  KEL  KARET TENGSIN  KEC  TANAH ABANG  JAKARTA PUSAT</alamatPerusahaan>
+    <telepon>021 2941 1390</telepon>
+    <fax>021 2941 1394</fax>
+    <emailPerusahaan>021 2941 1394</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-20100022</no_ls>
+    <tgl_ls>2020-10-29</tgl_ls>
+    <tgl_ls_expired>2020-11-29</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0131</no_izin>
+    <tgl_izin>2020-07-10</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0131</noizinterdaftar>
+    <tglizinterdaftar>2020-07-10</tglizinterdaftar>
+    <no_lc>ENSGLC20000126</no_lc>
+    <tgl_lc>2020-10-19</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>INDONESIAN STEAM COAL IN BULK</cargotype>
+    <bendera>CN</bendera>
+    <jeniskapal>PANAMAX / 225 m x 32 m</jeniskapal>
+    <kapkapal>75394.00</kapkapal>
+    <asuransi>NORTH</asuransi>
+    <catatanperiksa>LC NO : ENSGLC20000126 DATE&#13;
+19 OKTOBER 2020</catatanperiksa>
+    <tempatperiksa>JETTY PT. AGM SUNGAI PUTING </tempatperiksa>
+    <tglperiksa>2020-10-28</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>70/PL-AGM/EXP/X/2020</nopacklist>
+    <tglpacklist>2020-10-29</tglpacklist>
+    <noinvoice>70/AGM/EXP/KEU/X/2020</noinvoice>
+    <tglinvoice>2020-10-29</tglinvoice>
+    <namaclient>Adani Global Pte Ltd,</namaclient>
+    <alamatclient>80, Raffles Place, No. 33-20 UOB Plaza II, Singapore 048624</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-10-19</tglmuat>
+    <namavessel>MV YUN LONG FENG</namavessel>
+    <tglmuatvessel>2020-10-26</tglmuatvessel>
+    <noiupop>080.K/40.00/MEM/2003</noiupop>
+    <tgliupop>2003-05-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO : ENSGLC20000126 DATE&#13;
+19 OKTOBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>72183.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>INDAH</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>1930895.25</value_currency>
+      <currency>USD</currency>
+      <value_fob>1930895.25</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4400.00</cal_arb>
+      <cal_adb>5694.00</cal_adb>
+      <tm_arb>32.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.50</tsulf_adb>
+      <klasifikasibb>5100-5600</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>015343825091000</npwp>
+      <nmpersh>ANTANG GUNUNG MERATUS</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>248137.17</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>023747371728000</npwp>
+        <refnumber>5375</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BARA TABANG </namaPerusahaan>
+        <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10 RT  19 KEL DAMAI BARU  KEC  BALIKPAPAN SEL</alamatPerusahaan>
+        <telepon>0542 - 874147</telepon>
+        <fax>0542 - 874147</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23110616</no_ls>
+        <tgl_ls>2023-11-02</tgl_ls>
+        <tgl_ls_expired>2023-12-02</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0052</noizinterdaftar>
+        <tglizinterdaftar>2023-02-07</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-02-07</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>IT</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>93270.67</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : ILC-23-0116, 23 OKTOBER 2023</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-10-31</tglperiksa>
+        <portperiksa>IDBPP</portperiksa>
+        <nopacklist>1537/BT/GNPD/XI/2023</nopacklist>
+        <tglpacklist>2023-11-02</tglpacklist>
+        <noinvoice>1537/BT/GNPD/XI/2023</noinvoice>
+        <tglinvoice>2023-11-02</tglinvoice>
+        <namaclient>GNPOWER DINGININ LTD. CO.</namaclient>
+        <alamatclient>GNPOWER ENERGY COMPLEX, SITIO DINGININ,
+BRGY. ALASASIN
+MARIVELES, BATAAN, PHILIPPINES 2105</alamatclient>
+        <namavessel>MV MBA ROSARIA</namavessel>
+        <tglmuatvessel>2023-10-31</tglmuatvessel>
+        <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+        <tgliupop>2011-05-02</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : ILC-23-0116, 23 OKTOBER 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>86600.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>PHBTN</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>10963560.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>5481780.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4244.00</cal_arb>
+          <cal_adb>5240.00</cal_adb>
+          <tm_arb>35.27</tm_arb>
+          <tash_adb>3.55</tash_adb>
+          <tsulf_adb>0.09</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>61D3255DF0HB09UB</nobayarroyalti>
+          <tglbayarroyalti>2023-10-24</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>88000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>234854.40</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

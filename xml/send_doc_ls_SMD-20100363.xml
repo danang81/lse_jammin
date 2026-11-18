@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20100363</no_ls>
+    <tgl_ls>2020-10-21</tgl_ls>
+    <tgl_ls_expired>2020-11-21</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2020-10-21</tglperiksa>
+    <portperiksa>IDCEN </portperiksa>
+    <nopacklist>217/BT/SMCPC-CS/X/2020</nopacklist>
+    <tglpacklist>2020-10-17</tglpacklist>
+    <noinvoice>217/BT/SMCPC-CS/X/2020</noinvoice>
+    <tglinvoice>2020-10-17</tglinvoice>
+    <namaclient>SAN MIGUEL CONSOLIDATED POWER CORP.</namaclient>
+    <alamatclient>BARANGAY CULAMAN, MALITA DAVAO DEL SUR
+8012</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K - MILE AIR</namavessel>
+    <tglmuatvessel>2020-10-21</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV KAVO PALOMA</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDCEN </kdPortAsal>
+      <kdPortBongkar>PHMNL</kdPortBongkar>
+      <kdPortMuat>IDCEN </kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4204.00</cal_arb>
+      <cal_adb>5500.00</cal_adb>
+      <tm_arb>35.80</tm_arb>
+      <tash_adb>4.50</tash_adb>
+      <tsulf_adb>0.11</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1108.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

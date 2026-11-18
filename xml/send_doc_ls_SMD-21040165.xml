@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017748146091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT.  JEMBAYAN MUARABARA</namaPerusahaan>
+    <alamatPerusahaan>RUKO MAHAKAM SQUARE BLOK B NO  17 19 JL  UNTUNG SUROPATI  KARANG ASAM ULU SUNGAI KUNJANG SAMARINDA   75126</alamatPerusahaan>
+    <telepon>0541-7771100</telepon>
+    <fax>7771100/0541-271</fax>
+    <emailPerusahaan>7771100/0541-271</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040165</no_ls>
+    <tgl_ls>2021-04-09</tgl_ls>
+    <tgl_ls_expired>2021-05-09</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0202</no_izin>
+    <tgl_izin>2020-10-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0202</noizinterdaftar>
+    <tglizinterdaftar>2020-10-08</tglizinterdaftar>
+    <no_lc>958010183153-Q</no_lc>
+    <tgl_lc>2021-03-29</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CN</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>76037.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 958010183153-Q, 29 Maret 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU </tempatperiksa>
+    <tglperiksa>2021-04-08</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>2855-JMB/FA-6/04/21</nopacklist>
+    <tglpacklist>2021-04-09</tglpacklist>
+    <noinvoice>2855-JMB/FA-6/04/21</noinvoice>
+    <tglinvoice>2021-04-09</tglinvoice>
+    <namaclient>QUEZON POWER (PHILIPPINES), LIMITED CO.</namaclient>
+    <alamatclient>BARANGAY CAGSIAY I, MAUBAN,QUEZON PROVINCE, PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-03-29</tglmuat>
+    <namavessel>MV YING HAO 03</namavessel>
+    <tglmuatvessel>2021-04-07</tglmuatvessel>
+    <noiupop>540/2542/IUP-OP/MB-PBAT/IX/2010</noiupop>
+    <tgliupop>2010-09-27</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010183153-Q, 29 Maret 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>32876.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUBBITUMINOUS STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHQUE </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4988445.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2231294.12</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10600.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUBBITUMINOUS STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHQUE </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4988445.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>719422.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>30024.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUBBITUMINOUS STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHQUE </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4988445.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2037728.88</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5489.00</cal_arb>
+      <cal_adb>5877.00</cal_adb>
+      <tm_arb>13.35</tm_arb>
+      <tash_adb>7.66</tash_adb>
+      <tsulf_adb>0.56</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>6647455DED8K2JBD</nobayarroyalti>
+      <tglbayarroyalti>2021-03-30</tglbayarroyalti>
+      <jmlVolume>32900.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>017748146091000</npwp>
+      <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>94554.60</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>723376U8E2DCSM30</nobayarroyalti>
+      <tglbayarroyalti>2021-03-30</tglbayarroyalti>
+      <jmlVolume>10600.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>020737235725000</npwp>
+      <nmpersh>KEMILAU RINDANG ABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>29424.42</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>5A06B55DED8IUUTL</nobayarroyalti>
+      <tglbayarroyalti>2021-03-29</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>19458.21</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>B251A1JNF2V1B733</nobayarroyalti>
+      <tglbayarroyalti>2021-03-29</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>19458.21</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>315CE48VUIM6I7J4</nobayarroyalti>
+      <tglbayarroyalti>2021-03-29</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>19458.21</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>0BE5F55DED8IV2P3</nobayarroyalti>
+      <tglbayarroyalti>2021-03-29</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>19458.21</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

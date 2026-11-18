@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>940167885067000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. ASAS EMPAT SAUDARA</namaPerusahaan>
+        <alamatPerusahaan>18 PARC PLACE TOWER D LANTAI 9  SCBD  JL JEND SUDIRMAN KAV 52 53  Kota Jakarta Selatan  Prop  DKI Ja</alamatPerusahaan>
+        <telepon>021-31182884</telepon>
+        <fax>081349442222</fax>
+        <emailPerusahaan>haryo_40@yahoo.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>PLM-23090025</no_ls>
+        <tgl_ls>2023-09-15</tgl_ls>
+        <tgl_ls_expired>2023-10-15</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0152</noizinterdaftar>
+        <tglizinterdaftar>2023-03-14</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-03-14</tglizinterdaftar_expired>
+        <no_lc>067/IX/PL/AES-FEC/2023</no_lc>
+        <tgl_lc>2023-08-16</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>BULK / CURAH</cargotype>
+        <bendera>BS</bendera>
+        <jeniskapal> BULK CARR</jeniskapal>
+        <kapkapal>73690.87</kapkapal>
+        <asuransi/>
+        <catatanperiksa>L/C NO. SGAX132-208407  16 AGUSTUS 2023</catatanperiksa>
+        <tempatperiksa>TANJUNG KAMPEH ANCHORAGE, SOUTH SUMATERA, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-09-15</tglperiksa>
+        <portperiksa>IDPLM</portperiksa>
+        <nopacklist>067/IX/INV/AES-FEC/2023</nopacklist>
+        <tglpacklist>2023-09-15</tglpacklist>
+        <noinvoice>067/IX/PL/AES-FEC/2023</noinvoice>
+        <tglinvoice>2023-09-15</tglinvoice>
+        <namaclient>FAR EAST COMMODITIES SA</namaclient>
+        <alamatclient>RUE DE LA CROIX-D'OR 17 A,
+1204 GENEVE SWITZERLAND</alamatclient>
+        <tglmuat>2023-08-16</tglmuat>
+        <namavessel>MV CALIPSO</namavessel>
+        <tglmuatvessel>2023-08-26</tglmuatvessel>
+        <noiupop>368/1/IUP/PMDN/2021</noiupop>
+        <tgliupop>2021-05-07</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>L/C NO. SGAX132-208407  16 AGUSTUS 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>1686.53</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>TW</kdNegaraTujuan>
+          <kdPortAsal>IDPLM</kdPortAsal>
+          <kdPortBongkar>TWTXG</kdPortBongkar>
+          <kdPortMuat>IDPLM</kdPortMuat>
+          <value_currency>5073600.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>122239.00</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>52634.81</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>TW</kdNegaraTujuan>
+          <kdPortAsal>IDPLM</kdPortAsal>
+          <kdPortBongkar>TWTXG</kdPortBongkar>
+          <kdPortMuat>IDPLM</kdPortMuat>
+          <value_currency>5073600.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>3814972.00</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>3</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>8141.53</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>TW</kdNegaraTujuan>
+          <kdPortAsal>IDPLM</kdPortAsal>
+          <kdPortBongkar>TWTXG</kdPortBongkar>
+          <kdPortMuat>IDPLM</kdPortMuat>
+          <value_currency>5073600.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>590098.00</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>4</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>7537.13</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>TW</kdNegaraTujuan>
+          <kdPortAsal>IDPLM</kdPortAsal>
+          <kdPortBongkar>TWTXG</kdPortBongkar>
+          <kdPortMuat>IDPLM</kdPortMuat>
+          <value_currency>5073600.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>546291.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4932.00</cal_arb>
+          <cal_adb>5743.00</cal_adb>
+          <tm_arb>27.00</tm_arb>
+          <tash_adb>7.00</tash_adb>
+          <tsulf_adb>0.30</tsulf_adb>
+          <klasifikasibb>&gt; 4200-5200</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>475C28N3EAKI3TKD</nobayarroyalti>
+          <tglbayarroyalti>2023-08-14</tglbayarroyalti>
+          <npwp>027799576309001</npwp>
+          <nmpersh>BANJARSARI PRIBUMI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>35544.28</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>518E50N9VRF7OO4G</nobayarroyalti>
+          <tglbayarroyalti>2023-08-21</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>8300.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>62627.32</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>7084B0N9VRFE29A8</nobayarroyalti>
+          <tglbayarroyalti>2023-08-24</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>52370.64</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>5C39E7QLUG2IJP9G</nobayarroyalti>
+          <tglbayarroyalti>2023-08-25</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>5100.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>37966.57</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>F57900N9VRFJFF34</nobayarroyalti>
+          <tglbayarroyalti>2023-08-29</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>8200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>61220.35</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>649656U8ELIJONOH</nobayarroyalti>
+          <tglbayarroyalti>2023-09-06</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>8750.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>65446.23</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>4764C7QLUG4U09O6</nobayarroyalti>
+          <tglbayarroyalti>2023-09-04</tglbayarroyalti>
+          <npwp>202850978308000</npwp>
+          <nmpersh>BATU BARA LAHAT</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>48640.23</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>336F548VV5RFKOVG</nobayarroyalti>
+          <tglbayarroyalti>2023-09-08</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>8500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>63772.13</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>DB0646U8ELILUCMP</nobayarroyalti>
+          <tglbayarroyalti>2023-09-09</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>7100.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>53362.50</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

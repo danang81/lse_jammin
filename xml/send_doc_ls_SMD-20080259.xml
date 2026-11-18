@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>026717330012000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. GUNUNG BARA UTAMA</namaPerusahaan>
+    <alamatPerusahaan>THE MANHATTAN SQUARE MID TOWER LT 12 UNIT CSUITE S 02  JL  TB SIMATUPANG KAV 1 S  DKI JAKARTA  INDONESIA</alamatPerusahaan>
+    <telepon>021-29950155</telepon>
+    <fax>021-29950150</fax>
+    <emailPerusahaan>021-29950150</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20080259</no_ls>
+    <tgl_ls>2020-08-16</tgl_ls>
+    <tgl_ls_expired>2020-09-16</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0018</no_izin>
+    <tgl_izin>2018-02-01</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0018</noizinterdaftar>
+    <tglizinterdaftar>2018-02-01</tglizinterdaftar>
+    <no_lc>SGAX131-205576</no_lc>
+    <tgl_lc>2020-08-04</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CN</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>78239.00</kapkapal>
+    <asuransi>THE WEST OF ENGLAND SHIP OWNERS MUTUAL INSURANCE ASSOCIATION</asuransi>
+    <catatanperiksa>NO LC. SGAX131-205576, 04 AGUSTUS 2020</catatanperiksa>
+    <tempatperiksa>SAMARINDA, KALIMANTAN TIMUR, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-08-15</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>146/GBU-PL/VIII/2020</nopacklist>
+    <tglpacklist>2020-08-16</tglpacklist>
+    <noinvoice>146/GBU-INV/VIII/2020</noinvoice>
+    <tglinvoice>2020-08-16</tglinvoice>
+    <namaclient>(1) YANKUANG (HAINAN) INTELLIGENT LOGISTICS TECHNOLOGY CO., LTD. (2) LUFENG BAOLIHUA NEW ENERGY ELECTRIC POWER CO., LTD.</namaclient>
+    <alamatclient>(1) ROOM 6, LEVEL 2, NO.66, GUILINYANG BOULEVARD, GUILINYANG ECONOMIC DEVELOPMENT ZONE, MEILAN DISTRICT, HAIKOU, HAINAN, PROVINCE, P.R.CHINA
+
+(2) JIAHU BAY ENERGY BASE, HUDONG TOWN, LUFENG CITY</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-08-04</tglmuat>
+    <namavessel>MV CHANG YANG JIN AN</namavessel>
+    <tglmuatvessel>2020-08-12</tglmuatvessel>
+    <noiupop>545/K.875a/2009</noiupop>
+    <tgliupop>2009-11-03</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. SGAX131-205576, 04 AGUSTUS 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>41700.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNSAW </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1854816.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1854816.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5300.00</cal_arb>
+      <cal_adb>5900.00</cal_adb>
+      <tm_arb>23.00</tm_arb>
+      <tash_adb>9.00</tash_adb>
+      <tsulf_adb>0.08</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>4810.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>14430.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>14430.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>14430.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>14430.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>14430.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027953702081000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. SUMBER GLOBAL ENERGY TBK</namaPerusahaan>
+    <alamatPerusahaan>GRAHA BIP 2ND FLOOR  JL  GATOT SUBROTO KAV 23  KARET SEMANGGI  SETIABUDI  JAKARTA 12930 INDONESIA</alamatPerusahaan>
+    <telepon>021-2500120</telepon>
+    <fax>021-2500243</fax>
+    <emailPerusahaan>021-2500243</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21060285</no_ls>
+    <tgl_ls>2021-06-04</tgl_ls>
+    <tgl_ls_expired>2021-07-04</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0064</no_izin>
+    <tgl_izin>2020-06-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0064</noizinterdaftar>
+    <tglizinterdaftar>2020-06-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>77195.00</kapkapal>
+    <asuransi>THE AMERICAN CLUB</asuransi>
+    <catatanperiksa>NO LC. LI21B10845, 26 MEI 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE , EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-05-26</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>PL/SGE-SMD/VI/2021-020</nopacklist>
+    <tglpacklist>2021-06-04</tglpacklist>
+    <noinvoice>INV/SGE-SMD/VI/2021-020</noinvoice>
+    <tglinvoice>2021-06-04</tglinvoice>
+    <namaclient>HTK SHIPPING AND IMPORT EXPORT COMPANY LIMITED</namaclient>
+    <alamatclient>ADDRESS: NO. 341 DA NANG, VAN MY WARD. NGO QUYEN DISTRICT, HAI PHONG CITY, VIETNAM</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. NEW PIONEER</namavessel>
+    <tglmuatvessel>2021-05-26</tglmuatvessel>
+    <noiupop>22/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-06-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. LI21B10845, 26 MEI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>3866.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNBTN</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>2543407.43</value_currency>
+      <currency>USD</currency>
+      <value_fob>277849.42</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>15078.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNBTN</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>2543407.43</value_currency>
+      <currency>USD</currency>
+      <value_fob>1083655.86</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>8100.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNBTN</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>2543407.43</value_currency>
+      <currency>USD</currency>
+      <value_fob>582147.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>8345.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNBTN</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>2543407.43</value_currency>
+      <currency>USD</currency>
+      <value_fob>599755.15</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4454.00</cal_arb>
+      <cal_adb>4900.00</cal_adb>
+      <tm_arb>30.00</tm_arb>
+      <tash_adb>14.00</tash_adb>
+      <tsulf_adb>0.85</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>B8BD18N3DNNSMP4J</nobayarroyalti>
+      <tglbayarroyalti>2021-05-24</tglbayarroyalti>
+      <jmlVolume>3865.6900</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027562420728000</npwp>
+      <nmpersh>BELAYAN INTERNASIONAL COAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54225812.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>2A92F1JNF34TGK25</nobayarroyalti>
+      <tglbayarroyalti>2021-05-27</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022919666727001</npwp>
+      <nmpersh>TUBINDO</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>91805400.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>1D53A48VUIRPB3QI</nobayarroyalti>
+      <tglbayarroyalti>2021-05-18</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022919666727001</npwp>
+      <nmpersh>TUBINDO</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>90757125.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>39AB53CIEO9K6H0H</nobayarroyalti>
+      <tglbayarroyalti>2021-05-24</tglbayarroyalti>
+      <jmlVolume>8100.5200</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022371843732000</npwp>
+      <nmpersh>LESTARI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>110935892.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>9F7100N9UVTDJTPM</nobayarroyalti>
+      <tglbayarroyalti>2020-12-30</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>024675811728001</npwp>
+      <nmpersh>JAYA PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>160603385.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>D751E7QLTKGGRNHU</nobayarroyalti>
+      <tglbayarroyalti>2020-12-30</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>024675811728001</npwp>
+      <nmpersh>JAYA PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>160727528.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

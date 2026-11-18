@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>806853016028000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. SUMBER DAYA ALAM MULIA </namaPerusahaan>
+        <alamatPerusahaan>GENERALI TOWER GRAN RUBINA BUSINESS PARK UNIT H  16 TH FLOOR  KAW  RASUNA EPICENTRUM JL  HR  RASUNA </alamatPerusahaan>
+        <telepon>081282522299</telepon>
+        <fax/>
+        <emailPerusahaan/>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>PLM-23070016</no_ls>
+        <tgl_ls>2023-07-12</tgl_ls>
+        <tgl_ls_expired>2023-08-12</tgl_ls_expired>
+        <no_izin>03.ET-04.23.0191</no_izin>
+        <tgl_izin>2023-03-31</tgl_izin>
+        <tgl_izin_expired>2023-08-12</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.23.0191</noizinterdaftar>
+        <tglizinterdaftar>2023-03-31</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-08-12</tglizinterdaftar_expired>
+        <no_lc>DC 0CB218058</no_lc>
+        <tgl_lc>2023-07-11</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>BULK / CURAH</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>56795.00</kapkapal>
+        <asuransi>NORTH</asuransi>
+        <catatanperiksa>L/C NO, DC 0CB218058 11 JULY 2023</catatanperiksa>
+        <tempatperiksa>TANJUNG BUYUT ANCHORAGE, SOUTH SUMATERA, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-07-11</tglperiksa>
+        <portperiksa>IDPLM</portperiksa>
+        <nopacklist>PL-SDAM/05/VII/2023</nopacklist>
+        <tglpacklist>2023-07-11</tglpacklist>
+        <noinvoice>CI-SDAM/05/VII-2023</noinvoice>
+        <tglinvoice>2023-07-11</tglinvoice>
+        <namaclient>GANDHAR COALS AND MINES PVT. LTD.</namaclient>
+        <alamatclient>18TH FLOOR, DLH PARK, NEAR MTNL, GOREGAON-WEST,
+MUMBAI&#xA0;400&#xA0;062&#xA0;INDIA</alamatclient>
+        <tglmuat>2023-07-11</tglmuat>
+        <namavessel>MV.  ATHOS</namavessel>
+        <tglmuatvessel>2023-07-02</tglmuatvessel>
+        <noiupop>43/1/IUP/PMA/2018</noiupop>
+        <tgliupop>2018-06-23</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>L/C NO, DC 0CB218058 11 JULY 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>5251.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM NON COKING COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDPLM</kdPortAsal>
+          <kdPortBongkar>INDMT</kdPortBongkar>
+          <kdPortMuat>IDPLM</kdPortMuat>
+          <value_currency>156847.37</value_currency>
+          <currency>USD</currency>
+          <value_fob>156847.37</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3400.00</cal_arb>
+          <cal_adb>5069.00</cal_adb>
+          <tm_arb>45.00</tm_arb>
+          <tash_adb>8.00</tash_adb>
+          <tsulf_adb>0.40</tsulf_adb>
+          <klasifikasibb>3400</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>3291F61QUQQ77RFM</nobayarroyalti>
+          <tglbayarroyalti>2023-07-04</tglbayarroyalti>
+          <npwp>026225540021000</npwp>
+          <nmpersh> PUTRA MUBA COAL</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>170482000.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

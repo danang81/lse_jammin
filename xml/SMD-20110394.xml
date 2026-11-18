@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024335739063000</npwp>
+    <no_izin>03.ET-04.20.0144</no_izin>
+    <tgl_izin>2020-07-21</tgl_izin>
+  </header>
+  <detailBarang>
+    <loop>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>60500.000</jmlVolume>
+      <satuan>TNE</satuan>
+    </loop>
+  </detailBarang>
+</LSE_Document>

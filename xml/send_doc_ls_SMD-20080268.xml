@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017748146091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT.  JEMBAYAN MUARABARA</namaPerusahaan>
+    <alamatPerusahaan>RUKO MAHAKAM SQUARE BLOK B NO  17 19 JL  UNTUNG SUROPATI  KARANG ASAM ULU SUNGAI KUNJANG SAMARINDA   75126</alamatPerusahaan>
+    <telepon>0541-7771100</telepon>
+    <fax>7771100/0541-271</fax>
+    <emailPerusahaan>7771100/0541-271</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20080268</no_ls>
+    <tgl_ls>2020-08-20</tgl_ls>
+    <tgl_ls_expired>2020-09-20</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0135</no_izin>
+    <tgl_izin>2017-10-09</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0135</noizinterdaftar>
+    <tglizinterdaftar>2017-10-09</tglizinterdaftar>
+    <no_lc>958010149487-Q</no_lc>
+    <tgl_lc>2020-08-11</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER </jeniskapal>
+    <kapkapal>34443.00</kapkapal>
+    <asuransi>THE SWEDISH CLUB</asuransi>
+    <catatanperiksa>LC NO. 958010149487-Q, 11 AGUSTUS 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU</tempatperiksa>
+    <tglperiksa>2020-08-19</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>2736-JMB/FA-6/08/20</nopacklist>
+    <tglpacklist>2020-08-20</tglpacklist>
+    <noinvoice>2736-JMB/FA-6/08/20</noinvoice>
+    <tglinvoice>2020-08-20</tglinvoice>
+    <namaclient>NEW ZEALAND STEEL LIMITED</namaclient>
+    <alamatclient>131 MISSION BUSH ROAD GLENBROOK, SOUTH AUCKLAND, NEW ZEALAND</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-08-11</tglmuat>
+    <namavessel>MV XING ZHI HAI</namavessel>
+    <tglmuatvessel>2020-08-18</tglmuatvessel>
+    <noiupop>540/2542/IUP-OP/MB-PBAT/IX/2010</noiupop>
+    <tgliupop>2010-09-27</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO. 958010149487-Q, 11 AGUSTUS 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>33000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>NON-COKING THERMAL COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>NZ</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>NZAKL</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1508430.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1508430.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5318.00</cal_arb>
+      <cal_adb>5678.00</cal_adb>
+      <tm_arb>20.35</tm_arb>
+      <tash_adb>5.88</tash_adb>
+      <tsulf_adb>0.20</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>017748146091000</npwp>
+      <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>61396.50</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

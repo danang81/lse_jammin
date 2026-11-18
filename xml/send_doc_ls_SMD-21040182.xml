@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027953702081000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. SUMBER GLOBAL ENERGY TBK</namaPerusahaan>
+    <alamatPerusahaan>GRAHA BIP LANTAI 2  JALAN GATOT SUBROTO KAVELING 23  RT 002  RW 002  KEL  KARET SEMANGGI  KEC  SETIABUDI  JAKARTA SELATAN</alamatPerusahaan>
+    <telepon>021-2500120</telepon>
+    <fax>021-2500243</fax>
+    <emailPerusahaan>021-2500243</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040182</no_ls>
+    <tgl_ls>2021-04-16</tgl_ls>
+    <tgl_ls_expired>2021-05-16</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0064</no_izin>
+    <tgl_izin>2020-06-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0064</noizinterdaftar>
+    <tglizinterdaftar>2020-06-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>ID</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>53432.10</kapkapal>
+    <asuransi>SHIPOWENRS</asuransi>
+    <catatanperiksa>NO LC. LC700121000026, 02 APRIL 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE , EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-12</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>PL.SGE-IV-2021-013</nopacklist>
+    <tglpacklist>2021-04-16</tglpacklist>
+    <noinvoice>INV.SGE-IV-2021-013</noinvoice>
+    <tglinvoice>2021-04-16</tglinvoice>
+    <namaclient/>
+    <alamatclient>FLOOR 4, B7, WUHAN SOFTWARE NEW CITY, NO. 8 HUACHENG
+AVE., DONGHU HIGH TECH ZONE, WUHAN, P.R. CHINA, 430064</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. MBS BUYAN</namavessel>
+    <tglmuatvessel>2021-04-12</tglmuatvessel>
+    <noiupop>22/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-06-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. LC700121000026, 02 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5025.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNSGH </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>291450.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>291450.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4454.00</cal_arb>
+      <cal_adb>4900.00</cal_adb>
+      <tm_arb>30.00</tm_arb>
+      <tash_adb>14.00</tash_adb>
+      <tsulf_adb>0.85</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>7C1772G4UKUVILE6</nobayarroyalti>
+      <tglbayarroyalti>2021-02-21</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>014604326721000</npwp>
+      <nmpersh>BRIAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>63000000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

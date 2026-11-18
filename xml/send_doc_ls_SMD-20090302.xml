@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20090302</no_ls>
+    <tgl_ls>2020-09-12</tgl_ls>
+    <tgl_ls_expired>2020-10-12</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>154010012036-G</no_lc>
+    <tgl_lc>2020-09-08</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>75345.00</kapkapal>
+    <asuransi>STEAMSHIP MUTUAL</asuransi>
+    <catatanperiksa>LC NO. 154010012036-G, 08 SEPTEMBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-09-11</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1027/BT/TLI/IX/2020</nopacklist>
+    <tglpacklist>2020-09-12</tglpacklist>
+    <noinvoice>1027/BT/TLI/IX/2020</noinvoice>
+    <tglinvoice>2020-09-12</tglinvoice>
+    <namaclient>THERMA LUZON, INC</namaclient>
+    <alamatclient>14TH FLOOR, NAC TOWER, 32ND STREET BONIFACIO GLOBAL CITY, 
+FORT BONIFACIO, TAGUIG CITY, PHILIPPINES
+TIN# 266-567-164-000
+BUSINESS STYLE: THERMA LUZON, INC.</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-09-08</tglmuat>
+    <namavessel>MV PATRICIA V</namavessel>
+    <tglmuatvessel>2020-09-12</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO. 154010012036-G, 08 SEPTEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>47500.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIA STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHPGB</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>3871250.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1935625.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4537.00</cal_arb>
+      <cal_adb>5713.00</cal_adb>
+      <tm_arb>30.59</tm_arb>
+      <tash_adb>3.79</tash_adb>
+      <tsulf_adb>0.15</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>17013.36</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

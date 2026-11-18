@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>025668500725000</npwp>
+        <refnumber>6508887481</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. GLOBALINDO INTI ENERGI</namaPerusahaan>
+        <alamatPerusahaan>JL IR SOEKARNO NO 24 RT 015  KEL  MUARA JAWA ULU  KEC  MUARA JAWA  KAB KUTAI KARTANEGARA  KALIMANTAN</alamatPerusahaan>
+        <telepon>+62213900777</telepon>
+        <fax>+62213900077</fax>
+        <emailPerusahaan>haspar.junior@yahoo.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22020050</no_ls>
+        <tgl_ls>2022-02-28</tgl_ls>
+        <tgl_ls_expired>2022-03-28</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0066</no_izin>
+        <tgl_izin>2021-03-22</tgl_izin>
+        <tgl_izin_expired>2022-03-28</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0066</noizinterdaftar>
+        <tglizinterdaftar>2021-03-22</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-03-28</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>56620.00</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : LC5TF22004261, 15 FEBRUARI 2022</catatanperiksa>
+        <tempatperiksa>JETTY PT. GLOBALINDO / KUTAI KARTANEGARA</tempatperiksa>
+        <tglperiksa>2022-02-24</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>002A/INV-GIE/II/2022</nopacklist>
+        <tglpacklist>2022-02-28</tglpacklist>
+        <noinvoice>002A/INV-GIE/II/2022</noinvoice>
+        <tglinvoice>2022-02-28</tglinvoice>
+        <namaclient>AGARWAL COAL CORPORATION PVT. LTD</namaclient>
+        <alamatclient>AGARWAL HOUSE, 5, YESHWANT, COLONY, INDORE - 452003 (M.P.), INDIA</alamatclient>
+        <namavessel>MV. GREENER</namavessel>
+        <tglmuatvessel>2022-02-20</tglmuatvessel>
+        <noiupop>503/87/IUP-OP/DPMPSTSP/I/2019</noiupop>
+        <tgliupop>2019-01-17</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>NO LC : LC5TF22004261, 15 FEBRUARI 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>25000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>INRVD</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>2108000.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>2108000.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4523.00</cal_arb>
+          <cal_adb>5407.00</cal_adb>
+          <tm_arb>28.04</tm_arb>
+          <tash_adb>5.08</tash_adb>
+          <tsulf_adb>0.26</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>B7C7C3CIF1AIP53L</nobayarroyalti>
+          <tglbayarroyalti>2022-02-19</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>233527632.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>4978C6U8EBJNMFBP</nobayarroyalti>
+          <tglbayarroyalti>2022-02-06</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>196827696.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>3A7BD61QUH1HKSF0</nobayarroyalti>
+          <tglbayarroyalti>2022-02-13</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>196312116.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>4E0E67QLU6668HVG</nobayarroyalti>
+          <tglbayarroyalti>2022-02-09</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>197148276.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>5</idseriAsal>
+          <idposTarif>5</idposTarif>
+          <nobayarroyalti>521983CIF1AAE9Q5</nobayarroyalti>
+          <tglbayarroyalti>2022-02-11</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>196312116.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>6</idseriAsal>
+          <idposTarif>6</idposTarif>
+          <nobayarroyalti>B36157QLU667DAOM</nobayarroyalti>
+          <tglbayarroyalti>2022-02-10</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>196618656.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>7</idseriAsal>
+          <idposTarif>7</idposTarif>
+          <nobayarroyalti>7693655DEMF79FEP</nobayarroyalti>
+          <tglbayarroyalti>2022-02-15</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>196521156.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>8</idseriAsal>
+          <idposTarif>8</idposTarif>
+          <nobayarroyalti>D8DBA3CIF1AIOCIB</nobayarroyalti>
+          <tglbayarroyalti>2022-02-19</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>233527632.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>9</idseriAsal>
+          <idposTarif>9</idposTarif>
+          <nobayarroyalti>40C2261QUH1LS8SG</nobayarroyalti>
+          <tglbayarroyalti>2022-02-17</tglbayarroyalti>
+          <npwp>025668500725000</npwp>
+          <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>4900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>219914352.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

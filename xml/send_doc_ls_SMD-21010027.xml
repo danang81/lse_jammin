@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>821897170031000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BULK COMMUDITIES INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>GD GRAND SLIPI TOWER LEVEL 9 UNIT G JL  LETJEND S PARMAN KAV 22 24  JAKARTA BARAT</alamatPerusahaan>
+    <telepon>811889590</telepon>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21010027</no_ls>
+    <tgl_ls>2021-01-29</tgl_ls>
+    <tgl_ls_expired>2021-03-01</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0209</no_izin>
+    <tgl_izin>2018-10-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0209</noizinterdaftar>
+    <tglizinterdaftar>2018-10-16</tglizinterdaftar>
+    <no_lc>M88RW2012NS00534</no_lc>
+    <tgl_lc>2020-12-29</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>76634.00</kapkapal>
+    <asuransi>THE STANDARD CLUB ASIA LTD</asuransi>
+    <catatanperiksa>NO LC. M88RW2012NS00534, 29 DESEMBER 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-01-21</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>04/BCI/01/2021</nopacklist>
+    <tglpacklist>2021-01-29</tglpacklist>
+    <noinvoice>04/BCI/01/2021</noinvoice>
+    <tglinvoice>2021-01-29</tglinvoice>
+    <namaclient>STX CORPORATION</namaclient>
+    <alamatclient>SIGNATURE TOWERS, WEST WING 13th FLOOR,
+100 CHEONGGYECHEON-RO, JUNG-GU, SEOUL, 04542, SOUTH KOREA.</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-12-29</tglmuat>
+    <namavessel>MV. DOOYANG JEJU</namavessel>
+    <tglmuatvessel>2021-01-20</tglmuatvessel>
+    <noiupop>59/1/IUP/PMA/2018</noiupop>
+    <tgliupop>2018-08-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. M88RW2012NS00534, 29 DESEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>25456.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUB - BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRBOR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4865440.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>823501.60</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5330.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUB - BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRBOR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4865440.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>172425.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5256.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUB - BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRBOR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4865440.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>170031.60</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>21464.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUB - BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRBOR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4865440.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>694360.40</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>12230.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUB - BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRBOR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4865440.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>395640.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5464.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUB - BITUMINOUS COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRBOR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>4865440.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>176760.40</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4966.00</cal_arb>
+      <cal_adb>5098.00</cal_adb>
+      <tm_arb>22.02</tm_arb>
+      <tash_adb>7.30</tash_adb>
+      <tsulf_adb>0.60</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>A66F00N9UVTFLR5C</nobayarroyalti>
+      <tglbayarroyalti>2020-12-30</tglbayarroyalti>
+      <jmlVolume>5250.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026620799728000</npwp>
+      <nmpersh>KOPERASI JASA MANDIRI SEJAHTERA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>52680756.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>0337148VUA71AJAK</nobayarroyalti>
+      <tglbayarroyalti>2020-12-30</tglbayarroyalti>
+      <jmlVolume>5340.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026620799728000</npwp>
+      <nmpersh>KOPERASI JASA MANDIRI SEJAHTERA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>53743791.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>C16908N3DF2T8I71</nobayarroyalti>
+      <tglbayarroyalti>2020-12-28</tglbayarroyalti>
+      <jmlVolume>7510.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026620799728000</npwp>
+      <nmpersh>KOPERASI JASA MANDIRI SEJAHTERA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>78491493.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>256537QLTKGFQFOC</nobayarroyalti>
+      <tglbayarroyalti>2020-12-28</tglbayarroyalti>
+      <jmlVolume>7356.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026620799728000</npwp>
+      <nmpersh>KOPERASI JASA MANDIRI SEJAHTERA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>76653039.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>0BF9E3CIEFKLTGO7</nobayarroyalti>
+      <tglbayarroyalti>2021-01-04</tglbayarroyalti>
+      <jmlVolume>5300.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>020104923725000</npwp>
+      <nmpersh>SINAR KUMALA NAGA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>41340000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>0554F8N3DF2VCGU9</nobayarroyalti>
+      <tglbayarroyalti>2020-12-30</tglbayarroyalti>
+      <jmlVolume>5200.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021953351725000</npwp>
+      <nmpersh>RAJA KUTAI BARU MAKMUR </nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>39000000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>7</idseriAsal>
+      <idposTarif>7</idposTarif>
+      <nobayarroyalti>FB9BC61QTV8OELA2</nobayarroyalti>
+      <tglbayarroyalti>2020-12-03</tglbayarroyalti>
+      <jmlVolume>7600.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021916762091000</npwp>
+      <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54720000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>8</idseriAsal>
+      <idposTarif>8</idposTarif>
+      <nobayarroyalti>FDF7E6U8DPR4RLRT</nobayarroyalti>
+      <tglbayarroyalti>2020-12-03</tglbayarroyalti>
+      <jmlVolume>7600.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021916762091000</npwp>
+      <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54720000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>9</idseriAsal>
+      <idposTarif>9</idposTarif>
+      <nobayarroyalti>4B95F55DE4MC1LIP</nobayarroyalti>
+      <tglbayarroyalti>2020-12-03</tglbayarroyalti>
+      <jmlVolume>7600.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021916762091000</npwp>
+      <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54720000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>10</idseriAsal>
+      <idposTarif>10</idposTarif>
+      <nobayarroyalti>C65EE3CIEFKLTRNF</nobayarroyalti>
+      <tglbayarroyalti>2020-12-31</tglbayarroyalti>
+      <jmlVolume>5008.4000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>028284065722000</npwp>
+      <nmpersh>BISMILLAH RES KALTIM</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>136036323.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>11</idseriAsal>
+      <idposTarif>11</idposTarif>
+      <nobayarroyalti>0F8481JNEQFT3RP9</nobayarroyalti>
+      <tglbayarroyalti>2020-12-31</tglbayarroyalti>
+      <jmlVolume>7479.1300</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>028284065722000</npwp>
+      <nmpersh>BISMILLAH RES KALTIM</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>203145385.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>12</idseriAsal>
+      <idposTarif>12</idposTarif>
+      <nobayarroyalti>5DEE661QTVBR4FDG</nobayarroyalti>
+      <tglbayarroyalti>2020-12-31</tglbayarroyalti>
+      <jmlVolume>5464.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>024352338725000</npwp>
+      <nmpersh>TRANSISI ENERGY SATUNAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>148624533.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

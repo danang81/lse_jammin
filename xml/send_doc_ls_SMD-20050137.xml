@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20050137</no_ls>
+    <tgl_ls>2020-05-18</tgl_ls>
+    <tgl_ls_expired>2020-06-18</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0098</no_izin>
+    <tgl_izin>2019-10-18</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0098</noizinterdaftar>
+    <tglizinterdaftar>2019-10-18</tglizinterdaftar>
+    <no_lc>739101LC20000110</no_lc>
+    <tgl_lc>2020-05-08</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH/BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>53383.00</kapkapal>
+    <asuransi>PT SOMPO INSURANCE INDONESIA</asuransi>
+    <catatanperiksa>NO LC. 739101LC20000110, 08 MAY 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-05-18</tglperiksa>
+    <portperiksa>IDBPP</portperiksa>
+    <nopacklist>929/BT/ZJSCM/V/2020</nopacklist>
+    <tglpacklist>2020-05-18</tglpacklist>
+    <noinvoice>929/BT/ZJSCM/V/2020</noinvoice>
+    <tglinvoice>2020-05-18</tglinvoice>
+    <namaclient>ZHENGZHOU JIARUI SUPPLY CHAIN MANAGEMENT CO., LTD.</namaclient>
+    <alamatclient>4F, BUILDING 2, XINGRUIHUIJIN,
+THE INTERSECTION OF XINGANG ST AND SHUNYING RD,
+HANGKONGGANG DIST, ZHENGZHOU, HENAN CHINA.</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-05-08</tglmuat>
+    <namavessel>MV GEORGIANA</namavessel>
+    <tglmuatvessel>2020-05-18</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 739101LC20000110, 08 MAY 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>43350.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>CNTZO</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>2340900.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1170450.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5439.00</cal_adb>
+      <tm_arb>35.55</tm_arb>
+      <tash_adb>3.71</tash_adb>
+      <tsulf_adb>0.09</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>25490.40</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

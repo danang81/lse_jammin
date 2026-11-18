@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021321666728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ARINI</namaPerusahaan>
+    <alamatPerusahaan>JL  BHAYANGKARA  NO 09  RT 012  KEL  SUNGAI MERIAM  KEC  ANGGANA  KAB  KUTAI KARTANEGARA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0291596850</telepon>
+    <fax>0291596850</fax>
+    <emailPerusahaan>0291596850</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040214</no_ls>
+    <tgl_ls>2021-05-05</tgl_ls>
+    <tgl_ls_expired>2021-06-05</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0230</no_izin>
+    <tgl_izin>2020-11-18</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0230</noizinterdaftar>
+    <tglizinterdaftar>2020-11-18</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>77031.00</kapkapal>
+    <asuransi>SKULD</asuransi>
+    <catatanperiksa>NO LC. 958010186436-L, 20 APRIL 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-23</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist> 007/PL/ARINI-GEC/V/2021</nopacklist>
+    <tglpacklist>2021-05-05</tglpacklist>
+    <noinvoice>007/INV/ARINI-GEC/V/2021</noinvoice>
+    <tglinvoice>2021-05-05</tglinvoice>
+    <namaclient>RELIANCE INDUSTRIES LIMITED</namaclient>
+    <alamatclient>RELIANCE CORPORATE PARK, BUILDING NO. 6, 1ST FLOOR,"C" WING,
+THANE-BELAPUR ROAD, GHANSOLI, NAVI MUMBAI-400 701, INDIA</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. OMICRON SKY</namavessel>
+    <tglmuatvessel>2021-04-23</tglmuatvessel>
+    <noiupop>540/009/IUP-OP/MB-PBAT/III/2013</noiupop>
+    <tgliupop>2013-03-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010186436-L, 20 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>7143.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INHZR </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>732157.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>366078.75</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4826.00</cal_arb>
+      <cal_adb>4065.00</cal_adb>
+      <tm_arb>28.41</tm_arb>
+      <tash_adb>10.54</tash_adb>
+      <tsulf_adb>0.71</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>B42336U8E2G2BAVV</nobayarroyalti>
+      <tglbayarroyalti>2021-04-19</tglbayarroyalti>
+      <jmlVolume>7480.4100</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021321666728000</npwp>
+      <nmpersh>ARINI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>127187034.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

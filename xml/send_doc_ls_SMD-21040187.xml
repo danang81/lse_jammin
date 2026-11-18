@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021321666728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ARINI</namaPerusahaan>
+    <alamatPerusahaan>JL  BHAYANGKARA  NO 09  RT 012  KEL  SUNGAI MERIAM  KEC  ANGGANA  KAB  KUTAI KARTANEGARA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0291596850</telepon>
+    <fax>0291596850</fax>
+    <emailPerusahaan>0291596850</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040187</no_ls>
+    <tgl_ls>2021-04-18</tgl_ls>
+    <tgl_ls_expired>2021-05-18</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0230</no_izin>
+    <tgl_izin>2020-11-18</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0230</noizinterdaftar>
+    <tglizinterdaftar>2020-11-18</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>60225.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 40LI-J01109-PIU9, 01 APRIL 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE ,&#13;
+EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-10</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>006/PL/ARINI-GEC/IV/2021-B</nopacklist>
+    <tglpacklist>2021-04-18</tglpacklist>
+    <noinvoice>006/INV/ARINI-GEC/IV/2021-B</noinvoice>
+    <tglinvoice>2021-04-18</tglinvoice>
+    <namaclient>GHECO-ONE COMPANY LIMITED</namaclient>
+    <alamatclient>38TH FLOOR, EMPIRE TOWER-PARK WING, NO. 1 SOUTH SATHORN ROAD YANNAWA, SATHORN BANGKOK 10120, THAILAND</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. COREFORTUNE OL</namavessel>
+    <tglmuatvessel>2021-04-10</tglmuatvessel>
+    <noiupop>540/009/IUP-OP/MB-PBAT/III/2013</noiupop>
+    <tgliupop>2013-03-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 40LI-J01109-PIU9, 01 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>7548.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>TH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>THMTP </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>822732.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>411366.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4784.00</cal_arb>
+      <cal_adb>4040.00</cal_adb>
+      <tm_arb>28.22</tm_arb>
+      <tash_adb>10.17</tash_adb>
+      <tsulf_adb>0.76</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>C20C848VUIOFHNLG</nobayarroyalti>
+      <tglbayarroyalti>2021-04-05</tglbayarroyalti>
+      <jmlVolume>7548.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021321666728000</npwp>
+      <nmpersh>ARINI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>117748800.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

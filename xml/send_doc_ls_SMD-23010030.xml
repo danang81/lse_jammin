@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>021958582728000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. GHANI RAYA MANDIRI</namaPerusahaan>
+        <alamatPerusahaan>JL  SUTA KANAN RT  XII  KEL  LIANG  KEC  KOTA BANGUN  KAB  KUTAI  KARTANEGARA  KALIMANTAN TIMUR</alamatPerusahaan>
+        <telepon>0000</telepon>
+        <fax>0000</fax>
+        <emailPerusahaan>grmshipping22@gmail.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23010030</no_ls>
+        <tgl_ls>2023-01-22</tgl_ls>
+        <tgl_ls_expired>2023-02-22</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0202</no_izin>
+        <tgl_izin>2021-08-10</tgl_izin>
+        <tgl_izin_expired>2023-02-22</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0202</noizinterdaftar>
+        <tglizinterdaftar>2021-08-10</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-02-22</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>LK</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>63323.90</kapkapal>
+        <asuransi>STEAMSHIP MUTUAL UNDERWRITING</asuransi>
+        <catatanperiksa>NO LC : MI70623000008, 12 JANUARI 2023</catatanperiksa>
+        <tempatperiksa>MUARA JAWA ANCHORAGE</tempatperiksa>
+        <tglperiksa>2023-01-20</tglperiksa>
+        <portperiksa>IDMUD</portperiksa>
+        <nopacklist>01A/PL/GRM-QUATIM/I/2023</nopacklist>
+        <tglpacklist>2023-01-22</tglpacklist>
+        <noinvoice>01A/INV/GRM-QUATIM/I/2023</noinvoice>
+        <tglinvoice>2023-01-22</tglinvoice>
+        <namaclient>ADANI ENTERPRISES LIMITED</namaclient>
+        <alamatclient>ADANI CORPORATE HOUSE, SHANTIGRAM,NR. VAISHO DEVI CIRCLE, S.G. HIGHWAY, KHODIYAR, AHMEDABAD, GANDHIN</alamatclient>
+        <namavessel>MV. CEYLON BREEZE</namavessel>
+        <tglmuatvessel>2023-01-17</tglmuatvessel>
+        <noiupop>503/3664/IUP-OP/DPMPTSP/VI/2020</noiupop>
+        <tgliupop>2020-06-15</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : MI70623000008, 12 JANUARI 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>30000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDMUD</kdPortAsal>
+          <kdPortBongkar>INHZR</kdPortBongkar>
+          <kdPortMuat>IDMUD</kdPortMuat>
+          <value_currency>2120700.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>2120700.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3705.00</cal_arb>
+          <cal_adb>5024.00</cal_adb>
+          <tm_arb>41.00</tm_arb>
+          <tash_adb>6.00</tash_adb>
+          <tsulf_adb>0.20</tsulf_adb>
+          <klasifikasibb>&lt; 4200</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>54EBD1JNFLCHBLVH</nobayarroyalti>
+          <tglbayarroyalti>2023-01-10</tglbayarroyalti>
+          <npwp>021958582728000</npwp>
+          <nmpersh>GHANI RAYA MANDIRI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>55000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>6316182400.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

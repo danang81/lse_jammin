@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>018215368091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. TEGUH SINARABADI</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 30 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   KEL SENAYAN KEC  KEBAYORAN BARU JAKARTA SELATAN   12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21020072</no_ls>
+    <tgl_ls>2021-02-24</tgl_ls>
+    <tgl_ls_expired>2021-03-24</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0067</no_izin>
+    <tgl_izin>2020-04-27</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0067</noizinterdaftar>
+    <tglizinterdaftar>2020-04-27</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2021-02-24</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>332/TSA/BCPCL-CS/II/2021</nopacklist>
+    <tglpacklist>2021-02-17</tglpacklist>
+    <noinvoice>332/TSA/BCPCL-CS/II/2021</noinvoice>
+    <tglinvoice>2021-02-17</tglinvoice>
+    <namaclient>BANGLADESH-CHINA POWER COMPANY PVT</namaclient>
+    <alamatclient>UTC BUILDING LEVEL 5 8, PANTHPATH, KAWRAN
+BAZAR DHAKA1215</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K-MILE AIR</namavessel>
+    <tglmuatvessel>2021-02-24</tglmuatvessel>
+    <noiupop>317.K/30/DJB/2008</noiupop>
+    <tgliupop>2008-04-29</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV IPSEA COLOSSUS</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>BD</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>BDDAC</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4874.00</cal_arb>
+      <cal_adb>5622.00</cal_adb>
+      <tm_arb>28.48</tm_arb>
+      <tash_adb>4.85</tash_adb>
+      <tsulf_adb>0.61</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>018215368091000</npwp>
+      <nmpersh>TEGUH SINARABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

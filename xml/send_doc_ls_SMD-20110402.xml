@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024331100091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BAYAN RESOURCES</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   SENAYAN KEBAYORAN BARU JAKARTA SELATAN     12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20110402</no_ls>
+    <tgl_ls>2020-11-23</tgl_ls>
+    <tgl_ls_expired>2020-12-23</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0049</no_izin>
+    <tgl_izin>2020-03-30</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+    <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2020-11-23</tglperiksa>
+    <portperiksa>IDCEN </portperiksa>
+    <nopacklist>247/BR/KSPC-CS/XI/2020</nopacklist>
+    <tglpacklist>2020-11-17</tglpacklist>
+    <noinvoice>247/BR/KSPC-CS/XI/2020</noinvoice>
+    <tglinvoice>2020-11-17</tglinvoice>
+    <namaclient>SAN MIGUEL CONSOLIDATED POWER CORP.</namaclient>
+    <alamatclient>BARANGAY CULAMAN, MALITA DAVAO DEL SUR</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K - MILE AIR</namavessel>
+    <tglmuatvessel>2020-11-23</tglmuatvessel>
+    <noiupop>50/I/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-07-16</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV KAVO PALOMA</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDCEN </kdPortAsal>
+      <kdPortBongkar>PHMNL</kdPortBongkar>
+      <kdPortMuat>IDCEN </kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4636.00</cal_arb>
+      <cal_adb>5638.00</cal_adb>
+      <tm_arb>29.64</tm_arb>
+      <tash_adb>3.80</tash_adb>
+      <tsulf_adb>0.22</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>024331100091000</npwp>
+      <nmpersh>BAYAN RESOURCES</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>1060.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

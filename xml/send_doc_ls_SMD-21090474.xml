@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>817773450516000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ELS ENERGY INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>RAYA NGABUL KM 7 DS  NGABUL  RT 001  RW 002  KEC  TAHUNAN  KAB  JEPARA  JAWA TENGAH</alamatPerusahaan>
+    <telepon>000000000000000</telepon>
+    <fax>0291-596850</fax>
+    <emailPerusahaan>0291-596850</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21090474</no_ls>
+    <tgl_ls>2021-09-21</tgl_ls>
+    <tgl_ls_expired>2021-10-21</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0198</no_izin>
+    <tgl_izin>2018-10-09</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0198</noizinterdaftar>
+    <tglizinterdaftar>2018-10-09</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>76863.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. MD2QW2109NU00153, 03 SEPTEMBER 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-09-14</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>004/PL-EEI/IX/2021</nopacklist>
+    <tglpacklist>2021-09-21</tglpacklist>
+    <noinvoice>004/INV-EEI/IX/2021</noinvoice>
+    <tglinvoice>2021-09-21</tglinvoice>
+    <namaclient>KOREA WESTERN POWER CO.,LTD.</namaclient>
+    <alamatclient>285 JUNGANG-RO TAEAN-EUP, TAEAN-GUN, CHUNGCHEONGNAM-DO, 32140, KOREA</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel> MV. F. OCEAN</namavessel>
+    <tglmuatvessel>2021-09-14</tglmuatvessel>
+    <noiupop>143/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-08-23</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. MD2QW2109NU00153, 03 SEPTEMBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>3387.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRTAN</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>152211.78</value_currency>
+      <currency>USD</currency>
+      <value_fob>152211.78</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4454.00</cal_arb>
+      <cal_adb>4900.00</cal_adb>
+      <tm_arb>30.00</tm_arb>
+      <tash_adb>14.00</tash_adb>
+      <tsulf_adb>0.85</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>FE3AE6U8E2UM8KVR</nobayarroyalti>
+      <tglbayarroyalti>2021-09-11</tglbayarroyalti>
+      <jmlVolume>3500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>028279735728000</npwp>
+      <nmpersh>JAVA HUNIAN</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>115643850.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

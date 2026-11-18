@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>014346324725000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. FAJAR SAKTI PRIMA</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10 KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0541-633689</telepon>
+    <fax>0541-663689</fax>
+    <emailPerusahaan>0541-663689</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21030109</no_ls>
+    <tgl_ls>2021-03-10</tgl_ls>
+    <tgl_ls_expired>2021-04-10</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0061</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0061</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>M04FB2103NU00388</no_lc>
+    <tgl_lc>2021-03-10</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>SG</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>88200.00</kapkapal>
+    <asuransi>PICC PROPERTY AND CASUALTY COMPANY LIMITED</asuransi>
+    <catatanperiksa>NO LC. M04FB2103NU00388, 10 MARET 2021</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-03-10</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>128/FSP/KCH/III/2021</nopacklist>
+    <tglpacklist>2021-03-10</tglpacklist>
+    <noinvoice>128/FSP/KCH/III/2021</noinvoice>
+    <tglinvoice>2021-03-10</tglinvoice>
+    <namaclient>KCH ENERGY CO., LTD.</namaclient>
+    <alamatclient>SUITE 4004 TRADE TOWER, 159-1
+SAMSUNG-DONG, GANGNAM-GU,
+SEOUL, SOUTH KOREA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-03-10</tglmuat>
+    <namavessel>MV ROYAL FORWARD</namavessel>
+    <tglmuatvessel>2021-03-09</tglmuatvessel>
+    <noiupop>540/063/IUP-OP/MB-PBAT/IV/2011</noiupop>
+    <tgliupop>2011-04-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. M04FB2103NU00388, 10 MARET 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>82500.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>KRTJI </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>8250000.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>4125000.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4284.00</cal_arb>
+      <cal_adb>5370.00</cal_adb>
+      <tm_arb>35.03</tm_arb>
+      <tash_adb>4.26</tash_adb>
+      <tsulf_adb>0.11</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>FC1331JNF2RL69OV</nobayarroyalti>
+      <tglbayarroyalti>2021-02-16</tglbayarroyalti>
+      <jmlVolume>75000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>59066.24</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>010000115051000</npwp>
+        <refnumber>5419</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BUKIT ASAM (Persero) TBK</namaPerusahaan>
+        <alamatPerusahaan>JALAN PARIGI NOMOR 1 TANJUNG ENIM  KAB  MUARA ENIM  SUMATERA SELATAN</alamatPerusahaan>
+        <telepon>0734451096</telepon>
+        <fax>0734451098</fax>
+        <emailPerusahaan>P@GMAIL.COM</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>PLM-23110032</no_ls>
+        <tgl_ls>2023-11-21</tgl_ls>
+        <tgl_ls_expired>2023-12-20</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0067</noizinterdaftar>
+        <tglizinterdaftar>2023-02-10</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-02-10</tglizinterdaftar_expired>
+        <modetransport>Containers</modetransport>
+        <cargotype>BULK/CURAH</cargotype>
+        <bendera>TH</bendera>
+        <jeniskapal>-</jeniskapal>
+        <kapkapal>0.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa/>
+        <tempatperiksa>LOKASI PABEAN TEMPAT MUAT </tempatperiksa>
+        <tglperiksa>2023-11-21</tglperiksa>
+        <portperiksa>IDCGK</portperiksa>
+        <nopacklist>09/PCL-SAMPLE/X/2023</nopacklist>
+        <tglpacklist>2023-10-11</tglpacklist>
+        <noinvoice>09/PCL-SAMPLE/X/2023</noinvoice>
+        <tglinvoice>2023-10-11</tglinvoice>
+        <namaclient>BORYEONG POWER GENERATION SITE DIVISION </namaclient>
+        <alamatclient>JU AH YEONG (010-7791-2371)
+BORYEONG POWER GENERATION SITE DIVISION 
+89-37, OCHEONHAEAN-RO, OCHEON-M</alamatclient>
+        <namavessel>K MILE AIR</namavessel>
+        <tglmuatvessel>2023-11-21</tglmuatvessel>
+        <noiupop>389/KPTS/TAMBEN/2010</noiupop>
+        <tgliupop>2010-04-13</tgliupop>
+        <nopetikemas>----</nopetikemas>
+        <nosegel>----</nosegel>
+        <kesimpulan/>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BUYER SAMPLE MV CARAMELLO</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDCGK</kdPortAsal>
+          <kdPortBongkar>KRICN</kdPortBongkar>
+          <kdPortMuat>IDCGK</kdPortMuat>
+          <value_currency>5.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>5.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>6235.00</cal_arb>
+          <cal_adb>6720.00</cal_adb>
+          <tm_arb>14.24</tm_arb>
+          <tash_adb>6.68</tash_adb>
+          <tsulf_adb>0.64</tsulf_adb>
+          <klasifikasibb>&gt; 5200</klasifikasibb>
+          <keterangan>COA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>3D3762G4VGN7UUGD</nobayarroyalti>
+          <tglbayarroyalti>2023-09-25</tglbayarroyalti>
+          <npwp>010000115051000</npwp>
+          <nmpersh>BUKIT ASAM (Persero) TBK</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>143000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>1233031.80</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

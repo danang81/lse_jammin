@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017748146091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT.  JEMBAYAN MUARABARA</namaPerusahaan>
+    <alamatPerusahaan>RUKO MAHAKAM SQUARE BLOK B NO  17 19 JL  UNTUNG SUROPATI  KARANG ASAM ULU SUNGAI KUNJANG SAMARINDA   75126</alamatPerusahaan>
+    <telepon>0541-7771100</telepon>
+    <fax>7771100/0541-271</fax>
+    <emailPerusahaan>7771100/0541-271</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20050143</no_ls>
+    <tgl_ls>2020-05-27</tgl_ls>
+    <tgl_ls_expired>2020-06-27</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0135</no_izin>
+    <tgl_izin>2017-10-09</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0135</noizinterdaftar>
+    <tglizinterdaftar>2017-10-09</tglizinterdaftar>
+    <no_lc> 958010138630-Q</no_lc>
+    <tgl_lc>2020-05-15</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / IN BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>34327.00</kapkapal>
+    <asuransi>PT ASURANSI ADIRA DINAMIKA</asuransi>
+    <catatanperiksa>NO LC. 958010138630-Q, 15 MEI 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU</tempatperiksa>
+    <tglperiksa>2020-05-27</tglperiksa>
+    <portperiksa>IDMUB</portperiksa>
+    <nopacklist>2703-JMB/FA-6/05/20</nopacklist>
+    <tglpacklist>2020-05-27</tglpacklist>
+    <noinvoice>2703-JMB/FA-6/05/20</noinvoice>
+    <tglinvoice>2020-05-27</tglinvoice>
+    <namaclient>NEW ZEALAND STEEL LIMITED</namaclient>
+    <alamatclient>131 MISSION BUSH ROAD, GLENBROOK, SOUTH AUCKLAND, NEW ZEALAND</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-05-15</tglmuat>
+    <namavessel>MV DAIWAN KALON</namavessel>
+    <tglmuatvessel>2020-05-23</tglmuatvessel>
+    <noiupop>503/799/IUP-OP/DPMPTSP/V/2017</noiupop>
+    <tgliupop>2017-05-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010138630-Q, 15 MEI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>32840.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>NON-COKING THERMAL COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>NZ</kdNegaraTujuan>
+      <kdPortAsal>IDMUB</kdPortAsal>
+      <kdPortBongkar>NZAKL</kdPortBongkar>
+      <kdPortMuat>IDMUB</kdPortMuat>
+      <value_currency>1357934.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1357934.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5397.00</cal_arb>
+      <cal_adb>5677.00</cal_adb>
+      <tm_arb>20.54</tm_arb>
+      <tash_adb>4.65</tash_adb>
+      <tsulf_adb>0.23</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>017748146091000</npwp>
+      <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>44334.79</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>017748146091000</npwp>
+      <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>37895.23</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>020737235725000</npwp>
+      <nmpersh>KEMILAU RINDANG ABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>8051.81</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>020737235725000</npwp>
+      <nmpersh>KEMILAU RINDANG ABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>8051.81</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

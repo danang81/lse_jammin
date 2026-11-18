@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>018215368091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. TEGUH SINARABADI</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 30 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   KEL SENAYAN KEC  KEBAYORAN BARU JAKARTA SELATAN   12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20070232</no_ls>
+    <tgl_ls>2020-07-27</tgl_ls>
+    <tgl_ls_expired>2020-08-27</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0056</no_izin>
+    <tgl_izin>2017-08-14</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0056</noizinterdaftar>
+    <tglizinterdaftar>2017-08-14</tglizinterdaftar>
+    <no_lc>LC0225820000148</no_lc>
+    <tgl_lc>2020-07-14</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>57335.60</kapkapal>
+    <asuransi>PT ASURANSI MULTI ARTHA GUNA, TBK</asuransi>
+    <catatanperiksa>NO LC. LC0225820000148, 14 JULI 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-07-27</tglperiksa>
+    <portperiksa>IDBPP</portperiksa>
+    <nopacklist>271/TSA/CMC/VII/2020</nopacklist>
+    <tglpacklist>2020-07-27</tglpacklist>
+    <noinvoice>271/TSA/CMC/VII/2020</noinvoice>
+    <tglinvoice>2020-07-27</tglinvoice>
+    <namaclient>CHINA NATIONAL MACHINERY IMPORT AND EXPORT CORPORATION</namaclient>
+    <alamatclient>NO.1 (W) FUCHENGMENWAI AVENUE,
+BEIJING 100037, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-07-14</tglmuat>
+    <namavessel>MV BUSAN STAR</namavessel>
+    <tglmuatvessel>2020-07-27</tglmuatvessel>
+    <noiupop>317.K/30/DJB/2008</noiupop>
+    <tgliupop>2016-04-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. LC0225820000148, 14 JULI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>11377.500</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>BD</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>BDMGL</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>1905048.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>476262.15</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>11377.500</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>BD</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>BDMGL</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>1905048.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>476262.15</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4917.00</cal_arb>
+      <cal_adb>5828.00</cal_adb>
+      <tm_arb>27.82</tm_arb>
+      <tash_adb>4.06</tash_adb>
+      <tsulf_adb>0.39</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>018215368091000</npwp>
+      <nmpersh>TEGUH SINARABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>31339.36</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2024.87</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2761.22</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2761.22</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2761.22</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

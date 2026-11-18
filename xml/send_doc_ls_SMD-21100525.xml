@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>018215368091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. TEGUH SINARABADI</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 30 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   KEL SENAYAN KEC  KEBAYORAN BARU JAKARTA SELATAN   12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21100525</no_ls>
+    <tgl_ls>2021-10-31</tgl_ls>
+    <tgl_ls_expired>2021-11-30</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0067</no_izin>
+    <tgl_izin>2020-04-27</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0067</noizinterdaftar>
+    <tglizinterdaftar>2020-04-27</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>55567.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC : LC11123C103046, 28 SEPTEMBER 2021</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-10-31</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>373/TSA/CMC/XI/2021</nopacklist>
+    <tglpacklist>2021-10-31</tglpacklist>
+    <noinvoice>373/TSA/CMC/XI/2021</noinvoice>
+    <tglinvoice>2021-10-31</tglinvoice>
+    <namaclient>CHINA NATIONAL MACHINERY IMPORT AND EXPORT CORPORATION</namaclient>
+    <alamatclient>NO.1 (W) FUCHENGMENWAI AVENUE,
+BEIJING 100037, CHINA
+</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel> MV NERAIDA</namavessel>
+    <tglmuatvessel>2021-10-31</tglmuatvessel>
+    <noiupop>317.K/30/DJB/2008</noiupop>
+    <tgliupop>2008-04-29</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>--</nopetikemas>
+    <nosegel>--</nosegel>
+    <kesimpulan>NO LC : LC11123C103046, 28 SEPTEMBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>11515.800</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>QUALITY 5,050 GAR COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>BD</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>BDMGL</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>4877731.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>1243821.56</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>11064.200</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>QUALITY 5,050 GAR COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>BD</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>BDMGL</kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>4877731.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>1195044.24</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4955.00</cal_arb>
+      <cal_adb>5613.00</cal_adb>
+      <tm_arb>27.63</tm_arb>
+      <tash_adb>4.70</tash_adb>
+      <tsulf_adb>0.45</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>642950N9V919KLK6</nobayarroyalti>
+      <tglbayarroyalti>2021-10-22</tglbayarroyalti>
+      <jmlVolume>12000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>018215368091000</npwp>
+      <nmpersh>TEGUH SINARABADI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>132370.20</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>7F0317QLTTJV15P2</nobayarroyalti>
+      <tglbayarroyalti>2021-10-08</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2817.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>6D2780N9V90RP57K</nobayarroyalti>
+      <tglbayarroyalti>2021-10-08</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2817.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

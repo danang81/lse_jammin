@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017748146091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT.  JEMBAYAN MUARABARA</namaPerusahaan>
+    <alamatPerusahaan>RUKO MAHAKAM SQUARE BLOK B NO  17 19 JL  UNTUNG SUROPATI  KARANG ASAM ULU SUNGAI KUNJANG SAMARINDA   75126</alamatPerusahaan>
+    <telepon>0541-7771100</telepon>
+    <fax>7771100/0541-271</fax>
+    <emailPerusahaan>7771100/0541-271</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20110417</no_ls>
+    <tgl_ls>2020-12-01</tgl_ls>
+    <tgl_ls_expired>2021-01-01</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0202</no_izin>
+    <tgl_izin>2020-10-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0202</noizinterdaftar>
+    <tglizinterdaftar>2020-10-08</tglizinterdaftar>
+    <no_lc>958010164799-Q</no_lc>
+    <tgl_lc>2020-11-18</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>79400.00</kapkapal>
+    <asuransi>THE SWEDISH CLUB</asuransi>
+    <catatanperiksa>NO LC. 958010164799-Q, 18 NOVEMBER 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU</tempatperiksa>
+    <tglperiksa>2020-11-30</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>2790-JMB/FA-6/12/20</nopacklist>
+    <tglpacklist>2020-12-01</tglpacklist>
+    <noinvoice>2790-JMB/FA-6/12/20</noinvoice>
+    <tglinvoice>2020-12-01</tglinvoice>
+    <namaclient>SAN BUENAVENTURA POWER LTD. CO.</namaclient>
+    <alamatclient>BRGY. CAGSIAY I, MAUBAN, QUEZON PROVINCE, PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-11-18</tglmuat>
+    <namavessel>MV WANISA</namavessel>
+    <tglmuatvessel>2020-11-29</tglmuatvessel>
+    <noiupop>540/2542/IUP-OP/MB-PBAT/IX/2010</noiupop>
+    <tgliupop>2010-09-27</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010164799-Q, 18 NOVEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>35170.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUBBITUMINOUS STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHQUE </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3162090.30</value_currency>
+      <currency>USD</currency>
+      <value_fob>1470457.70</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>18400.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUBBITUMINOUS STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHQUE </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3162090.30</value_currency>
+      <currency>USD</currency>
+      <value_fob>769304.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>22060.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN SUBBITUMINOUS STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHQUE </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3162090.30</value_currency>
+      <currency>USD</currency>
+      <value_fob>922328.60</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5217.00</cal_arb>
+      <cal_adb>5630.00</cal_adb>
+      <tm_arb>19.97</tm_arb>
+      <tash_adb>9.52</tash_adb>
+      <tsulf_adb>0.32</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>3320B55DE4M3Q8AR</nobayarroyalti>
+      <tglbayarroyalti>2020-11-19</tglbayarroyalti>
+      <npwp>017748146091000</npwp>
+      <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>59406.18</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>548C87QLTKD919SC</nobayarroyalti>
+      <tglbayarroyalti>2020-11-19</tglbayarroyalti>
+      <npwp>020399150725000</npwp>
+      <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>17554.95</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>9BE4C2G4UKUUJAUH</nobayarroyalti>
+      <tglbayarroyalti>2020-11-19</tglbayarroyalti>
+      <npwp>020399150725000</npwp>
+      <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>14746.16</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>C23F31JNEQCH4T19</nobayarroyalti>
+      <tglbayarroyalti>2020-11-18</tglbayarroyalti>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>11210.75</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>1988B2G4UKUTHSIK</nobayarroyalti>
+      <tglbayarroyalti>2020-11-18</tglbayarroyalti>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>11210.75</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>957BA55DE4M2ORQ1</nobayarroyalti>
+      <tglbayarroyalti>2020-11-18</tglbayarroyalti>
+      <npwp>023388234027000</npwp>
+      <nmpersh>METALINDO BUMI RAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>11210.75</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

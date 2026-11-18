@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017110610091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. WAHANA BARATAMA MINING</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 29 UNIT D SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53   JL  SENOPATI RAYA 8B    SENAYAN  KEBAYORAN BARU  JAKARTA SELATAN  DKI JAKARTA  12190</alamatPerusahaan>
+    <telepon>02129332888</telepon>
+    <fax>02129332999</fax>
+    <emailPerusahaan>02129332999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21110026</no_ls>
+    <tgl_ls>2021-11-07</tgl_ls>
+    <tgl_ls_expired>2021-12-07</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0073</no_izin>
+    <tgl_izin>2020-05-04</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0073</noizinterdaftar>
+    <tglizinterdaftar>2020-05-04</tglizinterdaftar>
+    <no_lc>730ILFS213010001</no_lc>
+    <tgl_lc>2021-10-28</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>CY</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>87332.00</kapkapal>
+    <asuransi>THOMAS MILLER B.V.</asuransi>
+    <catatanperiksa>NOMOR DAN TANGGAL L/C : 730ILFS213010001 DAN 28 OKTOBER 2021</catatanperiksa>
+    <tempatperiksa>KOMPLEK JETTY PT. BAYAN RESOURCES ,TBK DESA SUNGAI CUKA KECAMATAN SATUI KABUPATEN TANAH BUMBU PROPINSI KALIMANTAN SELATAN, TELP : 0512 61805</tempatperiksa>
+    <tglperiksa>2021-11-01</tglperiksa>
+    <portperiksa>IDSTU</portperiksa>
+    <nopacklist>499/WBM/TLI/XI/2021</nopacklist>
+    <tglpacklist>2021-11-07</tglpacklist>
+    <noinvoice>499/WBM/TLI/XI/2021</noinvoice>
+    <tglinvoice>2021-11-07</tglinvoice>
+    <namaclient>THERMA LUZON, INC.</namaclient>
+    <alamatclient>14TH FLOOR NAC TOWER, 32ND STREET BGC, FORT BONIFACIO TAGUIG CITY,
+PHILIPPINES 1634
+</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-10-28</tglmuat>
+    <namavessel>EFESSOS WAVE</namavessel>
+    <tglmuatvessel>2021-11-02</tglmuatvessel>
+    <noiupop>388.K/34.02/DJB/2007</noiupop>
+    <tgliupop>2007-10-26</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NOMOR DAN TANGGAL L/C : 730ILFS213010001 DAN 28 OKTOBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>82.900</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK ( LAIN-LAIN )</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSTU</kdPortAsal>
+      <kdPortBongkar>PHQZT</kdPortBongkar>
+      <kdPortMuat>IDSTU</kdPortMuat>
+      <value_currency>18785140.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>18785140.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>6381.00</cal_arb>
+      <cal_adb>6826.00</cal_adb>
+      <tm_arb>10.17</tm_arb>
+      <tash_adb>10.84</tash_adb>
+      <tsulf_adb>0.66</tsulf_adb>
+      <klasifikasibb>&gt; 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>AA24D6U8E327048N</nobayarroyalti>
+      <tglbayarroyalti>2021-10-29</tglbayarroyalti>
+      <jmlVolume>80.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>017110610091000</npwp>
+      <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>1371384.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

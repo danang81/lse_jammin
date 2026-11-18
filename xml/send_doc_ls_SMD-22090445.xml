@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>023747371728000</npwp>
+        <refnumber>231120447</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+        <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KO</alamatPerusahaan>
+        <telepon>0542 - 874147</telepon>
+        <fax>0542 - 874147</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22090445</no_ls>
+        <tgl_ls>2022-09-15</tgl_ls>
+        <tgl_ls_expired>2022-10-15</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0062</no_izin>
+        <tgl_izin>2020-04-16</tgl_izin>
+        <tgl_izin_expired>2022-10-15</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+        <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-10-15</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>TH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>0.00</kapkapal>
+        <asuransi>---</asuransi>
+        <catatanperiksa/>
+        <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+        <tglperiksa>2022-09-15</tglperiksa>
+        <portperiksa>IDCGK</portperiksa>
+        <nopacklist>977/BT/SMCPC-CS/IX/2022</nopacklist>
+        <tglpacklist>2022-09-13</tglpacklist>
+        <noinvoice>977/BT/SMCPC-CS/IX/2022</noinvoice>
+        <tglinvoice>2022-09-13</tglinvoice>
+        <namaclient>SAN MIGUEL CONSOLIDATED POWER CORP.</namaclient>
+        <alamatclient>BARANGAY CULAMAN, MALITA DAVAO DEL SUR
+8012</alamatclient>
+        <namavessel>K - MILE AIR</namavessel>
+        <tglmuatvessel>2022-09-15</tglmuatvessel>
+        <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+        <tgliupop>2011-05-02</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan/>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BUYER SAMPLE MV ALAN </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDCGK</kdPortAsal>
+          <kdPortBongkar>PHMNL</kdPortBongkar>
+          <kdPortMuat>IDCGK</kdPortMuat>
+          <value_currency>10.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>5.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4099.00</cal_arb>
+          <cal_adb>5307.00</cal_adb>
+          <tm_arb>36.39</tm_arb>
+          <tash_adb>4.22</tash_adb>
+          <tsulf_adb>0.13</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+          <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>0.0050</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>0.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

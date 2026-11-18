@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021831870063000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. INTI BARA PERDANA</namaPerusahaan>
+    <alamatPerusahaan>JL  SUNGAI RUPAT  NOMOR 22 B  RT 039  RW 007  KEL  PAGAR DEWA  KEC SELEBAR  BENGKULU</alamatPerusahaan>
+    <telepon>07365500513</telepon>
+    <fax>073655500514</fax>
+    <emailPerusahaan>073655500514</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-20100016</no_ls>
+    <tgl_ls>2020-10-12</tgl_ls>
+    <tgl_ls_expired>2020-11-12</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0164</no_izin>
+    <tgl_izin>2020-08-11</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0164</noizinterdaftar>
+    <tglizinterdaftar>2020-08-11</tglizinterdaftar>
+    <no_lc>010000004220219</no_lc>
+    <tgl_lc>2020-10-02</tgl_lc>
+    <modetransport>Barge</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MY</bendera>
+    <jeniskapal>STEEL BARGE</jeniskapal>
+    <kapkapal>11000.00</kapkapal>
+    <asuransi>ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>L/C 010000004220219 02 October 2020</catatanperiksa>
+    <tempatperiksa>PULAU BAAI, BENGKULU, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-10-11</tglperiksa>
+    <portperiksa>IDBKS</portperiksa>
+    <nopacklist>IBP/INV/202010/121</nopacklist>
+    <tglpacklist>2020-10-12</tglpacklist>
+    <noinvoice>IBP/INV/202010/121</noinvoice>
+    <tglinvoice>2020-10-12</tglinvoice>
+    <namaclient>SCG INTERNATIONAL CORPORATION CO., LTD</namaclient>
+    <alamatclient>1 SIAM CEMENT ROAD, BANGSUE, BANGKOK 10800, THAILAND</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-10-02</tglmuat>
+    <namavessel>TB. MACALLAN 5 / BG. PALMER</namavessel>
+    <tglmuatvessel>2020-10-11</tglmuatvessel>
+    <noiupop>503/12.1263/35/DPMPTSP-P2/2019</noiupop>
+    <tgliupop>2019-02-08</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>L/C 010000004220219 02 October 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10403.206</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BENGKULU COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>TH</kdNegaraTujuan>
+      <kdPortAsal>IDBKS</kdPortAsal>
+      <kdPortBongkar> 	TH  TRG </kdPortBongkar>
+      <kdPortMuat>IDBKS</kdPortMuat>
+      <value_currency>520160.30</value_currency>
+      <currency>USD</currency>
+      <value_fob>520160.30</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5498.00</cal_arb>
+      <cal_adb>5971.00</cal_adb>
+      <tm_arb>13.68</tm_arb>
+      <tash_adb>13.39</tash_adb>
+      <tsulf_adb>0.69</tsulf_adb>
+      <klasifikasibb>5971</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021831870063000</npwp>
+      <nmpersh>INTI BARA PERDANA</nmpersh>
+      <idprop>8</idprop>
+      <nmprop>Bengkulu</nmprop>
+      <royalti>26010.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

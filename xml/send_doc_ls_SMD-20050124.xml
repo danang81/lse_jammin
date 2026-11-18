@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>840665087722000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BINTANG HAPOSAN PERSADA</namaPerusahaan>
+    <alamatPerusahaan>JL  GIRI MUKTI No  05 RT  018  TANAH MERAH  SAMARINDA UTARA  SAMARINDA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon/>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20050124</no_ls>
+    <tgl_ls>2020-05-15</tgl_ls>
+    <tgl_ls_expired>2020-06-15</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0029</no_izin>
+    <tgl_izin>2019-01-29</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0029</noizinterdaftar>
+    <tglizinterdaftar>2019-01-29</tglizinterdaftar>
+    <no_lc>958010137579-L</no_lc>
+    <tgl_lc>2020-05-05</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH/BULK</cargotype>
+    <bendera>CY</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>57254.50</kapkapal>
+    <asuransi>PT ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>NO LC. 958010137579-L, 05 MEI 2020</catatanperiksa>
+    <tempatperiksa>ADANG BAY ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-05-11</tglperiksa>
+    <portperiksa>IDADB</portperiksa>
+    <nopacklist>001.PL.BHP.20</nopacklist>
+    <tglpacklist>2020-05-15</tglpacklist>
+    <noinvoice>001.INV.BHP.20</noinvoice>
+    <tglinvoice>2020-05-15</tglinvoice>
+    <namaclient>NINGBO HUAMAO INTERNATIONAL TRADING CO., LTD</namaclient>
+    <alamatclient>17TH FLOOR HENG FU BUILDING, NO. 828 FUMING ROAD, JIANGDONG DISTRICT, NINGBO,
+CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-05-05</tglmuat>
+    <namavessel>MV KARIMU</namavessel>
+    <tglmuatvessel>2020-05-06</tglmuatvessel>
+    <noiupop>163/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-09-06</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010137579-L, 05 MEI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>55000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>STEAM (NON-COKING) COAL IN BULK OF INDONESIA ORIGIN</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDADB</kdPortAsal>
+      <kdPortBongkar>CNNBO</kdPortBongkar>
+      <kdPortMuat>IDADB</kdPortMuat>
+      <value_currency>1760000.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1760000.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5000.00</cal_adb>
+      <tm_arb>35.00</tm_arb>
+      <tash_adb>8.00</tash_adb>
+      <tsulf_adb>0.50</tsulf_adb>
+      <klasifikasibb>&lt; 5100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>65275688.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>43200000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>43200000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>7</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>8</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>9</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>65275688.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>10</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>11</idposTarif>
+      <npwp>024049603726000</npwp>
+      <nmpersh>KOPERASI SERBA USAHA KARYA JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>54000000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

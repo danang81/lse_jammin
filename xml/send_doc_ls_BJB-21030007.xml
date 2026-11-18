@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017110610091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. WAHANA BARATAMA MINING</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 29 UNIT D SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53   JL  SENOPATI RAYA 8B    SENAYAN  KEBAYORAN BARU  JAKARTA SELATAN  DKI JAKARTA  12190</alamatPerusahaan>
+    <telepon>021-29332888</telepon>
+    <fax>021-29332999</fax>
+    <emailPerusahaan>021-29332999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21030007</no_ls>
+    <tgl_ls>2021-03-30</tgl_ls>
+    <tgl_ls_expired>2021-04-30</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0073</no_izin>
+    <tgl_izin>2020-05-04</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0073</noizinterdaftar>
+    <tglizinterdaftar>2020-05-04</tglizinterdaftar>
+    <no_lc>200LCJ-67040819</no_lc>
+    <tgl_lc>2021-03-19</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULKK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>88269.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>L/C 200LCJ-67040819                                  19 MARET 2021</catatanperiksa>
+    <tempatperiksa>KOMPLEK JETTY PT. WBM DESA SUNGAI CUKA KECAMATAN SATUI KABUPATEN TANAH BUMBU PROVINSI KALIMANTAN SELATAN, TELP : 0512 61805</tempatperiksa>
+    <tglperiksa>2021-03-25</tglperiksa>
+    <portperiksa>IDSTU</portperiksa>
+    <nopacklist>487/WBM/TLI/III/2021</nopacklist>
+    <tglpacklist>2021-03-30</tglpacklist>
+    <noinvoice>487/WBM/TLI/III/2021</noinvoice>
+    <tglinvoice>2021-03-30</tglinvoice>
+    <namaclient>MITSUI AND CO., LTD</namaclient>
+    <alamatclient>2-1, OTEMACHI, 1-CHOME, CHIYODA-KU, TOKYO 100-8631, JAPAN</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-03-19</tglmuat>
+    <namavessel>MV. VERDURE WAVE</namavessel>
+    <tglmuatvessel>2021-03-26</tglmuatvessel>
+    <noiupop>388.K/34.02/DJB/2007</noiupop>
+    <tgliupop>2007-10-26</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>L/C 200LCJ-67040819                                  19 MARET 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011210</posTarif>
+      <jmlVolume>66000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>JP</kdNegaraTujuan>
+      <kdPortAsal>IDSTU</kdPortAsal>
+      <kdPortBongkar>JPTOS </kdPortBongkar>
+      <kdPortMuat>IDSTU</kdPortMuat>
+      <value_currency>5926800.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5926800.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>6303.00</cal_arb>
+      <cal_adb>6685.00</cal_adb>
+      <tm_arb>9.87</tm_arb>
+      <tash_adb>11.30</tash_adb>
+      <tsulf_adb>0.56</tsulf_adb>
+      <klasifikasibb>&gt; 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>9B6C62G4UTH7ETP8</nobayarroyalti>
+      <tglbayarroyalti>2021-03-23</tglbayarroyalti>
+      <jmlVolume>60000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>017110610091000</npwp>
+      <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>490548.12</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

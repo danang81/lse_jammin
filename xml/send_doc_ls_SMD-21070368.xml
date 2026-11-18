@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017695024091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ANUGERAH BARA KALTIM</namaPerusahaan>
+    <alamatPerusahaan>JL  GERBANG DAYAKU RT 014  KEL  BAKUNGAN  KEC    LOA JANAN KAB  KUTAI KERTANEGARA  KALIMANTAN TIMUR 75391</alamatPerusahaan>
+    <telepon>0541263901</telepon>
+    <fax>0541263130</fax>
+    <emailPerusahaan>0541263130</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21070368</no_ls>
+    <tgl_ls>2021-07-13</tgl_ls>
+    <tgl_ls_expired>2021-08-13</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0100</no_izin>
+    <tgl_izin>2020-06-11</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0100</noizinterdaftar>
+    <tglizinterdaftar>2020-06-11</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>63475.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. LBW21IAI00433, 29 JUNI 2021</catatanperiksa>
+    <tempatperiksa>JETTY PT ABK </tempatperiksa>
+    <tglperiksa>2021-07-12</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>1908/FA-6/07/2021</nopacklist>
+    <tglpacklist>2021-07-13</tglpacklist>
+    <noinvoice>1908/FA-6/07/2021</noinvoice>
+    <tglinvoice>2021-07-13</tglinvoice>
+    <namaclient>SING HENG SENG CO., LTD.</namaclient>
+    <alamatclient>8/3 RATCHADAPISEK ROAD, KLONGTOEY,
+BANGKOK 10110, THAILAND</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. PORT TOKYO</namavessel>
+    <tglmuatvessel>2021-07-09</tglmuatvessel>
+    <noiupop>69/1/IUP/PMDN/2020</noiupop>
+    <tgliupop>2020-02-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. LBW21IAI00433, 29 JUNI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>60500.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAMING (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>TH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>THKSI </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3762495.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>3762495.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4100.00</cal_arb>
+      <cal_adb>5046.00</cal_adb>
+      <tm_arb>35.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.40</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>2839C0N9V8LK8VKK</nobayarroyalti>
+      <tglbayarroyalti>2021-06-30</tglbayarroyalti>
+      <jmlVolume>47500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015002926725000</npwp>
+      <nmpersh>WELARCO SUBUR JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>63084.75</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

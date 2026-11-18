@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>013591516091000</npwp>
+        <refnumber>5414</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. MANDIRI INTIPERKASA</namaPerusahaan>
+        <alamatPerusahaan>PRO MANDIRI BUILDING RUKAN SENTRA LATUMENTEN NO 50  GROGOL  JAKARTA BARAT</alamatPerusahaan>
+        <telepon>021-5670037</telepon>
+        <fax>021-5671295</fax>
+        <emailPerusahaan>eka.fitria@ahkgroup.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23110653</no_ls>
+        <tgl_ls>2023-11-20</tgl_ls>
+        <tgl_ls_expired>2023-12-20</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0106</noizinterdaftar>
+        <tglizinterdaftar>2023-02-27</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-02-27</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>TH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>0.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa/>
+        <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+        <tglperiksa>2023-11-20</tglperiksa>
+        <portperiksa>IDCGK</portperiksa>
+        <nopacklist>01/MIP/PL/2023 </nopacklist>
+        <tglpacklist>2023-09-27</tglpacklist>
+        <noinvoice>124/COALSAMPLE-WV/MIP/10-23</noinvoice>
+        <tglinvoice>2023-09-27</tglinvoice>
+        <namaclient>GENERAL AFFAIRS DEPT.</namaclient>
+        <alamatclient>123 DAEDONG-GIL, GANGDONG-MYEON, GANGNEUNG-SI, GANGWON-DO, 25620</alamatclient>
+        <namavessel>K - MILE</namavessel>
+        <tglmuatvessel>2023-11-20</tglmuatvessel>
+        <noiupop>241.K/40.00/DJG/2004</noiupop>
+        <tgliupop>2004-10-22</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan/>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BUYER SAMPLE MV WOOYANG VENUS</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDCGK</kdPortAsal>
+          <kdPortBongkar>KRICN</kdPortBongkar>
+          <kdPortMuat>IDCGK</kdPortMuat>
+          <value_currency>5.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>5.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4879.00</cal_arb>
+          <cal_adb>5653.00</cal_adb>
+          <tm_arb>25.89</tm_arb>
+          <tash_adb>6.30</tash_adb>
+          <tsulf_adb>0.57</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>F13787QLUG5E0E74</nobayarroyalti>
+          <tglbayarroyalti>2023-09-20</tglbayarroyalti>
+          <npwp>013591516091000</npwp>
+          <nmpersh>MANDIRI INTIPERKASA</nmpersh>
+          <idprop>34</idprop>
+          <nmprop>Kalimantan Utara</nmprop>
+          <jmlVolume>67500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>549757.13</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

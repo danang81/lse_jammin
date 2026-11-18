@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>020899712731000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BHUMI RANTAU ENERGI</namaPerusahaan>
+    <alamatPerusahaan>JALAN JEND SUDIRMAN BY PASS RT  02  RW 01  DESA BUNGUR  KEC  BUNGUR  KAB  TAPIN  KALIMANTAN SELATAN</alamatPerusahaan>
+    <telepon>02175922993</telepon>
+    <fax>02175922993</fax>
+    <emailPerusahaan>02175922993</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21080020</no_ls>
+    <tgl_ls>2021-08-10</tgl_ls>
+    <tgl_ls_expired>2021-09-10</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0179</no_izin>
+    <tgl_izin>2021-07-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0179</noizinterdaftar>
+    <tglizinterdaftar>2021-07-16</tglizinterdaftar>
+    <no_lc>200LCJ-67041838</no_lc>
+    <tgl_lc>2021-07-21</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82459.00</kapkapal>
+    <asuransi>-</asuransi>
+    <catatanperiksa>NOMOR DAN TANGGAL L/C :  200LCJ-67041838 dan Tanggal L/C 21 Juli 2021</catatanperiksa>
+    <tempatperiksa>Pelsus PT Hasnur Jaya Utama, pelsus PT Tapin Coal terminal dan Taboneo Anchorage</tempatperiksa>
+    <tglperiksa>2021-07-31</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>042/BRE/PL/VIII/2021</nopacklist>
+    <tglpacklist>2021-08-10</tglpacklist>
+    <noinvoice>042/BRE/E/VIII/2021</noinvoice>
+    <tglinvoice>2021-08-10</tglinvoice>
+    <namaclient>KOREA SOUTH-EAST POWER CO., LTD</namaclient>
+    <alamatclient>SADEUL-RO 123 BEON-GIL 32, JINJU-SI
+GYEONGSANGNAM DO 52852</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-07-21</tglmuat>
+    <namavessel>MV. WOOYANG FRIEND</namavessel>
+    <tglmuatvessel>2021-08-03</tglmuatvessel>
+    <noiupop>503/791/DPMPTSP/IV/10/2018	</noiupop>
+    <tgliupop>2018-10-23</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NOMOR DAN TANGGAL L/C :  200LCJ-67041838 dan Tanggal L/C 21 Juli 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>78.600</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BATUBARA LAINNYA (INDONESIAN STEAM COAL IN BULK )</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>KR</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>4650762.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>4650762.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4188.00</cal_arb>
+      <cal_adb>5008.00</cal_adb>
+      <tm_arb>34.95</tm_arb>
+      <tash_adb>3.07</tash_adb>
+      <tsulf_adb>0.11</tsulf_adb>
+      <klasifikasibb>&lt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>CB1356U8E2PAOKU3</nobayarroyalti>
+      <tglbayarroyalti>2021-07-30</tglbayarroyalti>
+      <jmlVolume>78.6000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>020899712731000</npwp>
+      <nmpersh>BHUMI RANTAU ENERGI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>95850.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

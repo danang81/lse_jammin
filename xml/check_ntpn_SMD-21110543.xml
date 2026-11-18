@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SurveyorCheckNtpn xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <ntpn>765227QLTTN6F7N8</ntpn>
+      </header>
+    </LSE_Document>
+  </string2>
+</SurveyorCheckNtpn>

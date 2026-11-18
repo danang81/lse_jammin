@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>025668500725000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. GLOBALINDO INTI ENERGI</namaPerusahaan>
+    <alamatPerusahaan>JL IR SOEKARNO NO 24 RT 015  KEL  MUARA JAWA ULU  KEC  MUARA JAWA  KAB KUTAI KARTANEGARA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>+62213900777</telepon>
+    <fax>+62213900077</fax>
+    <emailPerusahaan>+62213900077</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040217</no_ls>
+    <tgl_ls>2021-04-30</tgl_ls>
+    <tgl_ls_expired>2021-05-30</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0066</no_izin>
+    <tgl_izin>2021-03-22</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0066</noizinterdaftar>
+    <tglizinterdaftar>2021-03-22</tglizinterdaftar>
+    <no_lc>LC5TF12012084</no_lc>
+    <tgl_lc>2021-04-12</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CN</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>76136.00</kapkapal>
+    <asuransi>ASURANSI SINARMAS</asuransi>
+    <catatanperiksa>LC NO. LC5TF12012084, 12 APRIL 2021</catatanperiksa>
+    <tempatperiksa>JETTY PT. GLOBALINDO / KUTAI KARTANEGARA</tempatperiksa>
+    <tglperiksa>2021-04-10</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>004/INV-GIE/IV/2021</nopacklist>
+    <tglpacklist>2021-04-29</tglpacklist>
+    <noinvoice>004/INV-GIE/IV/2021</noinvoice>
+    <tglinvoice>2021-04-29</tglinvoice>
+    <namaclient>GUANGDONG BAOLIHUA ELECTRIC POWER CO., LTD</namaclient>
+    <alamatclient>HESHUYUAN BINGCUN TOWN, MEIXIAN DISTRICT, MEIZHOU CITY, GUANGDONG PROVINCE CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-04-12</tglmuat>
+    <namavessel>MV DA JIA</namavessel>
+    <tglmuatvessel>2021-04-28</tglmuatvessel>
+    <noiupop>503/87/IUP-OP/DPMPSTSP/I/2019</noiupop>
+    <tgliupop>2019-01-17</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO. LC5TF12012084, 12 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5358.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNSAW </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>225036.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>225036.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4523.00</cal_arb>
+      <cal_adb>5407.00</cal_adb>
+      <tm_arb>28.04</tm_arb>
+      <tash_adb>5.08</tash_adb>
+      <tsulf_adb>0.26</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>A740348VUIOLQEDK</nobayarroyalti>
+      <tglbayarroyalti>2021-04-13</tglbayarroyalti>
+      <jmlVolume>5300.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025668500725000</npwp>
+      <nmpersh>GLOBALINDO INTI ENERGI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>106215736.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

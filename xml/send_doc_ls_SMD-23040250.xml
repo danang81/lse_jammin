@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024945206012000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. TIWA ABADI</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LT  29 UNIT A JL SENOPATI NO 8B  SENAYAN  KEBAYORAN BARU  KOTA ADM  JAKARTA SELATAN </alamatPerusahaan>
+        <telepon>0000</telepon>
+        <fax>0000</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23040250</no_ls>
+        <tgl_ls>2023-04-30</tgl_ls>
+        <tgl_ls_expired>2023-05-30</tgl_ls_expired>
+        <no_izin>03.ET-04.22.0046</no_izin>
+        <tgl_izin>2022-02-08</tgl_izin>
+        <tgl_izin_expired>2023-05-30</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.22.0046</noizinterdaftar>
+        <tglizinterdaftar>2022-02-08</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-05-30</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>50326.00</kapkapal>
+        <asuransi>STEAMSHIP MUTUAL</asuransi>
+        <catatanperiksa>NO LC : ILC-130023000466, 18 APRIL 2023</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN COAL TERMINAL (BCT), EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-04-30</tglperiksa>
+        <portperiksa>IDBPN</portperiksa>
+        <nopacklist>031/TA/ECC/IV/2023</nopacklist>
+        <tglpacklist>2023-04-30</tglpacklist>
+        <noinvoice>031/TA/ECC/IV/2023</noinvoice>
+        <tglinvoice>2023-04-30</tglinvoice>
+        <namaclient>EAGLE CEMENT CORPORATION</namaclient>
+        <alamatclient>2F SMITS CORPORATE CENTER
+155 EDSA BRGY WACK WACK
+MANDALUYONG CITY 1550 PHILIPPINES</alamatclient>
+        <namavessel>MV SL ROSE</namavessel>
+        <tglmuatvessel>2023-04-30</tglmuatvessel>
+        <noiupop>503/821/IUP-OP/ DPMPTSP/V/2018</noiupop>
+        <tgliupop>2018-05-08</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : ILC-130023000466, 18 APRIL 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>20450.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>PHLIM</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>1455835.50</value_currency>
+          <currency>USD</currency>
+          <value_fob>1455835.50</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3825.00</cal_arb>
+          <cal_adb>5100.00</cal_adb>
+          <tm_arb>40.00</tm_arb>
+          <tash_adb>4.50</tash_adb>
+          <tsulf_adb>0.12</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>FB9433CIFAQG9OLV</nobayarroyalti>
+          <tglbayarroyalti>2023-04-18</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>20000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>52688.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

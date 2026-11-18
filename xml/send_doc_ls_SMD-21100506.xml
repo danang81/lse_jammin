@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027569961728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>CV. BUMI PARAMASARI INDO</namaPerusahaan>
+    <alamatPerusahaan>JALAN  SIRADJ SALMAN KOMPLEK GRAND MAHAKAM BLOK B 14   KEL  TELUK LERONG ILIR  KEC  SAMARINDA ULU  KOTA SAMARINDA  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>05412082429</telepon>
+    <fax>05412082429</fax>
+    <emailPerusahaan>05412082429</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21100506</no_ls>
+    <tgl_ls>2021-10-15</tgl_ls>
+    <tgl_ls_expired>2021-11-15</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0136</no_izin>
+    <tgl_izin>2021-06-11</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0136</noizinterdaftar>
+    <tglizinterdaftar>2021-06-11</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Barge</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MY</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>9500.00</kapkapal>
+    <asuransi>PT AIG INSURANCE INDONESIA</asuransi>
+    <catatanperiksa>NO LC : 5945604431, 11 OKTOBER 2021</catatanperiksa>
+    <tempatperiksa>JETTY KSU PUTRA MAHAKAM MANDIRI, ANGGANA, KUTAI KARTANEGARA</tempatperiksa>
+    <tglperiksa>2021-10-09</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>003/BPI-PL/X/2021</nopacklist>
+    <tglpacklist>2021-10-14</tglpacklist>
+    <noinvoice>003/BPI-INV/X/2021</noinvoice>
+    <tglinvoice>2021-10-14</tglinvoice>
+    <namaclient>GOODFOUND CEMENT CORPORATION</namaclient>
+    <alamatclient>PALANOG, CAMALIG, ALBAY 4502, PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>TB. EVERLINE 1 / BG. EVERLINE 2</namavessel>
+    <tglmuatvessel>2021-10-09</tglmuatvessel>
+    <noiupop>503/1372/IUP-OP/DPMPTSP/VIII/201</noiupop>
+    <tgliupop>2018-08-14</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC : 5945604431, 11 OKTOBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>9069.675</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHTBC</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>203795.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>203795.60</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3020.00</cal_arb>
+      <cal_adb>4660.00</cal_adb>
+      <tm_arb>44.56</tm_arb>
+      <tash_adb>6.30</tash_adb>
+      <tsulf_adb>0.60</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>F3E3C6U8E31P5ODR</nobayarroyalti>
+      <tglbayarroyalti>2021-10-15</tglbayarroyalti>
+      <jmlVolume>9069.6800</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027569961728000</npwp>
+      <nmpersh>BUMI PARAMASARI INDO</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>169286212.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

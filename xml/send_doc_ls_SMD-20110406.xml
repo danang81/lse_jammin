@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber>193451727</refnumber>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20110406</no_ls>
+    <tgl_ls>2020-11-24</tgl_ls>
+    <tgl_ls_expired>2020-12-24</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Containers</modetransport>
+    <cargotype>Bulk</cargotype>
+    <bendera>AF</bendera>
+    <jeniskapal>LCT</jeniskapal>
+    <kapkapal>10.00</kapkapal>
+    <asuransi>aswata</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>samarinda&#13;
+</tempatperiksa>
+    <tglperiksa>2020-11-24</tglperiksa>
+    <portperiksa>PH NAG</portperiksa>
+    <nopacklist>12345</nopacklist>
+    <tglpacklist>2020-11-24</tglpacklist>
+    <noinvoice>12345</noinvoice>
+    <tglinvoice>2020-11-24</tglinvoice>
+    <namaclient>BASHUNDHARA MULTI TRADING </namaclient>
+    <alamatclient>PLOT-125/A, BLOCK-A, BASHUNDARA R/A, DHAKA-1229, BANGLADESH</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>Joko</namavessel>
+    <tglmuatvessel>2020-11-24</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>12345</nopetikemas>
+    <nosegel>12345</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>10.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BATUBARA LIGNIT (INDONESIAN STEAM COAL IN BULK)</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>AF</kdNegaraTujuan>
+      <kdPortAsal>PH NAG</kdPortAsal>
+      <kdPortBongkar>PH NAG</kdPortBongkar>
+      <kdPortMuat>PH NAG</kdPortMuat>
+      <value_currency>2000.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1000.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4021.00</cal_arb>
+      <cal_adb>5123.00</cal_adb>
+      <tm_arb>36.57</tm_arb>
+      <tash_adb>4.92</tash_adb>
+      <tsulf_adb>0.34</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>SCENARIOTESTPRO1</nobayarroyalti>
+      <tglbayarroyalti>2020-10-10</tglbayarroyalti>
+      <npwp>024266934022000</npwp>
+      <nmpersh>XYZ</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>10000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

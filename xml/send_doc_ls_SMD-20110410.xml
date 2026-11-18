@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20110410</no_ls>
+    <tgl_ls>2020-11-25</tgl_ls>
+    <tgl_ls_expired>2020-12-25</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>56452.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>SAMARINDA</tempatperiksa>
+    <tglperiksa>2020-11-23</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>1234</nopacklist>
+    <tglpacklist>2020-11-25</tglpacklist>
+    <noinvoice>1234</noinvoice>
+    <tglinvoice>2020-11-25</tglinvoice>
+    <namaclient>SMC CONSOLIDATED POWER CORP.</namaclient>
+    <alamatclient>NO. 40 SAN MIGUEL AVE.
+MANDALUYONG CITY
+PHILIPPINES
+TAX NUMBER : 008-107-131-000</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>JAMMIN</namavessel>
+    <tglmuatvessel>2020-11-23</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>10000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BATUBARA LIGNIT (INDONESIAN STEAM COAL IN BULK)</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHMNL</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>200000.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>100000.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4021.00</cal_arb>
+      <cal_adb>5123.00</cal_adb>
+      <tm_arb>36.57</tm_arb>
+      <tash_adb>4.92</tash_adb>
+      <tsulf_adb>0.34</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>SCENARIOTESTPRO1</nobayarroyalti>
+      <tglbayarroyalti>2020-09-15</tglbayarroyalti>
+      <npwp>029828118725000</npwp>
+      <nmpersh>JASA MUTU MINERAL INDONESIA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>3000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>SCENARIOTESTPRO2</nobayarroyalti>
+      <tglbayarroyalti>2020-07-14</tglbayarroyalti>
+      <npwp>024266934022000</npwp>
+      <nmpersh>XYZ</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>4000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>SCENARIOTESTPRO3</nobayarroyalti>
+      <tglbayarroyalti>2020-11-25</tglbayarroyalti>
+      <npwp>032532269731000</npwp>
+      <nmpersh>ABC</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>3000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015891377091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. MITRABARA ADIPERDANA TBK</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG GRHA BARAMULTI  JALAN SURYOPRANOTO NO  2  KOMPLEKS HARMONI BLOK A 8 PETOJO UTARA GAMBIR JAKARTA PUSAT DKI JAKARTA 10130</alamatPerusahaan>
+    <telepon>081221475555</telepon>
+    <fax>0</fax>
+    <emailPerusahaan>0</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>TRK-21110009</no_ls>
+    <tgl_ls>2021-11-08</tgl_ls>
+    <tgl_ls_expired>2021-12-08</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0126</no_izin>
+    <tgl_izin>2020-07-06</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0126</noizinterdaftar>
+    <tglizinterdaftar>2020-07-06</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>80536.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa>NO LC :TF2129311001, 21 OKTOBER 2021</catatanperiksa>
+    <tempatperiksa>TARAKAN ANCHORAGE, NORTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-11-05</tglperiksa>
+    <portperiksa>IDTRK</portperiksa>
+    <nopacklist>051/PL-MA/XI/2021</nopacklist>
+    <tglpacklist>2021-11-08</tglpacklist>
+    <noinvoice>001/MA/INV/EX/XI/2021</noinvoice>
+    <tglinvoice>2021-11-08</tglinvoice>
+    <namaclient>JERA CO., INC.</namaclient>
+    <alamatclient>NIHONBASHI TAKASHIMAYA MITSUI BUILDING 25TH FLOOR, 2-5-1 NIHONBASHI, CHUO-KU, TOKYO, 103-6125, JAPAN</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. NEW ENDEAVOR</namavessel>
+    <tglmuatvessel>2021-11-05</tglmuatvessel>
+    <noiupop>503/545/K.633/2009</noiupop>
+    <tgliupop>2009-12-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC :TF2129311001, 21 OKTOBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>78170.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>MALINAU GREEN COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>JP</kdNegaraTujuan>
+      <kdPortAsal>IDTRK</kdPortAsal>
+      <kdPortBongkar>JPHIC</kdPortBongkar>
+      <kdPortMuat>IDTRK</kdPortMuat>
+      <value_currency>5510985.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5510985.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5100.00</cal_arb>
+      <cal_adb>5179.00</cal_adb>
+      <tm_arb>21.00</tm_arb>
+      <tash_adb>4.19</tash_adb>
+      <tsulf_adb>0.30</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>F916E61QU8HVM9C6</nobayarroyalti>
+      <tglbayarroyalti>2021-11-01</tglbayarroyalti>
+      <jmlVolume>78170.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015891377091000</npwp>
+      <nmpersh>MITRABARA ADIPERDANA TBK</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>452174.37</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

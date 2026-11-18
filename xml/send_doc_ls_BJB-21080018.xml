@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>847539426015000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BATU AMPAR JAYA</namaPerusahaan>
+    <alamatPerusahaan>EIGHTYEIGHT KASABLANKA OFFICE TOWER LT 10  UNIT E JL  CASABLANCA KAV  88 KEL  MENTENG DALAM  KEC  TEBET  DKI JAKARTA</alamatPerusahaan>
+    <telepon>02129612678</telepon>
+    <fax>02129612679</fax>
+    <emailPerusahaan>02129612679</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21080018</no_ls>
+    <tgl_ls>2021-08-14</tgl_ls>
+    <tgl_ls_expired>2021-09-14</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0119</no_izin>
+    <tgl_izin>2019-05-09</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0119</noizinterdaftar>
+    <tglizinterdaftar>2019-05-09</tglizinterdaftar>
+    <no_lc>KBCE/LC/285/0721</no_lc>
+    <tgl_lc>2021-07-28</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>31877.00</kapkapal>
+    <asuransi>PVI INSURANCE CORPORATION</asuransi>
+    <catatanperiksa>NOMOR DAN TANGGAL L/C  KBCE/LC/285/0721 DAN 28 JULY 2021</catatanperiksa>
+    <tempatperiksa>TABONEO ANCHORAGE SOUTH KALIMANTAN INDONESIA</tempatperiksa>
+    <tglperiksa>2021-08-05</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>002/BAJ/PL/2021</nopacklist>
+    <tglpacklist>2021-08-14</tglpacklist>
+    <noinvoice>002/BAJ/INV/2021</noinvoice>
+    <tglinvoice>2021-08-14</tglinvoice>
+    <namaclient>SINOMET INTERNATIONAL CORPORATION</namaclient>
+    <alamatclient>33F FORTUNE PLAZA A, NO. 7 DONGSANHUAN ZHONG ROAD, BEIJING, CHINA 100020</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-07-28</tglmuat>
+    <namavessel>MV. GOLDEN BRIDGE</namavessel>
+    <tglmuatvessel>2021-08-05</tglmuatvessel>
+    <noiupop>-</noiupop>
+    <tgliupop>0000-00-00</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>95/1/IUP/PMDN/2019</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NOMOR DAN TANGGAL L/C  KBCE/LC/285/0721 DAN 28 JULY 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>30.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN THERMAL COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNSTG </kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>930900.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>930900.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3807.00</cal_arb>
+      <cal_adb>5355.00</cal_adb>
+      <tm_arb>39.12</tm_arb>
+      <tash_adb>8.05</tash_adb>
+      <tsulf_adb>0.97</tsulf_adb>
+      <klasifikasibb>&gt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>CAF6761QU83AS2MA</nobayarroyalti>
+      <tglbayarroyalti>2021-06-09</tglbayarroyalti>
+      <jmlVolume>7324.6240</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>032157893001000</npwp>
+      <nmpersh>BARITO ENERGI MANDIRI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>76603736.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>250F82G4UTPJ2F3Q</nobayarroyalti>
+      <tglbayarroyalti>2021-06-03</tglbayarroyalti>
+      <jmlVolume>6901.6470</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>032157893001000</npwp>
+      <nmpersh>BARITO ENERGI MANDIRI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>63900000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>EC7E261QU834LA88</nobayarroyalti>
+      <tglbayarroyalti>2021-06-03</tglbayarroyalti>
+      <jmlVolume>7122.7440</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>032157893001000</npwp>
+      <nmpersh>BARITO ENERGI MANDIRI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>75195000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>52EF12G4UTPUBOAS</nobayarroyalti>
+      <tglbayarroyalti>2021-06-14</tglbayarroyalti>
+      <jmlVolume>8501.9210</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>032157893001000</npwp>
+      <nmpersh>BARITO ENERGI MANDIRI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>95792424.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

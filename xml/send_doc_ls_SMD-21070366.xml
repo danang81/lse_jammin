@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024335739063000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. KUTAI ENERGI</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG SOPO DEL TOWER A  LT  23  JL  MEGA KUNINGAN BARAT III  LOT  10  1 6  KAWASAN MEGA KUNINGAN  KUNINGAN TIMUR  SETIABUDI  JAKARTA SELATAN </alamatPerusahaan>
+    <telepon>021-50806545</telepon>
+    <fax>021-50806595</fax>
+    <emailPerusahaan>021-50806595</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21070366</no_ls>
+    <tgl_ls>2021-07-13</tgl_ls>
+    <tgl_ls_expired>2021-08-13</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0144</no_izin>
+    <tgl_izin>2020-12-23</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0144</noizinterdaftar>
+    <tglizinterdaftar>2020-12-23</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>60317.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 19735010032664, 12 JULI 2021</catatanperiksa>
+    <tempatperiksa>SAMARINDA</tempatperiksa>
+    <tglperiksa>2021-07-10</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist> 014-52072021</nopacklist>
+    <tglpacklist>2021-07-11</tglpacklist>
+    <noinvoice> 014-52072021</noinvoice>
+    <tglinvoice>2021-07-11</tglinvoice>
+    <namaclient>AGARWAL COAL CORPORATION PVT. LTD.</namaclient>
+    <alamatclient>AGARWAL HOUSE, 5, YESHWANT COLONY INDORE - 452003 ( M.P.)
+INDIA</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV IVS NARUO</namavessel>
+    <tglmuatvessel>2021-07-10</tglmuatvessel>
+    <noiupop>503/1555/IUP-OP/DPMPTSP/IX/2018 </noiupop>
+    <tgliupop>2018-09-12</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 19735010032664, 12 JULI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>8770.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>STEAM ( NON - COKING ) COAL IN BULK OF INDONESIAN ORIGIN</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INBOM</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1132557.80</value_currency>
+      <currency>USD</currency>
+      <value_fob>566278.90</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5218.00</cal_adb>
+      <tm_arb>34.00</tm_arb>
+      <tash_adb>7.00</tash_adb>
+      <tsulf_adb>0.90</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>316A048VUIV4S0OG</nobayarroyalti>
+      <tglbayarroyalti>2021-07-01</tglbayarroyalti>
+      <jmlVolume>60700.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>024335739063000</npwp>
+      <nmpersh>KUTAI ENERGI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>108476.97</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

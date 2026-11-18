@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>016147548725000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. KALTIM BATUMANUNGGAL</namaPerusahaan>
+    <alamatPerusahaan>JL  IMAM BONJOL NO  17B RT  26  PELABUHAN  KEL  PELABUHAN  KEC  SAMARINDA  KOTA SAMARINDA  KALIMANTAN TIMUR </alamatPerusahaan>
+    <telepon>0541-4113759</telepon>
+    <fax>0541-206888</fax>
+    <emailPerusahaan>0541-206888</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040210</no_ls>
+    <tgl_ls>2021-05-05</tgl_ls>
+    <tgl_ls_expired>2021-06-05</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0135</no_izin>
+    <tgl_izin>2020-07-15</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0135</noizinterdaftar>
+    <tglizinterdaftar>2020-07-15</tglizinterdaftar>
+    <no_lc>958010186445-L</no_lc>
+    <tgl_lc>2021-04-20</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>77031.00</kapkapal>
+    <asuransi>SKULD</asuransi>
+    <catatanperiksa>NO LC. 958010186445-L, 20 APRIL 2021</catatanperiksa>
+    <tempatperiksa>SAMARINDA, JETTY PT. KALTIM BATUMANUNGGAL</tempatperiksa>
+    <tglperiksa>2021-05-05</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>KBM-CI-2021-021</nopacklist>
+    <tglpacklist>2021-05-05</tglpacklist>
+    <noinvoice>KBM-CI-2021-021</noinvoice>
+    <tglinvoice>2021-05-05</tglinvoice>
+    <namaclient>AVRA COMMODITIES PTE LTD</namaclient>
+    <alamatclient>137 TELOK AYER STREET HEX 04-05 SINGAPORE 068602</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-04-20</tglmuat>
+    <namavessel>MV. OMICRON SKY</namavessel>
+    <tglmuatvessel>2021-04-24</tglmuatvessel>
+    <noiupop>503/2078/IUP-OP/DPMPTSP/XII/2018</noiupop>
+    <tgliupop>2018-12-03</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010186445-L, 20 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10290.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INHZR </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>626661.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>626661.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4911.00</cal_arb>
+      <cal_adb>5739.00</cal_adb>
+      <tm_arb>25.97</tm_arb>
+      <tash_adb>6.19</tash_adb>
+      <tsulf_adb>0.72</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>83D0061QU7TO9RPE</nobayarroyalti>
+      <tglbayarroyalti>2021-04-22</tglbayarroyalti>
+      <jmlVolume>5200.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>016147548725000</npwp>
+      <nmpersh>KALTIM BATUMANUNGGAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>96854934.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>347EA6U8E2G2K2K3</nobayarroyalti>
+      <tglbayarroyalti>2021-04-20</tglbayarroyalti>
+      <jmlVolume>5150.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>016147548725000</npwp>
+      <nmpersh>KALTIM BATUMANUNGGAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>96479025.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20060162</no_ls>
+    <tgl_ls>2020-06-06</tgl_ls>
+    <tgl_ls_expired>2020-07-06</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0098</no_izin>
+    <tgl_izin>2019-10-18</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0098</noizinterdaftar>
+    <tglizinterdaftar>2019-10-18</tglizinterdaftar>
+    <no_lc>HEN2020LC00041</no_lc>
+    <tgl_lc>2020-05-29</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>INDONESIAN STEAM COAL IN BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER </jeniskapal>
+    <kapkapal>75580.00</kapkapal>
+    <asuransi>PT. SOMPO INSURANCE INDONESIA</asuransi>
+    <catatanperiksa>LC NO : HEN2020LC00041 dan 29 MEI 2020 </catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, INDONESIA&#13;
+</tempatperiksa>
+    <tglperiksa>2020-06-05</tglperiksa>
+    <portperiksa>IDBPP</portperiksa>
+    <nopacklist>949/BT/HJSC/VI/2020</nopacklist>
+    <tglpacklist>2020-06-05</tglpacklist>
+    <noinvoice>949/BT/HJSC/VI/2020</noinvoice>
+    <tglinvoice>2020-06-05</tglinvoice>
+    <namaclient>HENAN JINRUI SUPPLY CHAIN MANAGEMENT., CO LTD.</namaclient>
+    <alamatclient>ROOM 911, BLOCK A, FTA BUILDING,
+NO. 296, ZHENGKAI AVENUE,
+KAIFENG AREA OF CHINA (HENAN) PILOT FREE TRADE ZONE</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-05-29</tglmuat>
+    <namavessel>MV YASA UNITY</namavessel>
+    <tglmuatvessel>2020-06-05</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO : HEN2020LC00041 dan 29 MEI 2020 </kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>55685.588</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>CNGUT</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>4796220.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1867694.62</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>15814.412</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>CNGUT</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>4796220.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>530415.38</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4504.00</cal_arb>
+      <cal_adb>5643.00</cal_adb>
+      <tm_arb>31.63</tm_arb>
+      <tash_adb>4.12</tash_adb>
+      <tsulf_adb>0.37</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>24350.86</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>45072.62</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>46076.32</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

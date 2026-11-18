@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>026482364091000</npwp>
+        <refnumber>5405</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BATUBARA GLOBAL ENERGY</namaPerusahaan>
+        <alamatPerusahaan>PACIFIC CENTURY PLACE   LT  33  JALAN JENDRAL SUDIRMAN KAVLING 52 53  SCBD LOT 10  KEL  SENAYAN  KEC</alamatPerusahaan>
+        <telepon>0000000</telepon>
+        <fax>000000</fax>
+        <emailPerusahaan>rosyanna.smd.lgi@gmail.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23110644</no_ls>
+        <tgl_ls>2023-11-17</tgl_ls>
+        <tgl_ls_expired>2023-12-17</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0610</noizinterdaftar>
+        <tglizinterdaftar>2023-11-06</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-11-06</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>LR</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>58096.00</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : MD2QX2311RS00203, 13 NOVEMBER 2023</catatanperiksa>
+        <tempatperiksa>MUARA BERAU</tempatperiksa>
+        <tglperiksa>2023-11-17</tglperiksa>
+        <portperiksa>IDSRD</portperiksa>
+        <nopacklist>BGE-2023-018</nopacklist>
+        <tglpacklist>2023-11-17</tglpacklist>
+        <noinvoice>BGE-2023-018</noinvoice>
+        <tglinvoice>2023-11-17</tglinvoice>
+        <namaclient>HOANH SON GROUP JOINT STOCK COMPANY</namaclient>
+        <alamatclient>ADDRESS: THUAN MINH QUARTER, DUC THUAN WARD,
+HONG LINH TOWN, HA TINH PROVINCE, VIETNAM</alamatclient>
+        <namavessel>MV. DIONI</namavessel>
+        <tglmuatvessel>2023-11-11</tglmuatvessel>
+        <noiupop>4/1/IUP/PMA/2019</noiupop>
+        <tgliupop>2019-01-15</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : MD2QX2311RS00203, 13 NOVEMBER 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>7200.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>VN</kdNegaraTujuan>
+          <kdPortAsal>IDSRD</kdPortAsal>
+          <kdPortBongkar>VNVUT</kdPortBongkar>
+          <kdPortMuat>IDSRD</kdPortMuat>
+          <value_currency>4105200.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>537408.00</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>26277.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>VN</kdNegaraTujuan>
+          <kdPortAsal>IDSRD</kdPortAsal>
+          <kdPortBongkar>VNVUT</kdPortBongkar>
+          <kdPortMuat>IDSRD</kdPortMuat>
+          <value_currency>4105200.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1961315.28</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>3</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>14217.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>VN</kdNegaraTujuan>
+          <kdPortAsal>IDSRD</kdPortAsal>
+          <kdPortBongkar>VNVUT</kdPortBongkar>
+          <kdPortMuat>IDSRD</kdPortMuat>
+          <value_currency>4105200.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1061156.88</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>4</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>7306.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>VN</kdNegaraTujuan>
+          <kdPortAsal>IDSRD</kdPortAsal>
+          <kdPortBongkar>VNVUT</kdPortBongkar>
+          <kdPortMuat>IDSRD</kdPortMuat>
+          <value_currency>4105200.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>545319.84</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4952.00</cal_arb>
+          <cal_adb>5702.00</cal_adb>
+          <tm_arb>25.89</tm_arb>
+          <tash_adb>7.24</tash_adb>
+          <tsulf_adb>0.70</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>E16A01JNFMA896H5</nobayarroyalti>
+          <tglbayarroyalti>2023-11-06</tglbayarroyalti>
+          <npwp>024354649728000</npwp>
+          <nmpersh>BORNEO EMAS HITAM</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>1071679572.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>6C63F55DF0JPRPIH</nobayarroyalti>
+          <tglbayarroyalti>2023-11-08</tglbayarroyalti>
+          <npwp>021916762091000</npwp>
+          <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5300.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>131464168.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>1D02E61QUR68HBGO</nobayarroyalti>
+          <tglbayarroyalti>2023-11-10</tglbayarroyalti>
+          <npwp>021916762091000</npwp>
+          <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>129474176.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>1E7548N3EATBG2V9</nobayarroyalti>
+          <tglbayarroyalti>2023-11-08</tglbayarroyalti>
+          <npwp>021916762091000</npwp>
+          <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5300.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>131464168.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>3638D6U8ELOGJRB3</nobayarroyalti>
+          <tglbayarroyalti>2023-11-05</tglbayarroyalti>
+          <npwp>021916762091000</npwp>
+          <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>129720448.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>416177QLUGB2I5MQ</nobayarroyalti>
+          <tglbayarroyalti>2023-11-11</tglbayarroyalti>
+          <npwp>021916762091000</npwp>
+          <nmpersh>ENERGY CAHAYA INDUSTRITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5200.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>128960000.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>B70B00N9VRNSVM7M</nobayarroyalti>
+          <tglbayarroyalti>2023-11-08</tglbayarroyalti>
+          <npwp>024266934022000</npwp>
+          <nmpersh>GANDA ALAM MAKMUR</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>120000000.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>0B0251JNFMA558N5</nobayarroyalti>
+          <tglbayarroyalti>2023-11-03</tglbayarroyalti>
+          <npwp>024266934022000</npwp>
+          <nmpersh>GANDA ALAM MAKMUR</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>120000000.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>C7A828N3EATCL4IV</nobayarroyalti>
+          <tglbayarroyalti>2023-11-08</tglbayarroyalti>
+          <npwp>026611632725000</npwp>
+          <nmpersh>MANOOR BULATN LESTARI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7300.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>1404991872.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

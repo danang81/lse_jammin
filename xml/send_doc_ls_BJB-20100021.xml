@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>838559003015000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. RLK DEVELOPMENT INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>PERTOKOAN CROWN PALACE BLOK D NO  15  JL  PROF DR  SOEPOMO NO  231  KEL  MENTENG DALAM  KEC  TEBET  JAKARTA SELATAN</alamatPerusahaan>
+    <telepon>( 021 ) 36852551</telepon>
+    <fax>( 021 ) 36852551</fax>
+    <emailPerusahaan>( 021 ) 36852551</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-20100021</no_ls>
+    <tgl_ls>2020-10-10</tgl_ls>
+    <tgl_ls_expired>2020-11-10</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0003</no_izin>
+    <tgl_izin>2019-01-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0003</noizinterdaftar>
+    <tglizinterdaftar>2019-01-08</tglizinterdaftar>
+    <no_lc>F0ATAQ280010SUS0</no_lc>
+    <tgl_lc>2020-09-21</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>59905.00</kapkapal>
+    <asuransi>DB INSURANCE CO.,LTD.</asuransi>
+    <catatanperiksa>L/C NOMOR F0ATAQ280010SUS0  TANGGAL 21 SEPTEMBER 2020</catatanperiksa>
+    <tempatperiksa>TABONEO SOUTH KALIMANTAN INDONESIA</tempatperiksa>
+    <tglperiksa>2020-10-03</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>PL/RLK/X/2020/010B</nopacklist>
+    <tglpacklist>2020-10-10</tglpacklist>
+    <noinvoice>INV/RLK/X/2020/010B</noinvoice>
+    <tglinvoice>2020-10-10</tglinvoice>
+    <namaclient>FORMOSA TAFFETA VIETNAM CO.,LTD.</namaclient>
+    <alamatclient>SECTION 1, NHUT CHANH WARD, BEN LUC DISTRICT, LONG AN PROVINCE, VIETNAM</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-09-21</tglmuat>
+    <namavessel>MV. K SPINEL</namavessel>
+    <tglmuatvessel>2020-10-03</tglmuatvessel>
+    <noiupop>84/1/IUP/PMA/2018</noiupop>
+    <tgliupop>2018-11-28</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>84/1/IUP/PMA/2018</noiupopkolah>
+    <tgliupopkolah>2018-11-28</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>L/C NOMOR F0ATAQ280010SUS0  TANGGAL 21 SEPTEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>30559.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>VNPHU</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>2121381.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1252919.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>21182.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>VNPHU</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>2121381.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>868462.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4698.00</cal_arb>
+      <cal_adb>5355.00</cal_adb>
+      <tm_arb>17.89</tm_arb>
+      <tash_adb>6.41</tash_adb>
+      <tsulf_adb>0.72</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>195856500.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>125350000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>56700000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>115560000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>115560000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>142560670.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>7</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>64260000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

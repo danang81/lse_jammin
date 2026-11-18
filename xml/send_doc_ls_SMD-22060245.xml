@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>725588123013000</npwp>
+        <refnumber>4715803513</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. ALFA ENERGI INVESTAMA TBK</namaPerusahaan>
+        <alamatPerusahaan>RUKO PLAZA 5 BLOK D 12  JL MARGAGUNA RAYA  KEL  GANDARIA UTARA  KEC  KEBAYORAN BARU  KOTA ADM  JAKAR</alamatPerusahaan>
+        <telepon>021-7246966</telepon>
+        <fax>021-72780115</fax>
+        <emailPerusahaan>indah@alfacentra.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22060245</no_ls>
+        <tgl_ls>2022-06-15</tgl_ls>
+        <tgl_ls_expired>2022-07-15</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0519</no_izin>
+        <tgl_izin>2021-12-30</tgl_izin>
+        <tgl_izin_expired>2022-07-15</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0519</noizinterdaftar>
+        <tglizinterdaftar>2021-12-30</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-07-15</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>LR</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>149322.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa>NO LC : 28532010038575, 31 MEI 2022</catatanperiksa>
+        <tempatperiksa>MUARA BERAU, KALIMANTAN TIMUR, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-06-15</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>002/AEI-PL/VI/2022</nopacklist>
+        <tglpacklist>2022-06-15</tglpacklist>
+        <noinvoice>002/AEI-INV/VI/2022</noinvoice>
+        <tglinvoice>2022-06-15</tglinvoice>
+        <namaclient>VIMAL COAL PRIVATE LIMITED</namaclient>
+        <alamatclient>503, ADDOR ASPIRE, NR.
+JAHANVEE RD, UNIVERSITY TO PANJRAPOLE RD, AHMEDABAD GUJARAT
+380015. IEC CODE </alamatclient>
+        <namavessel>MV ORIENT 1</namavessel>
+        <tglmuatvessel>2022-06-07</tglmuatvessel>
+        <noiupop>163/1/IUP/PMDN/2019</noiupop>
+        <tgliupop>2019-04-22</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>NO LC : 28532010038575, 31 MEI 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>15000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>STEAM (NON-COKING) COAL IN BULK OF INDONESIAN ORIGIN</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>INNAV</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>1179300.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1179300.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4200.00</cal_arb>
+          <cal_adb>4500.00</cal_adb>
+          <tm_arb>32.00</tm_arb>
+          <tash_adb>8.00</tash_adb>
+          <tsulf_adb>0.80</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>0556061QUHAK5URC</nobayarroyalti>
+          <tglbayarroyalti>2022-05-20</tglbayarroyalti>
+          <npwp>026724864722000</npwp>
+          <nmpersh>ALFARA DELTA PERSADA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7600.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>8025.06</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>48C102G4V714PN3S</nobayarroyalti>
+          <tglbayarroyalti>2022-05-20</tglbayarroyalti>
+          <npwp>026724864722000</npwp>
+          <nmpersh>ALFARA DELTA PERSADA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7600.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>7927.44</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

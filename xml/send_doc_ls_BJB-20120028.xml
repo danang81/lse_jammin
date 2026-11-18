@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017110610091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. WAHANA BARATAMA MINING</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 29 UNIT D SCBD LOT 8  JL  JENDERAL SUDIRMAN KAV  52 53   JL  SENOPATI RAYA 8B    SENAYAN  KEBAYORAN BARU  JAKARTA SELATAN  DKI JAKARTA  12190</alamatPerusahaan>
+    <telepon>021-29332888</telepon>
+    <fax>021-29332999</fax>
+    <emailPerusahaan>021-29332999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-20120028</no_ls>
+    <tgl_ls>2020-12-27</tgl_ls>
+    <tgl_ls_expired>2021-01-27</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0073</no_izin>
+    <tgl_izin>2020-05-04</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0073</noizinterdaftar>
+    <tglizinterdaftar>2020-05-04</tglizinterdaftar>
+    <no_lc>730ILFS203560001</no_lc>
+    <tgl_lc>2020-12-21</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK </cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>93069.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>L/C NO 730ILFS203560001                    21 DESEMBER 2020</catatanperiksa>
+    <tempatperiksa>KOMPLEK JETTY PT. WBM DESA SUNGAI CUKA KECAMATAN SATUI KABUPATEN TANAH BUMBU PROVINSI KALIMANTAN SELATAN, TELP: 0512 61305</tempatperiksa>
+    <tglperiksa>2020-12-19</tglperiksa>
+    <portperiksa>IDSTU</portperiksa>
+    <nopacklist>482/WBM/TLI/XII/2020</nopacklist>
+    <tglpacklist>2020-12-27</tglpacklist>
+    <noinvoice>482/WBM/TLI/XII/2020</noinvoice>
+    <tglinvoice>2020-12-27</tglinvoice>
+    <namaclient>THERMA LUZON, INC.</namaclient>
+    <alamatclient>14th FLOOR NAC TOWER 32nd STREET, BGC, FORT BONIFACIO TAGUIG CITY , PHILIPPINES 1634</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-12-21</tglmuat>
+    <namavessel>MV. JIN JIA</namavessel>
+    <tglmuatvessel>2020-12-21</tglmuatvessel>
+    <noiupop>388.K/34.02/DJB/2007</noiupop>
+    <tgliupop>2007-10-26</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>L/C NO 730ILFS203560001                    21 DESEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>86420.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>LAIN - LAIN ( INDONESIAN STEAM COAL IN BULK )</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSTU</kdPortAsal>
+      <kdPortBongkar>PHQZT</kdPortBongkar>
+      <kdPortMuat>IDSTU</kdPortMuat>
+      <value_currency>11829169.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>5914584.80</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>6269.00</cal_arb>
+      <cal_adb>6610.00</cal_adb>
+      <tm_arb>9.55</tm_arb>
+      <tash_adb>4.63</tash_adb>
+      <tsulf_adb>0.58</tsulf_adb>
+      <klasifikasibb>&gt; 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>7C26D1JNEQFFQQJP</nobayarroyalti>
+      <tglbayarroyalti>2020-12-18</tglbayarroyalti>
+      <jmlVolume>80000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>017110610091000</npwp>
+      <nmpersh>WAHANA BARATAMA MINING</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>362910.04</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

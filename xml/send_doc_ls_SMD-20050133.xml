@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024335739063000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. KUTAI ENERGI</namaPerusahaan>
+    <alamatPerusahaan>GD SOPO DEL TOWER A  LT  23  JL  MEGA KUNINGAN BARAT III  LOT  10  1 6  KAWASAN MEGA KUNINGAN  KUNINGAN TIMUR  SETIABUDI  JAKARTA SELATAN INDONESIA</alamatPerusahaan>
+    <telepon>021-50806545</telepon>
+    <fax>021-50806595</fax>
+    <emailPerusahaan>021-50806595</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20050133</no_ls>
+    <tgl_ls>2020-05-18</tgl_ls>
+    <tgl_ls_expired>2020-06-18</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0156</no_izin>
+    <tgl_izin>2019-05-21</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0156</noizinterdaftar>
+    <tglizinterdaftar>2019-05-21</tglizinterdaftar>
+    <no_lc>20ITM450204000</no_lc>
+    <tgl_lc>2020-05-05</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / IN BULK</cargotype>
+    <bendera>BS</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82052.00</kapkapal>
+    <asuransi>PT. ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>NO LC. 20ITM450204000, 05 MEI 2020</catatanperiksa>
+    <tempatperiksa>SAMARINDA</tempatperiksa>
+    <tglperiksa>2020-05-18</tglperiksa>
+    <portperiksa>IDMUB</portperiksa>
+    <nopacklist>009-04052020</nopacklist>
+    <tglpacklist>2020-05-18</tglpacklist>
+    <noinvoice>009-04052020</noinvoice>
+    <tglinvoice>2020-05-18</tglinvoice>
+    <namaclient>ZJMI ENVIRONMENTAL ENERGY CO., LTD.</namaclient>
+    <alamatclient>NO. 137 , QINGCHUN ROAD , HANGZHOU , ZHEJIANG 310003, P.R. CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-05-05</tglmuat>
+    <namavessel>MV FLAMENCO</namavessel>
+    <tglmuatvessel>2020-05-14</tglmuatvessel>
+    <noiupop>503/1555/IUP-OP/DPMPTSP/IX/2018</noiupop>
+    <tgliupop>2018-09-12</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 20ITM450204000, 05 MEI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5006.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDMUB</kdPortAsal>
+      <kdPortBongkar>CNZZU </kdPortBongkar>
+      <kdPortMuat>IDMUB</kdPortMuat>
+      <value_currency>175210.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>175210.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5218.00</cal_adb>
+      <tm_arb>34.00</tm_arb>
+      <tash_adb>7.00</tash_adb>
+      <tsulf_adb>0.90</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>024335739063000</npwp>
+      <nmpersh>KUTAI ENERGI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>4650.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>024331100091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BAYAN RESOURCES.TBK</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   SENAYAN KEBAYORAN BARU JAKARTA SELATAN     12190</alamatPerusahaan>
+    <telepon>021-2933 2888</telepon>
+    <fax>021-2933 2999</fax>
+    <emailPerusahaan>021-2933 2999</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21100508</no_ls>
+    <tgl_ls>2021-10-16</tgl_ls>
+    <tgl_ls_expired>2021-11-16</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0049</no_izin>
+    <tgl_izin>2020-03-30</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+    <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>77509.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC : M04FB2110NU00477, 14 OKTOBER 2021 </catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-10-15</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1263/BR/KCH/X/2021</nopacklist>
+    <tglpacklist>2021-10-16</tglpacklist>
+    <noinvoice>1263/BR/KCH/X/2021</noinvoice>
+    <tglinvoice>2021-10-16</tglinvoice>
+    <namaclient>KCH ENERGY CO., LTD.</namaclient>
+    <alamatclient>SUITE 4008 TRADE TOWER, 159-1
+SAMSUNG-DONG, GANGNAM-GU,
+SEOUL, SOUTH KOREA T.0234406200</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV GNS HARMONY</namavessel>
+    <tglmuatvessel>2021-10-15</tglmuatvessel>
+    <noiupop>50/I/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-07-16</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC : M04FB2110NU00477, 14 OKTOBER 2021 </kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>75750.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>KRTJI </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>11301900.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5650950.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4258.00</cal_arb>
+      <cal_adb>5348.00</cal_adb>
+      <tm_arb>35.40</tm_arb>
+      <tash_adb>3.18</tash_adb>
+      <tsulf_adb>0.10</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>FAC476U8E2UP916R</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>EC84F6U8E2UVMB09</nobayarroyalti>
+      <tglbayarroyalti>2021-09-21</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>ECC073CIEOL7L12B</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>7DB4A1JNF3GER22F</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>85C142G4UU2R80SC</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>7A0C33CIEOLE2903</nobayarroyalti>
+      <tglbayarroyalti>2021-09-21</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>7</idseriAsal>
+      <idposTarif>7</idposTarif>
+      <nobayarroyalti>988447QLTTHC3BDE</nobayarroyalti>
+      <tglbayarroyalti>2021-09-21</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>8</idseriAsal>
+      <idposTarif>8</idposTarif>
+      <nobayarroyalti>0B65D8N3DO3I32DL</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>9</idseriAsal>
+      <idposTarif>9</idposTarif>
+      <nobayarroyalti>4ECE43CIEOL7L1UP</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>10</idseriAsal>
+      <idposTarif>10</idposTarif>
+      <nobayarroyalti>29E8F1JNF3GER29V</nobayarroyalti>
+      <tglbayarroyalti>2021-09-14</tglbayarroyalti>
+      <jmlVolume>7000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2211.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

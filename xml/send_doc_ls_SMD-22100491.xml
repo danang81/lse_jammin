@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>010615987091000</npwp>
+        <refnumber>9310416623</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. MULTI HARAPAN UTAMA</namaPerusahaan>
+        <alamatPerusahaan>TCC BATAVIA TOWER ONE  41 ST FLOOR  UNIT 05  JL  KH MAS MANSYUR KAV  126 KARET TENGSIN TANAH ABANG  </alamatPerusahaan>
+        <telepon>021 - 29400266</telepon>
+        <fax>021 - 29400277</fax>
+        <emailPerusahaan>daniel.setiawan@mhucoal.co.id</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22100491</no_ls>
+        <tgl_ls>2022-10-08</tgl_ls>
+        <tgl_ls_expired>2022-11-08</tgl_ls_expired>
+        <no_izin>03.ET-04.22.0255</no_izin>
+        <tgl_izin>2022-04-28</tgl_izin>
+        <tgl_izin_expired>2022-11-08</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.22.0255</noizinterdaftar>
+        <tglizinterdaftar>2022-04-28</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-11-08</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>PT</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>80756.30</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : CL02680922, 28 SEPTEMBER 2022</catatanperiksa>
+        <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-10-06</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>193/MHU-ATC/F/X/2022</nopacklist>
+        <tglpacklist>2022-10-08</tglpacklist>
+        <noinvoice>193/MHU-ATC/F/X/2022</noinvoice>
+        <tglinvoice>2022-10-08</tglinvoice>
+        <namaclient/>
+        <alamatclient>AI. ZWYCIESTWA 241/13 81-521GDYNIA, POLAND</alamatclient>
+        <namavessel>MV. GEORG OLDENDORFF</namavessel>
+        <tglmuatvessel>2022-10-06</tglmuatvessel>
+        <noiupop>608/1/IUP/PMDN/2022</noiupop>
+        <tgliupop>2022-04-01</tgliupop>
+        <nopetikemas>&#x2014;</nopetikemas>
+        <nosegel>&#x2014;</nosegel>
+        <kesimpulan>NO LC : CL02680922, 28 SEPTEMBER 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011290</posTarif>
+          <jmlVolume>46200.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PL</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>PLGDN</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>15637776.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>7818888.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>5600.00</cal_arb>
+          <cal_adb>6000.00</cal_adb>
+          <tm_arb>19.50</tm_arb>
+          <tash_adb>5.01</tash_adb>
+          <tsulf_adb>0.84</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>100A00N9VI8FNOH0</nobayarroyalti>
+          <tglbayarroyalti>2022-09-26</tglbayarroyalti>
+          <npwp>010615987091000</npwp>
+          <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>38000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>1128600.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

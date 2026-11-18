@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>018960203423000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. TANJUNG BERSINAR CEMERLANG</namaPerusahaan>
+    <alamatPerusahaan>JALAN BENGAWAN NOMOR 71  KEL  CIHAPIT  KEC  BANDUNG WETAN  BANDUNG  JAWA BARAT</alamatPerusahaan>
+    <telepon>022 7104088</telepon>
+    <fax>022 7104087</fax>
+    <emailPerusahaan>022 7104087</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21050266</no_ls>
+    <tgl_ls>2021-05-24</tgl_ls>
+    <tgl_ls_expired>2021-06-24</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0321</no_izin>
+    <tgl_izin>2018-12-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0321</noizinterdaftar>
+    <tglizinterdaftar>2018-12-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>81462.40</kapkapal>
+    <asuransi>PT. ASURANSI ASTRA BUANA</asuransi>
+    <catatanperiksa>NO LC. SGAX132-206575, 17 MEI 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-05-21</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>024/TBC-DX/V/21</nopacklist>
+    <tglpacklist>2021-05-24</tglpacklist>
+    <noinvoice>024/TBC-DX/V/21</noinvoice>
+    <tglinvoice>2021-05-24</tglinvoice>
+    <namaclient>XIAMEN PORT TRADING CO., LTD.</namaclient>
+    <alamatclient/>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV ANTONIA S</namavessel>
+    <tglmuatvessel>2021-05-21</tglmuatvessel>
+    <noiupop>269/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-10-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. SGAX132-206575, 17 MEI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>51125.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNXAM </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3245415.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>3245415.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4678.00</cal_arb>
+      <cal_adb>5336.00</cal_adb>
+      <tm_arb>28.14</tm_arb>
+      <tash_adb>5.12</tash_adb>
+      <tsulf_adb>0.84</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>81A011JNF347FTQ1</nobayarroyalti>
+      <tglbayarroyalti>2021-05-03</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>159214275.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>B36046U8E2IHTTEV</nobayarroyalti>
+      <tglbayarroyalti>2021-05-03</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>159214275.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>6B7E53CIEO95TL3V</nobayarroyalti>
+      <tglbayarroyalti>2021-05-10</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>163469475.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>2B0568N3DNNGBKDL</nobayarroyalti>
+      <tglbayarroyalti>2021-05-10</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>163469475.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>5E57F61QU805GS60</nobayarroyalti>
+      <tglbayarroyalti>2021-05-03</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>159214275.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>FA6667QLTT4UAT6S</nobayarroyalti>
+      <tglbayarroyalti>2021-05-03</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>159214275.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>7</idseriAsal>
+      <idposTarif>7</idposTarif>
+      <nobayarroyalti>0632C48VUIRCMRH0</nobayarroyalti>
+      <tglbayarroyalti>2021-05-03</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025477407728001</npwp>
+      <nmpersh>ALAMJAYA BARA PRATAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>159214275.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

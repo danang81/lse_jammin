@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021831870063000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. INTI BARA PERDANA</namaPerusahaan>
+    <alamatPerusahaan>JL  SUNGAI RUPAT  NOMOR 22 B  RT 039  RW 007  KEL  PAGAR DEWA  KEC SELEBAR  BENGKULU</alamatPerusahaan>
+    <telepon>07365500513</telepon>
+    <fax>073655500514</fax>
+    <emailPerusahaan>073655500514</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-21030006</no_ls>
+    <tgl_ls>2021-03-11</tgl_ls>
+    <tgl_ls_expired>2021-04-11</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0164</no_izin>
+    <tgl_izin>2020-08-11</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0164</noizinterdaftar>
+    <tglizinterdaftar>2020-08-11</tglizinterdaftar>
+    <no_lc>010000000621218</no_lc>
+    <tgl_lc>2021-03-03</tgl_lc>
+    <modetransport>Barge</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MY</bendera>
+    <jeniskapal>STEEL BARGE</jeniskapal>
+    <kapkapal>11000.00</kapkapal>
+    <asuransi>PT. ASURANSI TUGU PRATAMA INDONESIA Tbk</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>PULAU BAAI, BENGKULU, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-03-11</tglperiksa>
+    <portperiksa>IDBKS</portperiksa>
+    <nopacklist>MPE/002/21</nopacklist>
+    <tglpacklist>2021-03-11</tglpacklist>
+    <noinvoice>MPE/002/21</noinvoice>
+    <tglinvoice>2021-03-11</tglinvoice>
+    <namaclient>EAGLE CEMENT CORPORATION</namaclient>
+    <alamatclient>2F SMITS CORPORATE CENTER 
+155 EDSA BRGY WACK-WACK
+MANDALUYONG CITY 1550 PHILIPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-03-03</tglmuat>
+    <namavessel>TB. MACALLAN 3 / BG.PETRUS</namavessel>
+    <tglmuatvessel>2021-03-08</tglmuatvessel>
+    <noiupop>503/12.1263/35/DPMPTSP-P2/2019</noiupop>
+    <tgliupop>2019-02-08</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10400.143</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>1 LOT BENGKULU LVM COAL PER CARGO SPECIFICATION</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBKS</kdPortAsal>
+      <kdPortBongkar>PHMNL</kdPortBongkar>
+      <kdPortMuat>IDBKS</kdPortMuat>
+      <value_currency>520007.15</value_currency>
+      <currency>USD</currency>
+      <value_fob>520007.15</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5498.00</cal_arb>
+      <cal_adb>6177.00</cal_adb>
+      <tm_arb>14.94</tm_arb>
+      <tash_adb>17.01</tash_adb>
+      <tsulf_adb>0.86</tsulf_adb>
+      <klasifikasibb>6177</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>60B498N3DNHDRNNL</nobayarroyalti>
+      <tglbayarroyalti>2021-03-08</tglbayarroyalti>
+      <jmlVolume>10400.1430</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>02.183.187.0-063.000</npwp>
+      <nmpersh>INTI BARA PERDANA</nmpersh>
+      <idprop>8</idprop>
+      <nmprop>Bengkulu</nmprop>
+      <royalti>28809.84</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

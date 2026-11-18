@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20060173</no_ls>
+    <tgl_ls>2020-06-11</tgl_ls>
+    <tgl_ls_expired>2020-07-11</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0098</no_izin>
+    <tgl_izin>2019-10-18</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0098</noizinterdaftar>
+    <tglizinterdaftar>2019-10-18</tglizinterdaftar>
+    <no_lc>08101LC20001185F</no_lc>
+    <tgl_lc>2020-06-04</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>INDONESIAN STEAM COAL</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER </jeniskapal>
+    <kapkapal>53383.00</kapkapal>
+    <asuransi>PT. ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>LC NO : 08101LC20001185F &#13;
+04 Juni 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-06-10</tglperiksa>
+    <portperiksa>IDBPP</portperiksa>
+    <nopacklist>955/BT/XXLGC/VI/2020</nopacklist>
+    <tglpacklist>2020-06-11</tglpacklist>
+    <noinvoice>955/BT/XXLGC/VI/2020</noinvoice>
+    <tglinvoice>2020-06-11</tglinvoice>
+    <namaclient>XIAMEN XIANGYU LOGISTICS GROUP CORPORATION</namaclient>
+    <alamatclient>2 UNITS, 9/F, TOWER E XIAMEN INTERNATIONAL SHIPPING CENTER,
+99 XIANGYU ROAD, MODERN LOGISTICS PARK,
+XIAMEN CITY , FUJIAN PROVINCE, P.R CHINA
+TEL : 0592-5658676 FAX : 0592-5652001</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-06-04</tglmuat>
+    <namavessel>MV GEORGIANA</namavessel>
+    <tglmuatvessel>2020-06-10</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO : 08101LC20001185F &#13;
+04 Juni 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>47100.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL </uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>CNTAC</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>2835420.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1417710.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4234.00</cal_arb>
+      <cal_adb>5630.00</cal_adb>
+      <tm_arb>35.10</tm_arb>
+      <tash_adb>3.77</tash_adb>
+      <tsulf_adb>0.09</tsulf_adb>
+      <klasifikasibb>5100-5600</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>36819.46</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

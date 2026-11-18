@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027953702081000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. SUMBER GLOBAL ENERGY TBK</namaPerusahaan>
+    <alamatPerusahaan>GRAHA BIP LANTAI 2  JALAN GATOT SUBROTO KAVELING 23  RT 002  RW 002  KEL  KARET SEMANGGI  KEC  SETIABUDI  JAKARTA SELATAN</alamatPerusahaan>
+    <telepon>021-2500120</telepon>
+    <fax>021-2500243</fax>
+    <emailPerusahaan>021-2500243</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21050221</no_ls>
+    <tgl_ls>2021-05-03</tgl_ls>
+    <tgl_ls_expired>2021-06-03</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0064</no_izin>
+    <tgl_izin>2020-06-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0064</noizinterdaftar>
+    <tglizinterdaftar>2020-06-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CN</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>74242.00</kapkapal>
+    <asuransi>CHINA SHIPOWNERS MUTUAL ASSURANCE ASSOCIATION</asuransi>
+    <catatanperiksa>NO LC. 462LC210000132A, 19 APRIL 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE , EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-22</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>PL.SGE-V-2021-015</nopacklist>
+    <tglpacklist>2021-05-03</tglpacklist>
+    <noinvoice>INV.SGE-V-2021-015</noinvoice>
+    <tglinvoice>2021-05-03</tglinvoice>
+    <namaclient>GUANGDONG BAOLIHUA ELECTRIC POWER CO., LTD</namaclient>
+    <alamatclient>HESHUYUAN BINGCUN TOWN, MEIXIAN DISTRICT, MEIZHOU CITY, GUANGDONG PROVINCE, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. DA JIA</namavessel>
+    <tglmuatvessel>2021-04-22</tglmuatvessel>
+    <noiupop>22/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-06-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 462LC210000132A, 19 APRIL 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>2377.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNSAW </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>865568.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>150939.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>6867.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNSAW </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>865568.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>436054.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>4387.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNSAW </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>865568.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>278574.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4454.00</cal_arb>
+      <cal_adb>4900.00</cal_adb>
+      <tm_arb>30.00</tm_arb>
+      <tash_adb>14.00</tash_adb>
+      <tsulf_adb>0.85</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>4BC0C6U8E2G9SR81</nobayarroyalti>
+      <tglbayarroyalti>2021-04-27</tglbayarroyalti>
+      <jmlVolume>3021.3300</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027562420728000</npwp>
+      <nmpersh>BELAYAN INTERNASIONAL COAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>41180788.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>7B7B955DEDB4DR8J</nobayarroyalti>
+      <tglbayarroyalti>2021-04-16</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022919666727001</npwp>
+      <nmpersh>TUBINDO</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>66907925.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>CA0CC2G4UTK08G8I</nobayarroyalti>
+      <tglbayarroyalti>2021-04-16</tglbayarroyalti>
+      <jmlVolume>5300.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>028529865728000</npwp>
+      <nmpersh>ANGGARAKSA ADISARANA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>39513448.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

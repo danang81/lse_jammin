@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20090313</no_ls>
+    <tgl_ls>2020-09-19</tgl_ls>
+    <tgl_ls_expired>2020-10-19</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0062</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>154010012054-G</no_lc>
+    <tgl_lc>2020-09-11</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>CY</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82533.00</kapkapal>
+    <asuransi>JLT SPECIALTY LIMITED</asuransi>
+    <catatanperiksa>NO LC. 154010012054-G, 11 SEPTEMBER 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-09-17</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>1033/BT/TVI/IX/2020</nopacklist>
+    <tglpacklist>2020-09-19</tglpacklist>
+    <noinvoice>1033/BT/TVI/IX/2020</noinvoice>
+    <tglinvoice>2020-09-19</tglinvoice>
+    <namaclient>THERMA VISAYAS, INC.</namaclient>
+    <alamatclient>BARANGAY BATO,
+TOLEDO CITY, CEBU
+PHILIPPINES.
+TIN# 005-031-663-000
+BUSINESS STYLE: THERMA VISAYAS, INC.</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-09-11</tglmuat>
+    <namavessel>MV ASTRAEA SB</namavessel>
+    <tglmuatvessel>2020-09-17</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 154010012054-G, 11 SEPTEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>78071.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHTLD </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>5074615.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2537307.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4268.00</cal_arb>
+      <cal_adb>5486.00</cal_adb>
+      <tm_arb>34.59</tm_arb>
+      <tash_adb>3.13</tash_adb>
+      <tsulf_adb>0.09</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>25204.98</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

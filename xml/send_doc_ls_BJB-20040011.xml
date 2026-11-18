@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>838559003015000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. RLK DEVELOPMENT INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>RUKAN CROWN PALACE BLOK D 15  JL  PROF  DR  SOEPOMO NO  231  MENTENG DALAM  TEBET  JAKARTA SELATAN 12870</alamatPerusahaan>
+    <telepon>021 36852551</telepon>
+    <fax>021 36852551</fax>
+    <emailPerusahaan>021 36852551</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-20040011</no_ls>
+    <tgl_ls>2020-04-21</tgl_ls>
+    <tgl_ls_expired>2020-05-21</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0003</no_izin>
+    <tgl_izin>2019-01-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0003</noizinterdaftar>
+    <tglizinterdaftar>2019-01-08</tglizinterdaftar>
+    <no_lc>550-01-0305933</no_lc>
+    <tgl_lc>2020-04-03</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>55496.00</kapkapal>
+    <asuransi>PT. ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>LC NO. 550-01-0305933, 03-04-2020</catatanperiksa>
+    <tempatperiksa>Taboneo, South Kalimantan Selatan, Indonesia</tempatperiksa>
+    <tglperiksa>2020-04-09</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>PL/RLK/IV/2020/003</nopacklist>
+    <tglpacklist>2020-04-21</tglpacklist>
+    <noinvoice>INV/RLK/IV/2020/003C</noinvoice>
+    <tglinvoice>2020-04-21</tglinvoice>
+    <namaclient>SHANXI ( YANGQUAN ) INTERNATIONAL INLAND PORT GROUP CO.,LTD</namaclient>
+    <alamatclient>XIA WUDU, ECONOMOC AND TECHNOLOGICAL DEVELOPMENT ZONE, YANGQUAN CITY, SHANXI PROVINCE</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-04-03</tglmuat>
+    <namavessel>MV. JIN YUAN</namavessel>
+    <tglmuatvessel>2020-04-08</tglmuatvessel>
+    <noiupop>84/1/IUP/PMA/2018</noiupop>
+    <tgliupop>2018-11-28</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>84/1/IUP/PMA/2018</noiupopkolah>
+    <tgliupopkolah>2018-11-28</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO. 550-01-0305933, 03-04-2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>48984.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>Indonesian Steam Coal </uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CH</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNTAC</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>3820752.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1910376.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4301.00</cal_arb>
+      <cal_adb>5011.00</cal_adb>
+      <tm_arb>29.45</tm_arb>
+      <tash_adb>8.05</tash_adb>
+      <tsulf_adb>1.30</tsulf_adb>
+      <klasifikasibb>&lt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>121483201.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>133671876.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>135775343.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>312392780015000</npwp>
+      <nmpersh>AERO MANDIRI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>64411320.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>022618094014000</npwp>
+      <nmpersh>KAPUAS BARA UTAMA</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>446122867.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>022618094014000</npwp>
+      <nmpersh>KAPUAS BARA UTAMA</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>435107827.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024945206012000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. TIWA ABADI</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LT  29 UNIT A JL SENOPATI NO 8B  SENAYAN  KEBAYORAN BARU  KOTA ADM  JAKARTA SELATAN </alamatPerusahaan>
+        <telepon>0000</telepon>
+        <fax>0000</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23080474</no_ls>
+        <tgl_ls>2023-08-17</tgl_ls>
+        <tgl_ls_expired>2023-09-17</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.22.0046</noizinterdaftar>
+        <tglizinterdaftar>2022-02-08</tglizinterdaftar>
+        <tglizinterdaftar_expired>2025-02-08</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>PH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>74020.00</kapkapal>
+        <asuransi>STEAMSHIP MUTUAL</asuransi>
+        <catatanperiksa>NO LC : 2023/0083, 14 AGUSTUS 2023</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN COAL TERMINAL (BCT), EAST KALIMANTAN, INDONESIA&#xD;
+</tempatperiksa>
+        <tglperiksa>2023-08-16</tglperiksa>
+        <portperiksa>IDBPP</portperiksa>
+        <nopacklist>070/TA/ECC/VIII/2023</nopacklist>
+        <tglpacklist>2023-08-17</tglpacklist>
+        <noinvoice>070/TA/ECC/VIII/2023</noinvoice>
+        <tglinvoice>2023-08-17</tglinvoice>
+        <namaclient>EAGLE CEMENT CORPORATION</namaclient>
+        <alamatclient>2F SMITS CORPORATE CENTER 
+155 EDSA BRGY. WACK WACK
+MANDALUYONG CITY, PHILIPPINES</alamatclient>
+        <namavessel> MV GLOBAL PANTELIS</namavessel>
+        <tglmuatvessel>2023-08-16</tglmuatvessel>
+        <noiupop>503/821/IUP-OP/ DPMPTSP/V/2018</noiupop>
+        <tgliupop>2018-05-08</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : 2023/0083, 14 AGUSTUS 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>9000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPP</kdPortAsal>
+          <kdPortBongkar>PHLIM</kdPortBongkar>
+          <kdPortMuat>IDBPP</kdPortMuat>
+          <value_currency>553590.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>553590.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3894.00</cal_arb>
+          <cal_adb>5244.00</cal_adb>
+          <tm_arb>39.47</tm_arb>
+          <tash_adb>4.37</tash_adb>
+          <tsulf_adb>0.08</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>1F9BD8N3EAKI3DC3</nobayarroyalti>
+          <tglbayarroyalti>2023-08-14</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>11000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>18823.20</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>015396989054000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BARAMULTI SUKSESSARANA TBK</namaPerusahaan>
+        <alamatPerusahaan>GRHA BARAMULTI LANTAI 3  JL  SURYOPRANOTO NO  2  KOMPLEK HARMONI PLAZA BLOK A 8  KOTA JAKARTA PUSAT </alamatPerusahaan>
+        <telepon>021 - 29411390</telepon>
+        <fax>021 - 29411395</fax>
+        <emailPerusahaan/>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23080481</no_ls>
+        <tgl_ls>2023-08-22</tgl_ls>
+        <tgl_ls_expired>2023-09-22</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0213</noizinterdaftar>
+        <tglizinterdaftar>2023-04-12</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-04-12</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>PA</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>61430.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa>NO LC : THF055029, 15 AGUSTUS 2023</catatanperiksa>
+        <tempatperiksa>SAMARINDA</tempatperiksa>
+        <tglperiksa>2023-08-22</tglperiksa>
+        <portperiksa>IDSRD</portperiksa>
+        <nopacklist>048/BSSR/EXP/PL/VIII/2023</nopacklist>
+        <tglpacklist>2023-08-22</tglpacklist>
+        <noinvoice>048/BSSR/EXP/KEU/VIII/2023</noinvoice>
+        <tglinvoice>2023-08-22</tglinvoice>
+        <namaclient>SING HENG SENG CO., LTD.</namaclient>
+        <alamatclient>8/3 RATCHADAPISEK ROAD, KLONGTOEY, BANGKOK 10150, THAILAND</alamatclient>
+        <namavessel>MV LOWLANDS BREEZE</namavessel>
+        <tglmuatvessel>2023-08-18</tglmuatvessel>
+        <noiupop>503/799/IUP-OP/DPMPTSP/V/2017</noiupop>
+        <tgliupop>2017-05-22</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : THF055029, 15 AGUSTUS 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>60250.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAMING (NON COOKING) COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>TH</kdNegaraTujuan>
+          <kdPortAsal>IDSRD</kdPortAsal>
+          <kdPortBongkar>THKSI</kdPortBongkar>
+          <kdPortMuat>IDSRD</kdPortMuat>
+          <value_currency>4098205.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>2049102.50</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3455.00</cal_arb>
+          <cal_adb>6118.00</cal_adb>
+          <tm_arb>43.52</tm_arb>
+          <tash_adb>4.88</tash_adb>
+          <tsulf_adb>0.25</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>5B9572G4VGJT8JMU</nobayarroyalti>
+          <tglbayarroyalti>2023-08-14</tglbayarroyalti>
+          <npwp>015396989054000</npwp>
+          <nmpersh>BARAMULTI SUKSESSARANA TBK</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>55000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>182248.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

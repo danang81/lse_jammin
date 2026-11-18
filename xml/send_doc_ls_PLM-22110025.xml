@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>940167885067000</npwp>
+        <refnumber>7712006780</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT.  ASAS EMPAT SAUDARA</namaPerusahaan>
+        <alamatPerusahaan>MENARA ANUGRAH JL  DR  IDE ANAK AGUNG GDE AGUNG LOT 8 6 8 7  LANTAI 6 KAWASAN MEGA KUNINGAN  KEL  KA</alamatPerusahaan>
+        <telepon>02157942280</telepon>
+        <fax>02157942280</fax>
+        <emailPerusahaan>yuni@asas-empat.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>PLM-22110025</no_ls>
+        <tgl_ls>2022-11-28</tgl_ls>
+        <tgl_ls_expired>2022-12-28</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0154</no_izin>
+        <tgl_izin>2021-06-28</tgl_izin>
+        <tgl_izin_expired>2022-12-28</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0154</noizinterdaftar>
+        <tglizinterdaftar>2021-06-28</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-12-28</tglizinterdaftar_expired>
+        <no_lc>40LI-J61769-PDBK</no_lc>
+        <tgl_lc>2022-11-21</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>BULK/CURAH</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>78435.00</kapkapal>
+        <asuransi/>
+        <catatanperiksa>L/C NO 40LI-J61769-PDBK / 12 NOVEMBER 2022</catatanperiksa>
+        <tempatperiksa>TANJUNG KAMPEH, ANCHORAGE SOUTH SUMATERA, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-11-28</tglperiksa>
+        <portperiksa>IDPLM</portperiksa>
+        <nopacklist>042B/XI/PL/AES-FEC/2022</nopacklist>
+        <tglpacklist>2022-11-28</tglpacklist>
+        <noinvoice>042B/XI/INV/AES-FEC/20222</noinvoice>
+        <tglinvoice>2022-11-28</tglinvoice>
+        <namaclient>FAR EAST COMMODITIES SA</namaclient>
+        <alamatclient>RUE DE LA CROIX-D'OR 17 A
+1204 GENEVE</alamatclient>
+        <tglmuat>2022-11-21</tglmuat>
+        <namavessel>MV. MAGIC P</namavessel>
+        <tglmuatvessel>2022-11-21</tglmuatvessel>
+        <noiupop>368/1/IUP/PDMN/2021</noiupop>
+        <tgliupop>2021-05-07</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>L/C NO 40LI-J61769-PDBK / 12 NOVEMBER 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>33285.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM  COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDPLM</kdPortAsal>
+          <kdPortBongkar>INGGV</kdPortBongkar>
+          <kdPortMuat>IDPLM</kdPortMuat>
+          <value_currency>4225197.90</value_currency>
+          <currency>USD</currency>
+          <value_fob>4225197.90</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4926.00</cal_arb>
+          <cal_adb>5715.00</cal_adb>
+          <tm_arb>27.00</tm_arb>
+          <tash_adb>0.70</tash_adb>
+          <tsulf_adb>0.30</tsulf_adb>
+          <klasifikasibb>4800-5000</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>68E4355DENA51C9T</nobayarroyalti>
+          <tglbayarroyalti>2022-11-19</tglbayarroyalti>
+          <npwp>019899160307000</npwp>
+          <nmpersh>BIMA PUTRA ABADI CITRANUSA</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>8900.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>147485.19</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>E155355DENA3SR5N</nobayarroyalti>
+          <tglbayarroyalti>2022-11-18</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>7500.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>157619.09</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>C383D6U8ECETRE9N</nobayarroyalti>
+          <tglbayarroyalti>2022-11-20</tglbayarroyalti>
+          <npwp>019899160307000</npwp>
+          <nmpersh>BIMA PUTRA ABADI CITRANUSA</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>75000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>124798.54</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>BD83C55DENA6VH77</nobayarroyalti>
+          <tglbayarroyalti>2022-11-21</tglbayarroyalti>
+          <npwp>026499376308000</npwp>
+          <nmpersh>BUMI MERAPI ENERGI</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>4000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>84478.21</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>5</idseriAsal>
+          <idposTarif>5</idposTarif>
+          <nobayarroyalti>3CE266U8ECEUQK0J</nobayarroyalti>
+          <tglbayarroyalti>2022-11-21</tglbayarroyalti>
+          <npwp>202850978308000</npwp>
+          <nmpersh>BATU BARA LAHAT</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>3300.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>60953.17</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

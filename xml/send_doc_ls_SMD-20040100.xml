@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>01.821.536.8-091.000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>TEGUH SINARABADI</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 30 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   KEL SENAYAN KEC  KEBAYORAN BARU JAKARTA SELATAN   12190</alamatPerusahaan>
+    <telepon>021-2933 2999</telepon>
+    <fax>021-2933 2888</fax>
+    <emailPerusahaan>021-2933 2888</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20040100</no_ls>
+    <tgl_ls>2020-04-08</tgl_ls>
+    <tgl_ls_expired>2020-05-08</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0056</no_izin>
+    <tgl_izin>2017-08-14</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0056</noizinterdaftar>
+    <tglizinterdaftar>2017-08-14</tglizinterdaftar>
+    <no_lc>DIP0086220B00014 </no_lc>
+    <tgl_lc>2020-04-06</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / IN BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82765.52</kapkapal>
+    <asuransi>PT KB INSURANCE INDONESIA</asuransi>
+    <catatanperiksa>NO LC. DIP0086220B00014 , 06 APRIL 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-04-07</tglperiksa>
+    <portperiksa>IDBCT</portperiksa>
+    <nopacklist> 242/TSA/KNK/IV/2020</nopacklist>
+    <tglpacklist>2020-04-08</tglpacklist>
+    <noinvoice> 242/TSA/KNK/IV/2020</noinvoice>
+    <tglinvoice>2020-04-08</tglinvoice>
+    <namaclient>KNK ENERGY PTE. LTD.</namaclient>
+    <alamatclient>2 HAVELOCK ROAD HEX 05-22
+HAVELOCK 2
+SINGAPORE 59763</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-04-06</tglmuat>
+    <namavessel>MV PAN GLOBAL</namavessel>
+    <tglmuatvessel>2020-04-07</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2008-04-29</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. DIP0086220B00014 , 06 APRIL 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>74400.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>SKR</kdNegaraAsal>
+      <kdNegaraMuat>SKR</kdNegaraMuat>
+      <kdPortAsal>IDBCT</kdPortAsal>
+      <kdPortBongkar>HOSAN PORT</kdPortBongkar>
+      <kdPortMuat>IDBCT</kdPortMuat>
+      <value_currency>7030800.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>3515400.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4894.00</cal_arb>
+      <cal_adb>5762.00</cal_adb>
+      <tm_arb>28.16</tm_arb>
+      <tash_adb>5.12</tash_adb>
+      <tsulf_adb>0.50</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>01.821.536.8-091.000</npwp>
+      <nmpersh>TEGUH SINARABADI</nmpersh>
+      <idprop/>
+      <nmprop/>
+      <royalti>52528.69</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop/>
+      <nmprop/>
+      <royalti>4608.39</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop/>
+      <nmprop/>
+      <royalti>4608.39</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop/>
+      <nmprop/>
+      <royalti>4608.39</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

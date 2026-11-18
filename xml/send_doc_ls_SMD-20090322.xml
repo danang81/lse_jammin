@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>010615987091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. MULTI HARAPAN UTAMA</namaPerusahaan>
+    <alamatPerusahaan>TCC BATAVIA TOWER ONE  41 ST FLOOR  UNIT 05  JL  KH MAS MANSYUR KAV  126 KARET TENGSIN TANAH ABANG  JAKARTA PUSAT</alamatPerusahaan>
+    <telepon>021 - 29400266</telepon>
+    <fax>021 - 29400277</fax>
+    <emailPerusahaan>021 - 29400277</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20090322</no_ls>
+    <tgl_ls>2020-09-25</tgl_ls>
+    <tgl_ls_expired>2020-10-25</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0157</no_izin>
+    <tgl_izin>2020-08-04</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0157</noizinterdaftar>
+    <tglizinterdaftar>2020-08-04</tglizinterdaftar>
+    <no_lc>DIP0086220B00020</no_lc>
+    <tgl_lc>2020-09-16</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARIER</jeniskapal>
+    <kapkapal>77278.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. DIP0086220B00020, 16 SEPTEMBER 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-09-21</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>337/MHU-MMS/F/IX/2020</nopacklist>
+    <tglpacklist>2020-09-25</tglpacklist>
+    <noinvoice>337/MHU-MMS/F/IX/2020</noinvoice>
+    <tglinvoice>2020-09-25</tglinvoice>
+    <namaclient>KOREA EAST-WEST POWER CO., LTD.</namaclient>
+    <alamatclient>ADDRESS : 395, JONGGA-RO, JUNG-KU, ULSAN, 44543, KOREA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-09-16</tglmuat>
+    <namavessel>MV YUE DIAN 82</namavessel>
+    <tglmuatvessel>2020-09-21</tglmuatvessel>
+    <noiupop>857 K/20.01/DJP.2000</noiupop>
+    <tgliupop>2000-12-29</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. DIP0086220B00020, 16 SEPTEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>72327.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRTJI </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>5081695.02</value_currency>
+      <currency>USD</currency>
+      <value_fob>2540847.51</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5000.00</cal_arb>
+      <cal_adb>5400.00</cal_adb>
+      <tm_arb>22.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.60</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>261247247.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>174164831.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>435412077.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>3483296622.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

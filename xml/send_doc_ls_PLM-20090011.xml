@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021831870311001</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. INTI BARA PERDANA</namaPerusahaan>
+    <alamatPerusahaan>JL  SUNGAI RUPAT  NOMOR 22 B  RT 039  RW 007  KEL  PAGAR DEWA  KEC SELEBAR  BENGKULU</alamatPerusahaan>
+    <telepon>085378444599</telepon>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-20090011</no_ls>
+    <tgl_ls>2020-09-01</tgl_ls>
+    <tgl_ls_expired>2020-10-01</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0132</no_izin>
+    <tgl_izin>2017-10-03</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0132</noizinterdaftar>
+    <tglizinterdaftar>2017-10-03</tglizinterdaftar>
+    <no_lc>010000003420217</no_lc>
+    <tgl_lc>2020-08-26</tgl_lc>
+    <modetransport>Barge</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MY</bendera>
+    <jeniskapal>STEEL BARGE</jeniskapal>
+    <kapkapal>10270.75</kapkapal>
+    <asuransi>PT. ASURANSI TUGU PRATAMA INDONESIA Tbk</asuransi>
+    <catatanperiksa>NO. L/C 010000003420217, 26 AGUSTUS 2020</catatanperiksa>
+    <tempatperiksa>PULAU BAAI, BENGKULU</tempatperiksa>
+    <tglperiksa>2020-08-30</tglperiksa>
+    <portperiksa>IDBKS</portperiksa>
+    <nopacklist>MPE/021/20</nopacklist>
+    <tglpacklist>2020-09-01</tglpacklist>
+    <noinvoice>MPE/021/20</noinvoice>
+    <tglinvoice>2020-09-01</tglinvoice>
+    <namaclient>EAGLE CEMENT CORPORATION</namaclient>
+    <alamatclient>2/F SMITS CORPORATE CENTER 
+155 EDSA BARANGAY WACK-WACK
+MANDALYONG CITY 1550 PHILIPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-08-26</tglmuat>
+    <namavessel>TB. MACALLAN 8 / BG. AUSONE</namavessel>
+    <tglmuatvessel>2020-08-30</tglmuatvessel>
+    <noiupop>C.545.XXV TAHUN 2015</noiupop>
+    <tgliupop>2015-11-06</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO. L/C 010000003420217, 26 AGUSTUS 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10402.233</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BENGKULU COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBKS</kdPortAsal>
+      <kdPortBongkar>PHMNL</kdPortBongkar>
+      <kdPortMuat>IDBKS</kdPortMuat>
+      <value_currency>520111.65</value_currency>
+      <currency>USD</currency>
+      <value_fob>520111.65</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5696.00</cal_arb>
+      <cal_adb>6225.00</cal_adb>
+      <tm_arb>11.51</tm_arb>
+      <tash_adb>16.20</tash_adb>
+      <tsulf_adb>0.59</tsulf_adb>
+      <klasifikasibb>6225</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021831870311001</npwp>
+      <nmpersh>INTI BARA PERDANA</nmpersh>
+      <idprop>8</idprop>
+      <nmprop>Bengkulu</nmprop>
+      <royalti>26010.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

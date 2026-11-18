@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015584527091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. PERKASA INAKAKERTA</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 36 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   SENAYAN KEBAYORAN BARU JAKARTA SELATAN     12190</alamatPerusahaan>
+    <telepon/>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20070221</no_ls>
+    <tgl_ls>2020-07-21</tgl_ls>
+    <tgl_ls_expired>2020-08-21</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0069</no_izin>
+    <tgl_izin>2020-04-27</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0069</noizinterdaftar>
+    <tglizinterdaftar>2020-04-27</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>69034.00</kapkapal>
+    <asuransi>PT SOMPO INSURANCE INDONESIA</asuransi>
+    <catatanperiksa>NO LC. 129LC2000048, 15 JULI 2020</catatanperiksa>
+    <tempatperiksa>LUBUK TUTUNG, DESA SEKERAT, KEC. BENGALON, KAB KUTAI TIMUR</tempatperiksa>
+    <tglperiksa>2020-07-19</tglperiksa>
+    <portperiksa>IDTBA</portperiksa>
+    <nopacklist>411/PIK/SSSMCL/VII/2020</nopacklist>
+    <tglpacklist>2020-07-21</tglpacklist>
+    <noinvoice>411/PIK/SSSMCL/VII/2020</noinvoice>
+    <tglinvoice>2020-07-21</tglinvoice>
+    <namaclient>SHAANXI SHAANMEI SUPPLY CHAIN MANAGEMENT CO.,LTD</namaclient>
+    <alamatclient>ROOM 122, 1F, 369 MID HANGTIAN ROAD, NATIONAL CIVIL
+AEROSPACE INDUSTRIAL BASE, XI'AN, SHAANXI PROVINCE, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV. BEST UNITY</namavessel>
+    <tglmuatvessel>2020-07-19</tglmuatvessel>
+    <noiupop>343.K/30/DJB/2007</noiupop>
+    <tgliupop>0200-08-13</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 129LC2000048, 15 JULI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>61767.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTBA</kdPortAsal>
+      <kdPortBongkar>CNHKO </kdPortBongkar>
+      <kdPortMuat>IDTBA</kdPortMuat>
+      <value_currency>2208170.25</value_currency>
+      <currency>USD</currency>
+      <value_fob>2208170.25</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4955.00</cal_arb>
+      <cal_adb>5599.00</cal_adb>
+      <tm_arb>27.54</tm_arb>
+      <tash_adb>4.43</tash_adb>
+      <tsulf_adb>0.95</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>015584527091000</npwp>
+      <nmpersh>PERKASA INAKAKERTA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>174699.90</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

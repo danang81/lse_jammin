@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>020899712731000</npwp>
+        <refnumber>9614897490</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BHUMI RANTAU ENERGI</namaPerusahaan>
+        <alamatPerusahaan>JALAN JEND SUDIRMAN BY PASS RT  02  RW 01  DESA BUNGUR  KEC  BUNGUR  KAB  TAPIN  KALIMANTAN SELATAN</alamatPerusahaan>
+        <telepon>02175922993</telepon>
+        <fax>02175922993</fax>
+        <emailPerusahaan>sobhan.ramadhan@suthraresources.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>BJB-22090013</no_ls>
+        <tgl_ls>2022-09-14</tgl_ls>
+        <tgl_ls_expired>2022-10-14</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0179</no_izin>
+        <tgl_izin>2021-07-16</tgl_izin>
+        <tgl_izin_expired>2022-10-14</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0179</noizinterdaftar>
+        <tglizinterdaftar>2021-07-16</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-10-14</tglizinterdaftar_expired>
+        <no_lc>2NK2-00679-8710</no_lc>
+        <tgl_lc>2022-09-01</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>COAL IN BULK</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>77509.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa>NOMOR DAN TANGGAL L/C :  2NK2-00679-8710 DAN 01 SEPTEMBER 2022</catatanperiksa>
+        <tempatperiksa>PELSUS PT HASNURJAYA UTAMA, PELSUS PT TAPIN COAL TERMINAL DAN TABONEO ANCHORAGE</tempatperiksa>
+        <tglperiksa>2022-09-02</tglperiksa>
+        <portperiksa>IDBAN</portperiksa>
+        <nopacklist>055/BRE/PL/IX/2022</nopacklist>
+        <tglpacklist>2022-09-14</tglpacklist>
+        <noinvoice>055/BRE/E/IX/2022</noinvoice>
+        <tglinvoice>2022-09-14</tglinvoice>
+        <namaclient>KOREA SOUTH-EAST POWER CO., LTD.</namaclient>
+        <alamatclient>9F KOEN B/D, SADEUL-RO 123 BEON-GIL 32, JINJU-SI, GYEONGSANGNAM-DO, KOREA, 52852</alamatclient>
+        <tglmuat>2022-09-01</tglmuat>
+        <namavessel>MV. GNS HARMONY</namavessel>
+        <tglmuatvessel>2022-09-09</tglmuatvessel>
+        <noiupop>503/791/DPMPTSP/IV/10/2018	</noiupop>
+        <tgliupop>2018-10-23</tgliupop>
+        <noiupopkpp>-</noiupopkpp>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NOMOR DAN TANGGAL L/C :  2NK2-00679-8710 DAN 01 SEPTEMBER 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>75.688</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BATUBARA LAINNYA ( INDONESIAN STEAM COAL IN BULK )</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDBAN</kdPortAsal>
+          <kdPortBongkar>KRHIN</kdPortBongkar>
+          <kdPortMuat>IDBAN</kdPortMuat>
+          <value_currency>5718985.28</value_currency>
+          <currency>USD</currency>
+          <value_fob>5718985.28</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4010.00</cal_arb>
+          <cal_adb>5076.00</cal_adb>
+          <tm_arb>37.08</tm_arb>
+          <tash_adb>3.09</tash_adb>
+          <tsulf_adb>0.10</tsulf_adb>
+          <klasifikasibb>&lt; 4700</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>76C8B55DEN3MBS13</nobayarroyalti>
+          <tglbayarroyalti>2022-09-02</tglbayarroyalti>
+          <npwp>020899712731000</npwp>
+          <nmpersh>BHUMI RANTAU ENERGI</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>76.2800</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>292296.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

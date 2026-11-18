@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>010615987091000</npwp>
+        <refnumber>5399</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. MULTI HARAPAN UTAMA</namaPerusahaan>
+        <alamatPerusahaan>TCC BATAVIA TOWER ONE  41 ST FLOOR  UNIT 05  JL  KH MAS MANSYUR KAV  126 KARET TENGSIN TANAH ABANG  </alamatPerusahaan>
+        <telepon>021 - 29400266</telepon>
+        <fax>021 - 29400277</fax>
+        <emailPerusahaan>daniel.setiawan@mhucoal.co.id</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23110638</no_ls>
+        <tgl_ls>2023-11-15</tgl_ls>
+        <tgl_ls_expired>2023-12-15</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.22.0255</noizinterdaftar>
+        <tglizinterdaftar>2022-04-28</tglizinterdaftar>
+        <tglizinterdaftar_expired>2025-04-28</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>81712.43</kapkapal>
+        <asuransi>NORTH</asuransi>
+        <catatanperiksa>NO LC : CL00531123, 09 NOVEMBER 2023</catatanperiksa>
+        <tempatperiksa>SAMARINDA ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2023-11-12</tglperiksa>
+        <portperiksa>IDSRD</portperiksa>
+        <nopacklist>185/MHU-ATC/F/XI/2023-A</nopacklist>
+        <tglpacklist>2023-11-15</tglpacklist>
+        <noinvoice>185/MHU-ATC/F/XI/2023-A</noinvoice>
+        <tglinvoice>2023-11-15</tglinvoice>
+        <namaclient>THERMA LUZON, INC.</namaclient>
+        <alamatclient>NAC TOWER 32ND STREET BONIFACIO GLOBAL CITY, FORT BONIFACIO, TAGUG CITY, PHILIPPINES 1634</alamatclient>
+        <namavessel>MV ALAN</namavessel>
+        <tglmuatvessel>2023-11-12</tglmuatvessel>
+        <noiupop>608/1/IUP/PMDN/2022</noiupop>
+        <tgliupop>2022-04-01</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : CL00531123, 09 NOVEMBER 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>16640.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDSRD</kdPortAsal>
+          <kdPortBongkar>PHQUE</kdPortBongkar>
+          <kdPortMuat>IDSRD</kdPortMuat>
+          <value_currency>2995200.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1497600.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>5454.00</cal_arb>
+          <cal_adb>6045.00</cal_adb>
+          <tm_arb>18.17</tm_arb>
+          <tash_adb>6.36</tash_adb>
+          <tsulf_adb>0.79</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>9FAF755DF0JMPNC1</nobayarroyalti>
+          <tglbayarroyalti>2023-11-03</tglbayarroyalti>
+          <npwp>010615987091000</npwp>
+          <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>60000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>1318194.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

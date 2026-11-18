@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>017748146091000</npwp>
+        <refnumber>410703886</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT.  JEMBAYAN MUARABARA</namaPerusahaan>
+        <alamatPerusahaan>RUKO MAHAKAM SQUARE BLOK B NO  17 19 JL  UNTUNG SUROPATI  KARANG ASAM ULU SUNGAI KUNJANG SAMARINDA  </alamatPerusahaan>
+        <telepon>0541-7771100</telepon>
+        <fax>7771100/0541-271</fax>
+        <emailPerusahaan>Endang.H@ptscs.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22020065</no_ls>
+        <tgl_ls>2022-03-01</tgl_ls>
+        <tgl_ls_expired>2022-04-01</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0202</no_izin>
+        <tgl_izin>2020-10-08</tgl_izin>
+        <tgl_izin_expired>2022-04-01</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0202</noizinterdaftar>
+        <tglizinterdaftar>2020-10-08</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-04-01</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>IM</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>170958.20</kapkapal>
+        <asuransi/>
+        <catatanperiksa>NO LC : LCSA220041, 17 FEBRUARI 2022</catatanperiksa>
+        <tempatperiksa>MUARA BERAU</tempatperiksa>
+        <tglperiksa>2022-02-28</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>3051-JMB/FA-6/2/22</nopacklist>
+        <tglpacklist>2022-02-28</tglpacklist>
+        <noinvoice>3051-JMB/FA-6/2/22</noinvoice>
+        <tglinvoice>2022-02-28</tglinvoice>
+        <namaclient>NGHI SON 2 POWER LIMITED LIABILITY COMPANY</namaclient>
+        <alamatclient>HA BAC HAMLET, NGHI SON ECONOMIC ZONE, HAI HA COMMUNE, NGHI SON TOWN, THANH HOA PROVINCE, VIETNAM</alamatclient>
+        <namavessel>MV. COLOSSUS</namavessel>
+        <tglmuatvessel>2022-02-26</tglmuatvessel>
+        <noiupop>503/1231/IUP-OP/DPMPTSP/VII/2017</noiupop>
+        <tgliupop>2017-07-24</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>NO LC : LCSA220041, 17 FEBRUARI 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>54875.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN SUB BITUMINOUS COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>VN</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>VNNGH</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>13125093.75</value_currency>
+          <currency>USD</currency>
+          <value_fob>10020723.75</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>17000.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN SUB BITUMINOUS COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>VN</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>VNNGH</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>13125093.75</value_currency>
+          <currency>USD</currency>
+          <value_fob>3104370.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>5200.00</cal_arb>
+          <cal_adb>5529.00</cal_adb>
+          <tm_arb>21.00</tm_arb>
+          <tash_adb>5.00</tash_adb>
+          <tsulf_adb>0.25</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>730206U8E387263H</nobayarroyalti>
+          <tglbayarroyalti>2021-12-30</tglbayarroyalti>
+          <npwp>017748146091000</npwp>
+          <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>72000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>389448.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>B68496U8E380NR03</nobayarroyalti>
+          <tglbayarroyalti>2021-12-23</tglbayarroyalti>
+          <npwp>020399150725000</npwp>
+          <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>10000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>51947.45</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>9F4E06U8E380NRC7</nobayarroyalti>
+          <tglbayarroyalti>2021-12-23</tglbayarroyalti>
+          <npwp>020399150725000</npwp>
+          <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>10000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>51947.45</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

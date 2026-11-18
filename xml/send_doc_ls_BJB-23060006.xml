@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>849989967731000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BERKAH BUANA BANUA</namaPerusahaan>
+        <alamatPerusahaan>JL  RAWASARI XIV  NOMOR 01  RT 057  RW 005  TELUK DALAM  KOTA BANJARMASIN  KALIMANTAN SELATAN</alamatPerusahaan>
+        <telepon>05114242897</telepon>
+        <fax>05114242897</fax>
+        <emailPerusahaan>rischanst96@gmail.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>BJB-23060006</no_ls>
+        <tgl_ls>2023-06-26</tgl_ls>
+        <tgl_ls_expired>2023-07-26</tgl_ls_expired>
+        <no_izin>03.ET-04.21.0156</no_izin>
+        <tgl_izin>2021-07-01</tgl_izin>
+        <tgl_izin_expired>2023-07-26</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.21.0156</noizinterdaftar>
+        <tglizinterdaftar>2021-07-01</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-07-26</tglizinterdaftar_expired>
+        <no_lc>-</no_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>BUYER SAMPLE</cargotype>
+        <bendera>TH</bendera>
+        <jeniskapal>-</jeniskapal>
+        <kapkapal>0.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa>FCAED8N3EAELAFBF</catatanperiksa>
+        <tempatperiksa>Kawasan Pabean Tempat Muat</tempatperiksa>
+        <tglperiksa>2023-06-22</tglperiksa>
+        <portperiksa>IDCGK</portperiksa>
+        <nopacklist>001.06/PL/BBB/VI/2023</nopacklist>
+        <tglpacklist>2023-06-22</tglpacklist>
+        <noinvoice>001.06/INVOICE/BBB/VI/2023</noinvoice>
+        <tglinvoice>2023-06-22</tglinvoice>
+        <namaclient>MNA ALFATEH SDN BHD</namaclient>
+        <alamatclient>1-12 Jln Dagang B/3A Taman Dagang 68000 Ampang, Selangor Malaysia</alamatclient>
+        <namavessel>K-MILE AIR</namavessel>
+        <tglmuatvessel>2023-06-22</tglmuatvessel>
+        <noiupop>382/1/IUP/PMDN/2018</noiupop>
+        <tgliupop>2018-12-17</tgliupop>
+        <noiupopkpp>-</noiupopkpp>
+        <noiupopkolah>382/1/IUP/PMDN/2018</noiupopkolah>
+        <tgliupopkolah>2018-12-17</tgliupopkolah>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>FCAED8N3EAELAFBF</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011290</posTarif>
+          <jmlVolume>0.010</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BUYER SAMPLE MV. MESSINIAN SPIRE</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>MY</kdNegaraTujuan>
+          <kdPortAsal>IDCGK</kdPortAsal>
+          <kdPortBongkar>MYSEP</kdPortBongkar>
+          <kdPortMuat>IDCGK</kdPortMuat>
+          <value_currency>1.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>6446.00</cal_arb>
+          <cal_adb>6757.00</cal_adb>
+          <tm_arb>10.88</tm_arb>
+          <tash_adb>6.66</tash_adb>
+          <tsulf_adb>0.58</tsulf_adb>
+          <klasifikasibb>&gt; 6100</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>FCAED8N3EAELAFBF</nobayarroyalti>
+          <tglbayarroyalti>2022-04-22</tglbayarroyalti>
+          <npwp>022371272732000</npwp>
+          <nmpersh>ENERGI BUMI TAPIN</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>0.0050</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>337222800.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

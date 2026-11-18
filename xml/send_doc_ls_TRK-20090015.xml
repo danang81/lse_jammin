@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015891377091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. Mitrabara Adiperdana Tbk</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG GRHA BARAMULTI  JALAN SURYOPRANOTO NO  2  KOMPLEKS HARMONI BLOK A 8 PETOJO UTARA GAMBIR JAKARTA PUSAT DKI JAKARTA 10130</alamatPerusahaan>
+    <telepon>081221475555</telepon>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>TRK-20090015</no_ls>
+    <tgl_ls>2020-09-08</tgl_ls>
+    <tgl_ls_expired>2020-10-08</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0126</no_izin>
+    <tgl_izin>2020-07-06</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0126</noizinterdaftar>
+    <tglizinterdaftar>2020-07-06</tglizinterdaftar>
+    <no_lc>M0262008NU00185</no_lc>
+    <tgl_lc>2020-08-31</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH/BULK</cargotype>
+    <bendera>MT</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>93313.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa>NO LC. M0262008NU00185, 31 AGUSTUS 2020</catatanperiksa>
+    <tempatperiksa>TARAKAN ANCHORAGE, NORTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-09-02</tglperiksa>
+    <portperiksa>IDTRK</portperiksa>
+    <nopacklist>040/PL-MA/IX/2020</nopacklist>
+    <tglpacklist>2020-09-08</tglpacklist>
+    <noinvoice>002/MA/INV/EX/IX/2020</noinvoice>
+    <tglinvoice>2020-09-08</tglinvoice>
+    <namaclient>KOREA SOUTH-EAST POWER CO., LTD.</namaclient>
+    <alamatclient>ADDRESS : 9TH FLOOR, 123 BEON-GIL, SADEUL-RO 32, JINJU-SI, GYEONGSANGNAM-DO, KOREA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-08-31</tglmuat>
+    <namavessel>MV. CLAIRE Z</namavessel>
+    <tglmuatvessel>2020-09-02</tglmuatvessel>
+    <noiupop>503/545/K.633/2009</noiupop>
+    <tgliupop>2009-12-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. M0262008NU00185, 31 AGUSTUS 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>88000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDTRK</kdPortAsal>
+      <kdPortBongkar>KRYOS</kdPortBongkar>
+      <kdPortMuat>IDTRK</kdPortMuat>
+      <value_currency>4151840.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>4151840.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5200.00</cal_arb>
+      <cal_adb>5944.00</cal_adb>
+      <tm_arb>23.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.02</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>015891377091000</npwp>
+      <nmpersh>Mitrabara Adiperdana Tbk</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>167395.01</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>020381281029000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. PRIMA MULIA SARANA SEJAHTERA</namaPerusahaan>
+    <alamatPerusahaan>GRAHA BARAMULTI LT  3 JL  SURYOPRANOTO NO 2 PETOJO UTARA   GAMBIR JAKARTA PUSAT 10130 DKI JAKARTA RAYA</alamatPerusahaan>
+    <telepon>0</telepon>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-20060007</no_ls>
+    <tgl_ls>2020-06-24</tgl_ls>
+    <tgl_ls_expired>2020-07-24</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0184</no_izin>
+    <tgl_izin>2019-08-30</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0184</noizinterdaftar>
+    <tglizinterdaftar>2019-08-30</tglizinterdaftar>
+    <no_lc>-</no_lc>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Containers</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>-</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>-</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2020-06-24</tglperiksa>
+    <portperiksa>CGK</portperiksa>
+    <nopacklist>014/EX-KEU-PMSS/QC-JKT/VI/2020</nopacklist>
+    <tglpacklist>2020-06-19</tglpacklist>
+    <noinvoice>96/INV/KEU-PMSS/QC-JKT/VI/2020</noinvoice>
+    <tglinvoice>2020-06-19</tglinvoice>
+    <namaclient>SIAM CITY CEMENT (LANKA) LTD</namaclient>
+    <alamatclient>P.O.BOX 01, PALAVI, PUTTALAM SIRLANKA.61300</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K-MILE AIR</namavessel>
+    <tglmuatvessel>2020-06-24</tglmuatvessel>
+    <noiupop>290/KPTS/DISPERTAMBEN/2016</noiupop>
+    <tgliupop>2016-04-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>2701.19.00</posTarif>
+      <jmlVolume>0.020</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>COAL SAMPLE FOR LABORATORY ANALYSIS ONLY (NO COMERCIAL VALUE)</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>LK</kdNegaraTujuan>
+      <kdPortAsal>CGK</kdPortAsal>
+      <kdPortBongkar>LKCMB</kdPortBongkar>
+      <kdPortMuat>CGK</kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5700.00</cal_arb>
+      <cal_adb>6500.00</cal_adb>
+      <tm_arb>22.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>6500</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>020381281029000</npwp>
+      <nmpersh>PRIMA MULIA SARANA SEJAHTERA</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

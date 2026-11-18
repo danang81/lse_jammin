@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021321666728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ARINI</namaPerusahaan>
+    <alamatPerusahaan>JL  BAYANGKARA NO 09 RT 012 SUNGAI MERIAM ANGGANA KUTAI KARTANEGARA KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0291596850</telepon>
+    <fax>0291596850</fax>
+    <emailPerusahaan>0291596850</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20040110</no_ls>
+    <tgl_ls>2020-04-25</tgl_ls>
+    <tgl_ls_expired>2020-05-25</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0013</no_izin>
+    <tgl_izin>2020-04-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0013</noizinterdaftar>
+    <tglizinterdaftar>2020-04-08</tglizinterdaftar>
+    <no_lc>LC5TF82531254</no_lc>
+    <tgl_lc>2020-04-15</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>SG</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>59402.00</kapkapal>
+    <asuransi>PT ASURANSI TUGU PRATAMA INDONESIA TBK</asuransi>
+    <catatanperiksa>LC NO : LC5TF82531254, 15 APRIL 2020</catatanperiksa>
+    <tempatperiksa> JETTY PT. INDOKAL PRIMA JAYA, KUTAI LAMA, ANGGANA, KUTAI KARTANEGARA</tempatperiksa>
+    <tglperiksa>2020-04-23</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>PL.2020-465ARN</nopacklist>
+    <tglpacklist>2020-04-25</tglpacklist>
+    <noinvoice>INV.2020-465ARN</noinvoice>
+    <tglinvoice>2020-04-25</tglinvoice>
+    <namaclient>FDC MISAMIS POWER CORPORATION,</namaclient>
+    <alamatclient>PHIVIDEC INDUSTRIAL ESTATE, VILLANUEVA, MISAMIS ORIENTAL 9002, PHILIPPINES.</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-04-15</tglmuat>
+    <namavessel>MV ASIA EMERALD II</namavessel>
+    <tglmuatvessel>2020-04-24</tglmuatvessel>
+    <noiupop>540/009/IUP-OP/MB-PBAT/III/2013</noiupop>
+    <tgliupop>2013-03-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO : LC5TF82531254, 15 APRIL 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>7008.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHVNV</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>280320.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>140160.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4025.00</cal_arb>
+      <cal_adb>5115.00</cal_adb>
+      <tm_arb>35.00</tm_arb>
+      <tash_adb>8.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021321666728000</npwp>
+      <nmpersh>ARINI</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>90167212.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

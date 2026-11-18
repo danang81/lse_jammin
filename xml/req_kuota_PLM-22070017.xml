@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<SurveyorRequest xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>021214481038000</npwp>
+        <no_izin>03.ET-04.18.0027</no_izin>
+        <tgl_izin>2018-04-04</tgl_izin>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+        </loop>
+      </detailBarang>
+    </LSE_Document>
+  </string2>
+</SurveyorRequest>

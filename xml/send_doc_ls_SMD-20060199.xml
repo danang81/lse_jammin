@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017748146091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT.  JEMBAYAN MUARABARA</namaPerusahaan>
+    <alamatPerusahaan>RUKO MAHAKAM SQUARE BLOK B NO  17 19 JL  UNTUNG SUROPATI  KARANG ASAM ULU SUNGAI KUNJANG SAMARINDA   75126</alamatPerusahaan>
+    <telepon>0541-7771100</telepon>
+    <fax>7771100/0541-271</fax>
+    <emailPerusahaan>7771100/0541-271</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20060199</no_ls>
+    <tgl_ls>2020-06-26</tgl_ls>
+    <tgl_ls_expired>2020-07-26</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0135</no_izin>
+    <tgl_izin>2017-10-09</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0135</noizinterdaftar>
+    <tglizinterdaftar>2017-10-09</tglizinterdaftar>
+    <no_lc>958010142509-Q</no_lc>
+    <tgl_lc>2020-06-16</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82063.00</kapkapal>
+    <asuransi>PT ASURANSI CENTRAL ASIA</asuransi>
+    <catatanperiksa>NO LC. 958010142509-Q,16 JUNI 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU</tempatperiksa>
+    <tglperiksa>2020-06-26</tglperiksa>
+    <portperiksa>IDMUB</portperiksa>
+    <nopacklist>2713-JMB/FA-6/06/20</nopacklist>
+    <tglpacklist>2020-06-26</tglpacklist>
+    <noinvoice>2713-JMB/FA-6/06/20</noinvoice>
+    <tglinvoice>2020-06-26</tglinvoice>
+    <namaclient>AES HAWAII, LLC</namaclient>
+    <alamatclient>91-086 KAOMI LOOP KAPOLEI, HAWAII 96707 USA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-06-16</tglmuat>
+    <namavessel>MV SANTA REGINA</namavessel>
+    <tglmuatvessel>2020-06-24</tglmuatvessel>
+    <noiupop>540/2542/IUP-OP/MB-PBAT/IX/2010</noiupop>
+    <tgliupop>2010-09-27</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 958010142509-Q,16 JUNI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>55822.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>US</kdNegaraTujuan>
+      <kdPortAsal>IDMUB</kdPortAsal>
+      <kdPortBongkar>USNAX</kdPortBongkar>
+      <kdPortMuat>IDMUB</kdPortMuat>
+      <value_currency>3712721.22</value_currency>
+      <currency>USD</currency>
+      <value_fob>3712721.22</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5585.00</cal_arb>
+      <cal_adb>5917.00</cal_adb>
+      <tm_arb>19.35</tm_arb>
+      <tash_adb>4.48</tash_adb>
+      <tsulf_adb>0.19</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>017748146091000</npwp>
+      <nmpersh> JEMBAYAN MUARABARA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>86817.72</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>020399150725000</npwp>
+      <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>20025.88</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>020399150725000</npwp>
+      <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>20025.88</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>020399150725000</npwp>
+      <nmpersh>ARZARA BARAINDO ENERGITAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>20025.88</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

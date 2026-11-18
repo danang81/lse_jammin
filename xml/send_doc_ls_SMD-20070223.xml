@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>010615987091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. MULTI HARAPAN UTAMA</namaPerusahaan>
+    <alamatPerusahaan>TCC BATAVIA TOWER ONE  41 ST FLOOR  UNIT 05  JL  KH MAS MANSYUR KAV  126 KARET TENGSIN TANAH ABANG  JAKARTA PUSAT</alamatPerusahaan>
+    <telepon>021 - 29400266</telepon>
+    <fax>021 - 29400277</fax>
+    <emailPerusahaan>021 - 29400277</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20070223</no_ls>
+    <tgl_ls>2020-07-22</tgl_ls>
+    <tgl_ls_expired>2020-08-22</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0014</no_izin>
+    <tgl_izin>2019-01-17</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0014</noizinterdaftar>
+    <tglizinterdaftar>2019-01-17</tglizinterdaftar>
+    <no_lc>M0262006XU00235</no_lc>
+    <tgl_lc>2020-06-24</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH/BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARIER</jeniskapal>
+    <kapkapal>73699.96</kapkapal>
+    <asuransi>PT KB INSURANCE INDONESIA</asuransi>
+    <catatanperiksa>NO LC. M0262006XU00235, 24 JUNI 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-07-14</tglperiksa>
+    <portperiksa>IDMUB</portperiksa>
+    <nopacklist>251/MHU-MAC/F/VII/2020</nopacklist>
+    <tglpacklist>2020-07-22</tglpacklist>
+    <noinvoice>251/MHU-MAC/F/VII/2020</noinvoice>
+    <tglinvoice>2020-07-22</tglinvoice>
+    <namaclient>KOREA SOUTHERN POWER CO., LTD.</namaclient>
+    <alamatclient>ADDRESS : 34TH FL., BIFC BLDG., 40 MUNHYEONGEUMYUNG-RO NAM-GU BUSAN KOREA, 48400</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-06-24</tglmuat>
+    <namavessel>MV. WOOYANG BANDERS</namavessel>
+    <tglmuatvessel>2020-07-14</tglmuatvessel>
+    <noiupop>857 K/20.01/DJP.2000</noiupop>
+    <tgliupop>2000-12-29</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. M0262006XU00235, 24 JUNI 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>72550.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDMUB</kdPortAsal>
+      <kdPortBongkar>HOSAN PORT</kdPortBongkar>
+      <kdPortMuat>IDMUB</kdPortMuat>
+      <value_currency>5542820.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2771410.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5000.00</cal_arb>
+      <cal_adb>5400.00</cal_adb>
+      <tm_arb>25.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>2879469286.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>495293556.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>162625573.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

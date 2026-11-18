@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027953702081000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. SUMBER GLOBAL ENERGY TBK</namaPerusahaan>
+    <alamatPerusahaan>GRAHA BIP LANTAI 2  JALAN GATOT SUBROTO KAVELING 23  RT 002  RW 002  KEL  KARET SEMANGGI  KEC  SETIABUDI  JAKARTA SELATAN</alamatPerusahaan>
+    <telepon>021-2500120</telepon>
+    <fax>021-2500243</fax>
+    <emailPerusahaan>021-2500243</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21030142</no_ls>
+    <tgl_ls>2021-03-27</tgl_ls>
+    <tgl_ls_expired>2021-04-27</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0064</no_izin>
+    <tgl_izin>2020-06-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0064</noizinterdaftar>
+    <tglizinterdaftar>2020-06-19</tglizinterdaftar>
+    <no_lc>LI21B07551</no_lc>
+    <tgl_lc>2021-03-22</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>VN</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>30587.40</kapkapal>
+    <asuransi>PTI INSURANCE</asuransi>
+    <catatanperiksa>NO LC. LI21B07551, 22 MARET 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-03-22</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>PL.SGE-III-2021-011</nopacklist>
+    <tglpacklist>2021-03-26</tglpacklist>
+    <noinvoice>INV.SGE-III-2021-011</noinvoice>
+    <tglinvoice>2021-03-26</tglinvoice>
+    <namaclient>POWER GENERATION CORPORATION 1 (EVNGENCO1)</namaclient>
+    <alamatclient>ADDRESS: 11 CUA BAC STREET, TRUC BACH WARD, BA DINH DISTRICT, HA NOI, S.R. VIETNAM</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-03-22</tglmuat>
+    <namavessel>MV. VIET THUAN 30-03</namavessel>
+    <tglmuatvessel>2021-03-22</tglmuatvessel>
+    <noiupop>22/1/IUP/PMDN/2018</noiupop>
+    <tgliupop>2018-06-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. LI21B07551, 22 MARET 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>4486.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNVIC</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1359175.48</value_currency>
+      <currency>USD</currency>
+      <value_fob>272345.06</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10481.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNVIC</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1359175.48</value_currency>
+      <currency>USD</currency>
+      <value_fob>636301.51</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>7421.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM (NON-COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>VNVIC</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1359175.48</value_currency>
+      <currency>USD</currency>
+      <value_fob>450528.91</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4454.00</cal_arb>
+      <cal_adb>4900.00</cal_adb>
+      <tm_arb>30.00</tm_arb>
+      <tash_adb>14.00</tash_adb>
+      <tsulf_adb>0.85</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>3921261QU7N829FU</nobayarroyalti>
+      <tglbayarroyalti>2021-02-05</tglbayarroyalti>
+      <jmlVolume>5300.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>028529865728000</npwp>
+      <nmpersh>ANGGARAKSA ADISARANA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>35643658.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>D78127QLTSVGSHRE</nobayarroyalti>
+      <tglbayarroyalti>2021-03-21</tglbayarroyalti>
+      <jmlVolume>3002.5200</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027562420728000</npwp>
+      <nmpersh>BELAYAN INTERNASIONAL COAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>31526460.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>6397C6U8E2D1EMCT</nobayarroyalti>
+      <tglbayarroyalti>2021-03-18</tglbayarroyalti>
+      <jmlVolume>3745.1200</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027562420728000</npwp>
+      <nmpersh>BELAYAN INTERNASIONAL COAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>39323760.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>8E91F55DED82CIF7</nobayarroyalti>
+      <tglbayarroyalti>2021-03-12</tglbayarroyalti>
+      <jmlVolume>3733.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027562420728000</npwp>
+      <nmpersh>BELAYAN INTERNASIONAL COAL</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>59724636.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>C502F6U8E2CT6LHV</nobayarroyalti>
+      <tglbayarroyalti>2021-03-13</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022919666727001</npwp>
+      <nmpersh>TUBINDO</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>63456615.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

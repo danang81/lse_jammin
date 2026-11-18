@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>010000115051000</npwp>
+        <refnumber>101438860</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BUKIT ASAM TBK</namaPerusahaan>
+        <alamatPerusahaan>JALAN PARIGI NOMOR 1 TANJUNG ENIM  KAB  MUARA ENIM  SUMATERA SELATAN</alamatPerusahaan>
+        <telepon>0734451096</telepon>
+        <fax>0734451098</fax>
+        <emailPerusahaan>P@GMAIL.COM</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>PLM-22090021</no_ls>
+        <tgl_ls>2022-09-30</tgl_ls>
+        <tgl_ls_expired>2022-10-30</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0053</no_izin>
+        <tgl_izin>2020-04-06</tgl_izin>
+        <tgl_izin_expired>2022-10-30</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0053</noizinterdaftar>
+        <tglizinterdaftar>2020-04-06</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-10-30</tglizinterdaftar_expired>
+        <modetransport>Containers</modetransport>
+        <cargotype>BULK/CURAH</cargotype>
+        <bendera>TH</bendera>
+        <jeniskapal>-</jeniskapal>
+        <kapkapal>0.00</kapkapal>
+        <asuransi>---</asuransi>
+        <catatanperiksa/>
+        <tempatperiksa>KAWASAN PABEAN TEMAPAT MUAT </tempatperiksa>
+        <tglperiksa>2022-09-30</tglperiksa>
+        <portperiksa>IDCGK</portperiksa>
+        <nopacklist>01/PCL-SAMPLE/IX/2022</nopacklist>
+        <tglpacklist>2022-09-27</tglpacklist>
+        <noinvoice>001/INV-SAMPLE/IX/2022</noinvoice>
+        <tglinvoice>2022-09-27</tglinvoice>
+        <namaclient>KOREA SOUTH-EAST POWER CO.</namaclient>
+        <alamatclient>Yoon Hyun-Seok (+82 70 8898 3223)
+Fuel Section, Material Dept
+Younghung Thermal Power Construction S</alamatclient>
+        <namavessel>K-MILE AIR</namavessel>
+        <tglmuatvessel>2022-09-30</tglmuatvessel>
+        <noiupop>389/KPTS/TAMBEN/2010</noiupop>
+        <tgliupop>2010-04-13</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan/>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BUYER SAMPLE MV. SEA EMPIRE </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDCGK</kdPortAsal>
+          <kdPortBongkar>KRICN</kdPortBongkar>
+          <kdPortMuat>IDCGK</kdPortMuat>
+          <value_currency>5.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>5.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>5367.00</cal_arb>
+          <cal_adb>6115.00</cal_adb>
+          <tm_arb>21.77</tm_arb>
+          <tash_adb>4.14</tash_adb>
+          <tsulf_adb>0.33</tsulf_adb>
+          <klasifikasibb>4700-5700</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+          <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+          <npwp>010000115051000</npwp>
+          <nmpersh>BUKIT ASAM TBK</nmpersh>
+          <idprop>9</idprop>
+          <nmprop>Sumatera Selatan</nmprop>
+          <jmlVolume>0.0050</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>0.00</royalti>
+          <kurs>IDR</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

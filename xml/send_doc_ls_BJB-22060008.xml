@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>015343825091000</npwp>
+        <refnumber>5506182918</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. ANTANG GUNUNG MERATUS</namaPerusahaan>
+        <alamatPerusahaan>GRHA BARAMULTI LT 3  JL  SURYOPRANOTO NO  2  KOMP HARMONI PLAZA BLOK A B  KEL  PETOJO UTARA  KEC  GA</alamatPerusahaan>
+        <telepon>021 2941 1390</telepon>
+        <fax>021 2941 1395</fax>
+        <emailPerusahaan>fahri.bmss@gmail.com</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>BJB-22060008</no_ls>
+        <tgl_ls>2022-06-04</tgl_ls>
+        <tgl_ls_expired>2022-07-04</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0131</no_izin>
+        <tgl_izin>2021-08-02</tgl_izin>
+        <tgl_izin_expired>2022-07-04</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0131</noizinterdaftar>
+        <tglizinterdaftar>2021-08-02</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-07-04</tglizinterdaftar_expired>
+        <no_lc>9466IMPLC0004122</no_lc>
+        <tgl_lc>2022-05-19</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>COAL IN BULK</cargotype>
+        <bendera>MT</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>175018.00</kapkapal>
+        <asuransi>ASSURANCEFORENINGEN SKULD ( G</asuransi>
+        <catatanperiksa>NO DAN TANGGAL L/C : 9466IMPLC0004122 TANGGAL 19 MEI 2022</catatanperiksa>
+        <tempatperiksa>JETTY PT. AGM SUNGAI PUTING</tempatperiksa>
+        <tglperiksa>2022-06-02</tglperiksa>
+        <portperiksa>IDBAN</portperiksa>
+        <nopacklist>35/PL-AGM/EXP/VI/2022</nopacklist>
+        <tglpacklist>2022-06-04</tglpacklist>
+        <noinvoice>35/AGM/EXP/KEU/VI/2022</noinvoice>
+        <tglinvoice>2022-06-04</tglinvoice>
+        <namaclient>ADANI GLOBAL PTE LTD</namaclient>
+        <alamatclient>3 ANSON ROAD HEX 22-01 SPRINGLEAF TOWER, SINGAPORE 079909</alamatclient>
+        <tglmuat>2022-05-19</tglmuat>
+        <namavessel>MV. KIRAN TURKIYE</namavessel>
+        <tglmuatvessel>2022-05-31</tglmuatvessel>
+        <noiupop>080.K/40.00/MEM/2003</noiupop>
+        <tgliupop>2003-05-22</tgliupop>
+        <noiupopkpp>-</noiupopkpp>
+        <noiupopkolah>-</noiupopkolah>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO DAN TANGGAL L/C : 9466IMPLC0004122 TANGGAL 19 MEI 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>77.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>IN</kdNegaraTujuan>
+          <kdPortAsal>IDBAN</kdPortAsal>
+          <kdPortBongkar>KRPUS</kdPortBongkar>
+          <kdPortMuat>IDBAN</kdPortMuat>
+          <value_currency>4042500.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>4042500.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>3400.00</cal_arb>
+          <cal_adb>5200.00</cal_adb>
+          <tm_arb>46.00</tm_arb>
+          <tash_adb>5.00</tash_adb>
+          <tsulf_adb>0.20</tsulf_adb>
+          <klasifikasibb>&lt; 5100</klasifikasibb>
+          <keterangan>ROA</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>AE90A3CIF1JF0VUN</nobayarroyalti>
+          <tglbayarroyalti>2022-05-19</tglbayarroyalti>
+          <npwp>015343825091000</npwp>
+          <nmpersh>ANTANG GUNUNG MERATUS</nmpersh>
+          <idprop>22</idprop>
+          <nmprop>Kalimantan Selatan</nmprop>
+          <jmlVolume>62.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>667172.70</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

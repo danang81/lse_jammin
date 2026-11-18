@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>027953702081000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. SUMBER GLOBAL ENERGY TBK</namaPerusahaan>
+    <alamatPerusahaan>GRAHA BIP 2ND FLOOR  JL  GATOT SUBROTO KAV 23  KARET SEMANGGI  SETIABUDI  JAKARTA 12930 INDONESIA</alamatPerusahaan>
+    <telepon>021-2500120</telepon>
+    <fax>021-2500243</fax>
+    <emailPerusahaan>021-2500243</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21040009</no_ls>
+    <tgl_ls>2021-05-03</tgl_ls>
+    <tgl_ls_expired>2021-06-03</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0064</no_izin>
+    <tgl_izin>2020-06-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0064</noizinterdaftar>
+    <tglizinterdaftar>2020-06-19</tglizinterdaftar>
+    <no_lc>LCSG600202100008</no_lc>
+    <tgl_lc>2021-04-19</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>57368.80</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO DAN TANGGAL L/C LCSG600202100008 19-04-2021</catatanperiksa>
+    <tempatperiksa>TABONEO ANCHORAGE , SOUTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-04-22</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>PL.SGE-V-2021-022</nopacklist>
+    <tglpacklist>2021-05-03</tglpacklist>
+    <noinvoice>INV.SGE-V-2021-022</noinvoice>
+    <tglinvoice>2021-05-03</tglinvoice>
+    <namaclient>NOCINCO KAIMING CHEMICALS CO., LTD</namaclient>
+    <alamatclient>5F NORTH REAL ESTATE BUILDING NO. 81 ZIZHUYUAN ROAD, HAIDIAN DIST., BEIJING 100089, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-04-19</tglmuat>
+    <namavessel>MV. FRIEDERIKE</namavessel>
+    <tglmuatvessel>2021-04-22</tglmuatvessel>
+    <noiupop>-</noiupop>
+    <tgliupop>0000-00-00</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>22/1/IUP/PMDN/2018</noiupopkolah>
+    <tgliupopkolah>2018-06-25</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NO DAN TANGGAL L/C LCSG600202100008 19-04-2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27021000</posTarif>
+      <jmlVolume>54.360</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CN  PAJ </kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>2283120.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2283120.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>3803.00</cal_arb>
+      <cal_adb>4810.00</cal_adb>
+      <tm_arb>35.10</tm_arb>
+      <tash_adb>7.95</tash_adb>
+      <tsulf_adb>0.51</tsulf_adb>
+      <klasifikasibb>&lt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>DC1EE6U8E2G8RNOT</nobayarroyalti>
+      <tglbayarroyalti>2021-04-26</tglbayarroyalti>
+      <jmlVolume>5.5930</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>025757899077000</npwp>
+      <nmpersh>INDOMARTA MULTI MINING</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>47373150.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>E352C55DEDBD2KJ9</nobayarroyalti>
+      <tglbayarroyalti>2021-04-25</tglbayarroyalti>
+      <jmlVolume>7.4170</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022156798734000</npwp>
+      <nmpersh>MITRAJAYA ABADI BERSAMA</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>119363222.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>66CE88N3DNKLV481</nobayarroyalti>
+      <tglbayarroyalti>2021-04-14</tglbayarroyalti>
+      <jmlVolume>41.3720</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015767825714000</npwp>
+      <nmpersh>BUNDA KANDUNG</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>738281343.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021163886071000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. VIREMA IMPEX</namaPerusahaan>
+    <alamatPerusahaan>TCC BATAVIA TOWER ONE LT 06 SUITE 02 JL KH MAS MANSYUR KAV 126  KEL  KARET TENGSIN  KEC  TANAH ABANG  JAKARTA PUSAT</alamatPerusahaan>
+    <telepon>02129675006</telepon>
+    <fax>02129675009</fax>
+    <emailPerusahaan>02129675009</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21030004</no_ls>
+    <tgl_ls>2021-03-10</tgl_ls>
+    <tgl_ls_expired>2021-04-10</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0004</no_izin>
+    <tgl_izin>2019-02-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0004</noizinterdaftar>
+    <tglizinterdaftar>2019-02-19</tglizinterdaftar>
+    <no_lc>DC TSE862319CC</no_lc>
+    <tgl_lc>2021-02-10</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>55496.00</kapkapal>
+    <asuransi>-</asuransi>
+    <catatanperiksa>Nomor dan Tanggal L/C : DC TSE862319CC tanggal 10 Februari 2021</catatanperiksa>
+    <tempatperiksa>TABONEO ANCHORAGE, SOUTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-03-10</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>PL007/PTVI-ZUHAI/III/2021</nopacklist>
+    <tglpacklist>2021-03-10</tglpacklist>
+    <noinvoice>007/PTVI-ZUHAI/III/2021</noinvoice>
+    <tglinvoice>2021-03-10</tglinvoice>
+    <namaclient>ZHUHAI PORT HOLDINGS (HONGKONG) CO., LIMITED</namaclient>
+    <alamatclient>RM C 20/F CENTRE MARK II 305-313 QUEEN'S ROAD CENTRAL HONG KONG</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-02-10</tglmuat>
+    <namavessel>MV. JIN XING</namavessel>
+    <tglmuatvessel>2021-03-04</tglmuatvessel>
+    <noiupop>-</noiupop>
+    <tgliupop>0000-00-00</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>33/1/IUP/PMA/2018</noiupopkolah>
+    <tgliupopkolah>2018-06-21</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>Nomor dan Tanggal L/C : DC TSE862319CC tanggal 10 Februari 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>46970.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>STEAM (NON-COKING) COAL OF INDONESIAN ORIGIN IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNNTG</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>3635478.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>3635478.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4973.00</cal_arb>
+      <cal_adb>5365.00</cal_adb>
+      <tm_arb>17.94</tm_arb>
+      <tash_adb>21.45</tash_adb>
+      <tsulf_adb>1.05</tsulf_adb>
+      <klasifikasibb>&gt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>F17780N9V89J8OJA</nobayarroyalti>
+      <tglbayarroyalti>2021-02-26</tglbayarroyalti>
+      <jmlVolume>8848978.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>901036087714000</npwp>
+      <nmpersh>PERMATA INDAH SINERGI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>369000000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>E92CF2G4UTGN0RMU</nobayarroyalti>
+      <tglbayarroyalti>2021-03-05</tglbayarroyalti>
+      <jmlVolume>7356845.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022371272732000</npwp>
+      <nmpersh>ENERGI BUMI TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>124396906.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>8DB7D3CIEO306EUB</nobayarroyalti>
+      <tglbayarroyalti>2021-03-01</tglbayarroyalti>
+      <jmlVolume>7584748.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022375893732000</npwp>
+      <nmpersh>BERSAMA ALAM SENTOSA</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>105705856.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>755A13CIEFKLTT2J</nobayarroyalti>
+      <tglbayarroyalti>2020-12-31</tglbayarroyalti>
+      <jmlVolume>6625211.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>126000000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>69A4255DED5H9PUJ</nobayarroyalti>
+      <tglbayarroyalti>2021-02-26</tglbayarroyalti>
+      <jmlVolume>7566975.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>901036087714000</npwp>
+      <nmpersh>PERMATA INDAH SINERGI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>307500000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>AB2B42G4UTEC2R8C</nobayarroyalti>
+      <tglbayarroyalti>2021-02-26</tglbayarroyalti>
+      <jmlVolume>8802795.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>901036087714000</npwp>
+      <nmpersh>PERMATA INDAH SINERGI</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>410000000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

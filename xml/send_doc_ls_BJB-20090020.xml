@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>838559003015000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. RLK DEVELOPMENT INDONESIA</namaPerusahaan>
+    <alamatPerusahaan>PERTOKOAN CROWN PALACE BLOK D NO  15  JL  PROF DR  SOEPOMO NO  231  KEL  MENTENG DALAM  KEC  TEBET  JAKARTA SELATAN</alamatPerusahaan>
+    <telepon>( 021 ) 36852551</telepon>
+    <fax>( 021 ) 36852551</fax>
+    <emailPerusahaan>( 021 ) 36852551</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-20090020</no_ls>
+    <tgl_ls>2020-09-06</tgl_ls>
+    <tgl_ls_expired>2020-10-06</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0003</no_izin>
+    <tgl_izin>2019-01-08</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0003</noizinterdaftar>
+    <tglizinterdaftar>2019-01-08</tglizinterdaftar>
+    <no_lc>550-01-0310991</no_lc>
+    <tgl_lc>2020-08-18</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BILK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>79467.00</kapkapal>
+    <asuransi>TUOFUSHIPPING MANAGEMENT LIMITED</asuransi>
+    <catatanperiksa>L/C NO. 550 - 01- 0310991 18 AGUSTUS 2020</catatanperiksa>
+    <tempatperiksa>TABONEO, SOUTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-08-30</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>PL/RLK/IX/2020/008</nopacklist>
+    <tglpacklist>2020-09-05</tglpacklist>
+    <noinvoice>INV/RLK/IX/2020/008A</noinvoice>
+    <tglinvoice>2020-09-05</tglinvoice>
+    <namaclient/>
+    <alamatclient>HONGYUAN ROAD NO. 88, XIAOGANG QINGSHI INDUSTRY ZONE, BEILUN DISTRICT, NINGBO, ZHEJIANG, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-08-18</tglmuat>
+    <namavessel>MV. TUO FU 11</namavessel>
+    <tglmuatvessel>2020-08-29</tglmuatvessel>
+    <noiupop>84/1/IUP/PMA/2018</noiupop>
+    <tgliupop>2018-11-28</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>84/1/IUP/PMA/2018</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>L/C NO. 550 - 01- 0310991 18 AGUSTUS 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>31.470</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNBEI</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>2496120.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1038510.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>36.975</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNBEI</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>2496120.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1220175.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>7.195</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNBEI</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>2496120.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>237435.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4661.00</cal_arb>
+      <cal_adb>5427.00</cal_adb>
+      <tm_arb>29.15</tm_arb>
+      <tash_adb>8.10</tash_adb>
+      <tsulf_adb>1.32</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>61560000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>110670408.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>3</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>61020000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>4</idposTarif>
+      <npwp>021213475031000</npwp>
+      <nmpersh>DAYA MITRA SEJATI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>101908044.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>5</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>218527140.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>6</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>241500000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>7</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>202400000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>8</idposTarif>
+      <npwp>018340299733000</npwp>
+      <nmpersh>PUTRA BANUA TAPIN</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>189290000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>9</idposTarif>
+      <npwp>022370365732000</npwp>
+      <nmpersh>CINTA PURI PRATAMA</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>63525000.00</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

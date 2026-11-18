@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015396989054000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARAMULTI SUKSESSARANA TBK</namaPerusahaan>
+    <alamatPerusahaan>GD  SAHID SUDIRMAN CENTER LT 56 SUITE C DJL  JENDRAL SUDIRMAN NO 86 KARET TENGSIN TANAH ABANGJAKARTA PUSAT DKI JAKARTA 10220</alamatPerusahaan>
+    <telepon/>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21020084</no_ls>
+    <tgl_ls>2021-02-28</tgl_ls>
+    <tgl_ls_expired>2021-03-28</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0080</no_izin>
+    <tgl_izin>2020-05-13</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0080</noizinterdaftar>
+    <tglizinterdaftar>2020-05-13</tglizinterdaftar>
+    <no_lc>ILC749029727</no_lc>
+    <tgl_lc>2021-02-08</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>HK</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>75492.00</kapkapal>
+    <asuransi>SKULD</asuransi>
+    <catatanperiksa>NO LC. ILC749029727, 08 FEBRUARI 2021</catatanperiksa>
+    <tempatperiksa>SAMARINDA</tempatperiksa>
+    <tglperiksa>2021-02-27</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>006A/BSSR/EXP/PL/II/2021</nopacklist>
+    <tglpacklist>2021-02-28</tglpacklist>
+    <noinvoice>006A/BSSR/EXP/KEU/II/2021</noinvoice>
+    <tglinvoice>2021-02-28</tglinvoice>
+    <namaclient>SURYADEV ALLOYS AND POWER PVT LTD</namaclient>
+    <alamatclient>NO. 298/2, NEW GUMMIDIPOONDI, GUMMIDIPOONDI TALUK, THIRUVALLUR DISTRICT, TAMILNADU - 601201, INDIA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-02-08</tglmuat>
+    <namavessel>MV HUAYANG ENDEAVOUR</namavessel>
+    <tglmuatvessel>2021-02-18</tglmuatvessel>
+    <noiupop>503/799/IUP-OP/DPMPTSP/V/2017</noiupop>
+    <tgliupop>2017-05-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. ILC749029727, 08 FEBRUARI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>45000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INENR</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1463850.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1463850.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5216.00</cal_adb>
+      <tm_arb>34.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.40</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>765ED8N3DNEIBFBB</nobayarroyalti>
+      <tglbayarroyalti>2021-02-11</tglbayarroyalti>
+      <jmlVolume>66000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015396989054000</npwp>
+      <nmpersh>BARAMULTI SUKSESSARANA TBK</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>69166.30</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

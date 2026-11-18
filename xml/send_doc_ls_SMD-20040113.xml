@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>023747371728000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0542 - 874147</telepon>
+    <fax>0542 - 874147</fax>
+    <emailPerusahaan>0542 - 874147</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20040113</no_ls>
+    <tgl_ls>2020-04-28</tgl_ls>
+    <tgl_ls_expired>2020-05-28</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0098</no_izin>
+    <tgl_izin>2019-10-18</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0098</noizinterdaftar>
+    <tglizinterdaftar>2019-10-18</tglizinterdaftar>
+    <no_lc>ILC-767-200001</no_lc>
+    <tgl_lc>2020-04-24</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>BS</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>82052.00</kapkapal>
+    <asuransi>PT ASURANSI MULTI ARTHA GUNA, TBK</asuransi>
+    <catatanperiksa>LC NO. ILC-767-200001, 24 April 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL, TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-04-27</tglperiksa>
+    <portperiksa>IDBPP</portperiksa>
+    <nopacklist>914/BT/TLI/IV/2020</nopacklist>
+    <tglpacklist>2020-04-28</tglpacklist>
+    <noinvoice>914/BT/TLI/IV/2020</noinvoice>
+    <tglinvoice>2020-04-28</tglinvoice>
+    <namaclient>THERMA LUZON, INC.,</namaclient>
+    <alamatclient>14th FLOOR, NAC TOWER, 32nd STREET, BONIFACIO GLOBAL CITY. FORT BONIFACIO, TAGUIG CITY, PHILIPPINES 1634</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-04-24</tglmuat>
+    <namavessel>MV FLAMENCO</namavessel>
+    <tglmuatvessel>2020-04-27</tglmuatvessel>
+    <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+    <tgliupop>2011-05-02</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>LC NO. ILC-767-200001, 24 April 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>67146.567</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>POP</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>6675816.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>2970564.12</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>8303.433</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>POP</kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>6675816.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>367343.88</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <cal_arb>4468.00</cal_arb>
+      <cal_adb>5616.00</cal_adb>
+      <tm_arb>31.79</tm_arb>
+      <tash_adb>4.20</tash_adb>
+      <tsulf_adb>0.25</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>023747371728000</npwp>
+      <nmpersh>BARA TABANG</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>33987.20</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <npwp>010615987091000</npwp>
+      <nmpersh>MULTI HARAPAN UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>48390.27</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

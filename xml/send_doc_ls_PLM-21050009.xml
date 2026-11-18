@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>021214481038000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. MUARA ALAM SEJAHTERA</namaPerusahaan>
+    <alamatPerusahaan>GRHA BARAMULTI  3th FLOOR JALAN SURYOPRANOTO NO 2 KOMPLEKS HARMONI BLOK A 8 PETOJO UTARA  GAMBIR  JAKARTA PUSAT</alamatPerusahaan>
+    <telepon>021 63851140</telepon>
+    <fax>021-63850957</fax>
+    <emailPerusahaan>021-63850957</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>PLM-21050009</no_ls>
+    <tgl_ls>2021-05-03</tgl_ls>
+    <tgl_ls_expired>2021-06-03</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0163</no_izin>
+    <tgl_izin>2020-08-11</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0163</noizinterdaftar>
+    <tglizinterdaftar>2020-08-11</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Containers</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>SG</bendera>
+    <jeniskapal>-</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>-</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT </tempatperiksa>
+    <tglperiksa>2021-05-03</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>001/EX-KEU-MAS/QC-JKT/IV/2021</nopacklist>
+    <tglpacklist>2021-04-30</tglpacklist>
+    <noinvoice>01/INV-KEU-MAS/QC-JKT/IV/2021</noinvoice>
+    <tglinvoice>2021-04-30</tglinvoice>
+    <namaclient>Alex Steward Laboratory (M) Sdn. Bhd. (982959-U)</namaclient>
+    <alamatclient>17-G-12, 17-1-12, 17-2-12 Bayan Point
+Medan Kampung Relau,
+Bayan Lepas, Penang 
+11900 </alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>KEMAL R </namavessel>
+    <tglmuatvessel>2021-05-07</tglmuatvessel>
+    <noiupop>0512/DPMTPSP.V/VII/2019</noiupop>
+    <tgliupop>2019-07-31</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>COAL SAMPLE FOR LABORATORY ANALYSIS ONLY (NO COMERCIAL VALUE)</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>MY</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>MYNTL</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>10.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>6050.00</cal_arb>
+      <cal_adb>5000.00</cal_adb>
+      <tm_arb>29.00</tm_arb>
+      <tash_adb>6.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5000</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>021214481038000</npwp>
+      <nmpersh>MUARA ALAM SEJAHTERA</nmpersh>
+      <idprop>9</idprop>
+      <nmprop>Sumatera Selatan</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

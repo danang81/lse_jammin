@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015584527091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. PERKASA INAKAKERTA</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 36 UNIT B SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA 8B   SENAYAN KEBAYORAN BARU JAKARTA SELATAN     12190</alamatPerusahaan>
+    <telepon/>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21090470</no_ls>
+    <tgl_ls>2021-09-14</tgl_ls>
+    <tgl_ls_expired>2021-10-14</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0069</no_izin>
+    <tgl_izin>2020-04-27</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0069</noizinterdaftar>
+    <tglizinterdaftar>2020-04-27</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>KR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>94998.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. DIP0086221B00013 dan 08 SEPTEMBER 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-09-14</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>442/PIK/KCH/VII/2021</nopacklist>
+    <tglpacklist>2021-09-14</tglpacklist>
+    <noinvoice>442/PIK/KCH/VII/2021</noinvoice>
+    <tglinvoice>2021-09-14</tglinvoice>
+    <namaclient>GS DONGHAE ELECTRIC POWER CO., LTD.</namaclient>
+    <alamatclient>36, GONGDAN-4-RO, DONGHAESI, GANGWONDO, KOREA 25799</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV ORIENTAL FRONTIER</namavessel>
+    <tglmuatvessel>2021-09-10</tglmuatvessel>
+    <noiupop>343.K/30/DJB/2007</noiupop>
+    <tgliupop>2007-08-13</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>&#8212;-</nopetikemas>
+    <nosegel>&#8212;-</nosegel>
+    <kesimpulan>NO LC. DIP0086221B00013 dan 08 SEPTEMBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>7800.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>KRTGH </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>702000.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>702000.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4830.00</cal_arb>
+      <cal_adb>5949.00</cal_adb>
+      <tm_arb>29.01</tm_arb>
+      <tash_adb>4.36</tash_adb>
+      <tsulf_adb>0.89</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>622F748VUJ54FL5C</nobayarroyalti>
+      <tglbayarroyalti>2021-08-31</tglbayarroyalti>
+      <jmlVolume>7500.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015584527091000</npwp>
+      <nmpersh>PERKASA INAKAKERTA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>56092.50</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

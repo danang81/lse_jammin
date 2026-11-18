@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>725588123013000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ALFA ENERGI INVESTAMA TBK</namaPerusahaan>
+    <alamatPerusahaan>RUKO PLAZA 5 BLOK D 12  JL MARGAGUNA RAYA  KEL  GANDARIA UTARA  KEC  KEBAYORAN BARU  KOTA ADM  JAKARTA SELATAN  PROV  DKI JAKARTA</alamatPerusahaan>
+    <telepon>021-7246966</telepon>
+    <fax>021-72780115</fax>
+    <emailPerusahaan>021-72780115</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21080404</no_ls>
+    <tgl_ls>2021-08-06</tgl_ls>
+    <tgl_ls_expired>2021-09-06</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0334</no_izin>
+    <tgl_izin>2019-05-14</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0334</noizinterdaftar>
+    <tglizinterdaftar>2019-05-14</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>172566.00</kapkapal>
+    <asuransi>THE WEST OF ENGLAND SHIP OWNERS MUTUAL INSURANCE ASSOCIATION (LUXEMBOURG)</asuransi>
+    <catatanperiksa>NO LC. 703LCA2100012, 21 JULI 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU, KALIMANTAN TIMUR, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-08-06</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>012/AEI-PL/VIII/2021</nopacklist>
+    <tglpacklist>2021-08-06</tglpacklist>
+    <noinvoice>012/AEI-INV/VIII/2021</noinvoice>
+    <tglinvoice>2021-08-06</tglinvoice>
+    <namaclient>ANMOL INDIA LIMITED</namaclient>
+    <alamatclient>OFFICE NO A 24 KUTCH ARCADE, GROUND FLOOR, SURVEY NO. 234 BY 1 AND 235, MITHI ROHAR
+GANDHIDHAM, KACHCHH-370201 GUJARAT, INDIA.</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV LILA KYOTO</namavessel>
+    <tglmuatvessel>2021-07-28</tglmuatvessel>
+    <noiupop>163/1/IUP/PMDN/2019</noiupop>
+    <tgliupop>2019-04-22</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 703LCA2100012, 21 JULI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>12618.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INNAV</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1418937.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>788625.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+    <loop>
+      <idposTarif>2</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>10085.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>IN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>INNAV</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1418937.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>630312.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4200.00</cal_arb>
+      <cal_adb>5100.00</cal_adb>
+      <tm_arb>32.00</tm_arb>
+      <tash_adb>8.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>198507QLTTBBOGEM</nobayarroyalti>
+      <tglbayarroyalti>2021-07-18</tglbayarroyalti>
+      <jmlVolume>7600.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026724864722000</npwp>
+      <nmpersh>ALFARA DELTA PERSADA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>7894.76</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>8458A48VUJ1N3K6O</nobayarroyalti>
+      <tglbayarroyalti>2021-07-15</tglbayarroyalti>
+      <jmlVolume>5400.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026724864722000</npwp>
+      <nmpersh>ALFARA DELTA PERSADA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>8195.11</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>199571JNF3ANUOCV</nobayarroyalti>
+      <tglbayarroyalti>2021-07-21</tglbayarroyalti>
+      <jmlVolume>5400.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>020104923725000</npwp>
+      <nmpersh>SINAR KUMALA NAGA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>9689.40</royalti>
+      <kurs>USD</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>4D1BF7QLTTBIUMSA</nobayarroyalti>
+      <tglbayarroyalti>2021-07-26</tglbayarroyalti>
+      <jmlVolume>5350.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>020104923725000</npwp>
+      <nmpersh>SINAR KUMALA NAGA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>9584.50</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

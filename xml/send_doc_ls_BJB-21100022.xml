@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>931847636732000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. CORDELIA BARA UTAMA</namaPerusahaan>
+    <alamatPerusahaan>JALAN INTAN VII NO  53  LOKTABAT UTARA  BANJARBARU UTARA  KOTA BANJARBARU  KALIMANTAN SELATAN</alamatPerusahaan>
+    <telepon>08125132777</telepon>
+    <fax/>
+    <emailPerusahaan/>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21100022</no_ls>
+    <tgl_ls>2021-10-09</tgl_ls>
+    <tgl_ls_expired>2021-11-09</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0057</no_izin>
+    <tgl_izin>2020-04-15</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0057</noizinterdaftar>
+    <tglizinterdaftar>2020-04-15</tglizinterdaftar>
+    <no_lc>LC35401C102200</no_lc>
+    <tgl_lc>2021-09-30</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>79641.70</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NOMOR DAN TANGGAL L/C : LC35401C102200 DAN 30 SEPTEMBER 2021</catatanperiksa>
+    <tempatperiksa>TABONEO ANCHORAGE, SOUTH KALIMANTAN, INDONESIA </tempatperiksa>
+    <tglperiksa>2021-10-10</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>003/CBU-XIAMEN/X/2021</nopacklist>
+    <tglpacklist>2021-10-09</tglpacklist>
+    <noinvoice>003/CBU-XIAMEN CND/X/2021</noinvoice>
+    <tglinvoice>2021-10-09</tglinvoice>
+    <namaclient>XIAMEN C AND D ENERGY RESOURCES CO.,LTD.</namaclient>
+    <alamatclient>22F, C AND D INTERNATIONAL BUILDING, NO. 1699 HUANDAO EAST ROAD, XIAMEN, 361008, CHINA </alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-09-30</tglmuat>
+    <namavessel>MV. ODYSSEUS N</namavessel>
+    <tglmuatvessel>2021-10-02</tglmuatvessel>
+    <noiupop>-</noiupop>
+    <tgliupop>0000-00-00</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>440/1/IUP/PMDN/2019</noiupopkolah>
+    <tgliupopkolah>2019-12-30</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NOMOR DAN TANGGAL L/C : LC35401C102200 DAN 30 SEPTEMBER 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011290</posTarif>
+      <jmlVolume>72308.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>CNXMN</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>9833888.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>9833888.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5241.00</cal_arb>
+      <cal_adb>5691.00</cal_adb>
+      <tm_arb>15.78</tm_arb>
+      <tash_adb>18.96</tash_adb>
+      <tsulf_adb>1.40</tsulf_adb>
+      <klasifikasibb>&gt; 5100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>531130N9UVEB23SI</nobayarroyalti>
+      <tglbayarroyalti>2021-08-19</tglbayarroyalti>
+      <jmlVolume>4765.7180</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022428593734000</npwp>
+      <nmpersh>SAIJAAN PRIMA COAL </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>59280000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>2</idseriAsal>
+      <idposTarif>2</idposTarif>
+      <nobayarroyalti>994A348VUA71BONQ</nobayarroyalti>
+      <tglbayarroyalti>2021-08-19</tglbayarroyalti>
+      <jmlVolume>7621.9250</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022428593734000</npwp>
+      <nmpersh>SAIJAAN PRIMA COAL </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>117750000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>3</idseriAsal>
+      <idposTarif>3</idposTarif>
+      <nobayarroyalti>5DC6A6U8DPR2PTJ1</nobayarroyalti>
+      <tglbayarroyalti>2021-08-28</tglbayarroyalti>
+      <jmlVolume>7535.8300</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022428593734000</npwp>
+      <nmpersh>SAIJAAN PRIMA COAL </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>77750000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>4</idseriAsal>
+      <idposTarif>4</idposTarif>
+      <nobayarroyalti>5FFBC55DEDQ1IN7F</nobayarroyalti>
+      <tglbayarroyalti>2021-10-01</tglbayarroyalti>
+      <jmlVolume>7439.0020</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>022428593734000</npwp>
+      <nmpersh>SAIJAAN PRIMA COAL </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>74650000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>5</idseriAsal>
+      <idposTarif>5</idposTarif>
+      <nobayarroyalti>B89D11JNF3J4VAC5</nobayarroyalti>
+      <tglbayarroyalti>2021-10-04</tglbayarroyalti>
+      <jmlVolume>7302.2690</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>312392780015000</npwp>
+      <nmpersh>AERO MANDIRI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>77745000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>6</idseriAsal>
+      <idposTarif>6</idposTarif>
+      <nobayarroyalti>00C9748VUJ821S1A</nobayarroyalti>
+      <tglbayarroyalti>2021-09-29</tglbayarroyalti>
+      <jmlVolume>9603.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>027466572733000</npwp>
+      <nmpersh>TIGA SERANGKAI BINUANG </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>226060500.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>7</idseriAsal>
+      <idposTarif>7</idposTarif>
+      <nobayarroyalti>FCE757QLTTHIGGOC</nobayarroyalti>
+      <tglbayarroyalti>2021-09-28</tglbayarroyalti>
+      <jmlVolume>5323.6950</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>010031623056000</npwp>
+      <nmpersh>KENDILO COAL INDONESIA </nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>541879200.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>8</idseriAsal>
+      <idposTarif>8</idposTarif>
+      <nobayarroyalti>6B3C71JNF3J5S77F</nobayarroyalti>
+      <tglbayarroyalti>2021-10-04</tglbayarroyalti>
+      <jmlVolume>5136.6430</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>031225675732000</npwp>
+      <nmpersh>BORNEO TALA UTAMA </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>126000000.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>9</idseriAsal>
+      <idposTarif>9</idposTarif>
+      <nobayarroyalti>26BBD61QU8F5589C</nobayarroyalti>
+      <tglbayarroyalti>2021-10-06</tglbayarroyalti>
+      <jmlVolume>10366.0420</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>024219164733000</npwp>
+      <nmpersh>AKBAR </nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>200088725.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+    <loop>
+      <idseriAsal>10</idseriAsal>
+      <idposTarif>10</idposTarif>
+      <nobayarroyalti>2B7037QLTTHKMI6K</nobayarroyalti>
+      <tglbayarroyalti>2021-09-29</tglbayarroyalti>
+      <jmlVolume>7076.4980</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>312392780015000</npwp>
+      <nmpersh>AERO MANDIRI</nmpersh>
+      <idprop>22</idprop>
+      <nmprop>Kalimantan Selatan</nmprop>
+      <royalti>75364725.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

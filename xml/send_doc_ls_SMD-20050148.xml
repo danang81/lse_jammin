@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>014346324725000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. FAJAR SAKTI PRIMA</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10 KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0541-633689</telepon>
+    <fax>0541-663689</fax>
+    <emailPerusahaan>0541-663689</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20050148</no_ls>
+    <tgl_ls>2020-05-27</tgl_ls>
+    <tgl_ls_expired>2020-06-27</tgl_ls_expired>
+    <no_izin>03.ET-04.17.0067</no_izin>
+    <tgl_izin>2019-10-17</tgl_izin>
+    <noizinterdaftar>03.ET-04.17.0067</noizinterdaftar>
+    <tglizinterdaftar>2019-10-17</tglizinterdaftar>
+    <no_lc>781lC62000106</no_lc>
+    <tgl_lc>2020-05-19</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>MH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>57069.00</kapkapal>
+    <asuransi>PT ASURANSI TUGU PRATAMA INDONESIA TBK</asuransi>
+    <catatanperiksa>L/C NO. 781lC62000106, 19 MAY 2020</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-05-27</tglperiksa>
+    <portperiksa>IDBPP</portperiksa>
+    <nopacklist>081/FSP/CFEPL/V/2020</nopacklist>
+    <tglpacklist>2020-05-27</tglpacklist>
+    <noinvoice>081/FSP/CFEPL/V/2020</noinvoice>
+    <tglinvoice>2020-05-27</tglinvoice>
+    <namaclient>COECLERICI FAR EAST (PTE) LTD</namaclient>
+    <alamatclient>350 ORCHARD ROAD
+16-01 SHAW HOUSE
+238868 SINGAPORE</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-05-19</tglmuat>
+    <namavessel>MV LIETTA</namavessel>
+    <tglmuatvessel>2020-05-27</tglmuatvessel>
+    <noiupop>540/063/IUP-OP/MB-PBAT/IV/2011</noiupop>
+    <tgliupop>2011-04-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>L/C NO. 781lC62000106, 19 MAY 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>49000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDBPP</kdPortAsal>
+      <kdPortBongkar>CNSGH </kdPortBongkar>
+      <kdPortMuat>IDBPP</kdPortMuat>
+      <value_currency>2891000.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>1445500.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4303.00</cal_arb>
+      <cal_adb>5500.00</cal_adb>
+      <tm_arb>33.50</tm_arb>
+      <tash_adb>4.50</tash_adb>
+      <tsulf_adb>0.10</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>22547.09</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

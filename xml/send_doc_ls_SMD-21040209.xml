@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>026717330012000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. GUNUNG BARA UTAMA</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG PERKANTORAN GANDARIA 8 LANTAI 9 UNIT DE JALAN SULTAN ISKANDAR MUDA  KEL  KEBAYORAN LAMA UTARA  KEC  KEBAYORAN LAMA  JAKARTA SELATAN</alamatPerusahaan>
+    <telepon>021-29950155</telepon>
+    <fax>021-29950150</fax>
+    <emailPerusahaan>021-29950150</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21040209</no_ls>
+    <tgl_ls>2021-05-01</tgl_ls>
+    <tgl_ls_expired>2021-06-01</tgl_ls_expired>
+    <no_izin>03.ET-04.21.0012</no_izin>
+    <tgl_izin>2021-01-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.21.0012</noizinterdaftar>
+    <tglizinterdaftar>2021-01-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>BS</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>77061.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. SGSTCFILC0015225, 30 MARET 2021</catatanperiksa>
+    <tempatperiksa>MUARA BERAU, KALIMANTAN TIMUR, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-05-01</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>027/GBU-PL/V/2021</nopacklist>
+    <tglpacklist>2021-05-01</tglpacklist>
+    <noinvoice>027/GBU-INV/V/2021</noinvoice>
+    <tglinvoice>2021-05-01</tglinvoice>
+    <namaclient>MASINLOC POWER PARTNERS CO., LTD</namaclient>
+    <alamatclient>BARANGAY BANI, MASINLOC, ZAMBALES, PHILIPPINES</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>MV FRANCESCO CORRADO</namavessel>
+    <tglmuatvessel>2021-04-25</tglmuatvessel>
+    <noiupop>545/K.87A/2009</noiupop>
+    <tgliupop>2009-11-03</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. SGSTCFILC0015225, 30 MARET 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>69270.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>NJD PREMIUM STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>PHMSC</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>3475968.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>3475968.60</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5300.00</cal_arb>
+      <cal_adb>5900.00</cal_adb>
+      <tm_arb>23.00</tm_arb>
+      <tash_adb>9.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>F478E48VUILS81PG</nobayarroyalti>
+      <tglbayarroyalti>2021-03-19</tglbayarroyalti>
+      <jmlVolume>74800.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>152354.90</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

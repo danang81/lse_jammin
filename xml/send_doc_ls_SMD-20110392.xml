@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>026717330012000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. GUNUNG BARA UTAMA</namaPerusahaan>
+    <alamatPerusahaan>THE MANHATTAN SQUARE MID TOWER LT 12 UNIT CSUITE S 02  JL  TB SIMATUPANG KAV 1 S  DKI JAKARTA  INDONESIA</alamatPerusahaan>
+    <telepon>021-29950155</telepon>
+    <fax>021-29950150</fax>
+    <emailPerusahaan>021-29950150</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20110392</no_ls>
+    <tgl_ls>2020-11-16</tgl_ls>
+    <tgl_ls_expired>2020-12-16</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0018</no_izin>
+    <tgl_izin>2018-02-01</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0018</noizinterdaftar>
+    <tglizinterdaftar>2018-02-01</tglizinterdaftar>
+    <no_lc>504LCC2000564</no_lc>
+    <tgl_lc>2020-11-09</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>62918.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. 504LCC2000564, 09 NOVEMBER 2020</catatanperiksa>
+    <tempatperiksa>MUARA BERAU, KALIMANTAN TIMUR, INDONESIA</tempatperiksa>
+    <tglperiksa>2020-11-16</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>179/GBU-PL/XI/2020</nopacklist>
+    <tglpacklist>2020-11-16</tglpacklist>
+    <noinvoice>179/GBU-INV/XI/2020</noinvoice>
+    <tglinvoice>2020-11-16</tglinvoice>
+    <namaclient>NINGBO JIN DAYUAN TRADING CO., LTD</namaclient>
+    <alamatclient>8TH, FLOOR, NO. 31, LANE 299
+GUANGHUA ROAD, HI-TECH ZONE,
+NINGBO CITY, CHINA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-11-09</tglmuat>
+    <namavessel>MV RED DAISY</namavessel>
+    <tglmuatvessel>2020-11-13</tglmuatvessel>
+    <noiupop>545/K.875a/2009</noiupop>
+    <tgliupop>2009-11-03</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nobayarroyalti/>
+    <tglbayarroyalti/>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 504LCC2000564, 09 NOVEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>57650.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL </uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>CN</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>CNNBO</kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>2326177.50</value_currency>
+      <currency>USD</currency>
+      <value_fob>2326177.50</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5300.00</cal_arb>
+      <cal_adb>5900.00</cal_adb>
+      <tm_arb>23.00</tm_arb>
+      <tash_adb>9.00</tash_adb>
+      <tsulf_adb>0.80</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <npwp>026717330012000</npwp>
+      <nmpersh>GUNUNG BARA UTAMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>85470.03</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

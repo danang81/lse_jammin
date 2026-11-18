@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>015891377091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. MITRABARA ADIPERDANA TBK</namaPerusahaan>
+    <alamatPerusahaan>GEDUNG GRHA BARAMULTI  JALAN SURYOPRANOTO NO  2  KOMPLEKS HARMONI BLOK A 8 PETOJO UTARA GAMBIR JAKARTA PUSAT DKI JAKARTA 10130</alamatPerusahaan>
+    <telepon>081221475555</telepon>
+    <fax>0</fax>
+    <emailPerusahaan>0</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>TRK-21010002</no_ls>
+    <tgl_ls>2021-02-02</tgl_ls>
+    <tgl_ls_expired>2021-03-02</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0126</no_izin>
+    <tgl_izin>2020-07-06</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0126</noizinterdaftar>
+    <tglizinterdaftar>2020-07-06</tglizinterdaftar>
+    <no_lc>M036L101NU00235</no_lc>
+    <tgl_lc>2021-01-12</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>KR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>88125.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa>NO LC. M036L101NU00235, 12 JANUARI 2021</catatanperiksa>
+    <tempatperiksa>TARAKAN ANCHORAGE, NORTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-01-25</tglperiksa>
+    <portperiksa>IDTRK</portperiksa>
+    <nopacklist>007/PL-MA/II/2021</nopacklist>
+    <tglpacklist>2021-02-02</tglpacklist>
+    <noinvoice>001/MA/INV/EX/II/2021</noinvoice>
+    <tglinvoice>2021-02-02</tglinvoice>
+    <namaclient>KOREA SOUTH-EAST POWER CO., LTD.</namaclient>
+    <alamatclient>ADDRESS : 9TH FLOOR, 123 BEON-GIL, SADEUL-RO 32, JINJU-SI, GYEONGSANGNAM -DO, KOREA</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-01-12</tglmuat>
+    <namavessel>MV. ORIENTAL ENTERPRISE</namavessel>
+    <tglmuatvessel>2021-01-25</tglmuatvessel>
+    <noiupop>503/545/K.633/2009</noiupop>
+    <tgliupop>2009-12-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. M036L101NU00235, 12 JANUARI 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>86200.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDTRK</kdPortAsal>
+      <kdPortBongkar>KRYOS</kdPortBongkar>
+      <kdPortMuat>IDTRK</kdPortMuat>
+      <value_currency>4706520.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>4706520.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5400.00</cal_arb>
+      <cal_adb>5991.00</cal_adb>
+      <tm_arb>21.00</tm_arb>
+      <tash_adb>5.00</tash_adb>
+      <tsulf_adb>0.20</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>78FB72G4UTB83EA2</nobayarroyalti>
+      <tglbayarroyalti>2021-01-21</tglbayarroyalti>
+      <jmlVolume>86200.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015891377091000</npwp>
+      <nmpersh>MITRABARA ADIPERDANA TBK</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>229003.10</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

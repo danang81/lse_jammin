@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>023747371728000</npwp>
+        <refnumber>6509027378</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+        <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KO</alamatPerusahaan>
+        <telepon>0542 - 874147</telepon>
+        <fax>0542 - 874147</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22100496</no_ls>
+        <tgl_ls>2022-10-10</tgl_ls>
+        <tgl_ls_expired>2022-11-10</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0062</no_izin>
+        <tgl_izin>2020-04-16</tgl_izin>
+        <tgl_izin_expired>2022-11-10</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0062</noizinterdaftar>
+        <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-11-10</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>HK</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>75491.70</kapkapal>
+        <asuransi>SKULD</asuransi>
+        <catatanperiksa>LC NO : 2022/0055 dan 06 October 2022</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN COAL TERMINAL, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-10-09</tglperiksa>
+        <portperiksa>IDBPN</portperiksa>
+        <nopacklist>1391/BT/SCPC/X/2022</nopacklist>
+        <tglpacklist>2022-10-10</tglpacklist>
+        <noinvoice>1391/BT/SCPC/X/2022</noinvoice>
+        <tglinvoice>2022-10-10</tglinvoice>
+        <namaclient>SMC CONSOLIDATED POWER CORPORATION</namaclient>
+        <alamatclient>ROMAN HIGHWAY, BRGY. LAMAO,
+LIMAY, BATAAN 2103, PHILIPPINES
+TAX NUMBER : 008-107-131-000</alamatclient>
+        <namavessel> MV HUAYANG ENDEAVOUR</namavessel>
+        <tglmuatvessel>2022-10-09</tglmuatvessel>
+        <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+        <tgliupop>2011-05-02</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>LC NO : 2022/0055 dan 06 October 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>22058.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM COAL</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>PHLIM</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>8302631.20</value_currency>
+          <currency>USD</currency>
+          <value_fob>4151315.60</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4328.00</cal_arb>
+          <cal_adb>5565.00</cal_adb>
+          <tm_arb>34.04</tm_arb>
+          <tash_adb>3.43</tash_adb>
+          <tsulf_adb>0.08</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>AB0396U8EC8V5POP</nobayarroyalti>
+          <tglbayarroyalti>2022-09-20</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>21450.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>125319.48</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <refnumber>6406433225</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BAYAN RESOURCES.TBK</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H SCBD LOT 28  JL  JENDERAL SUDIRMAN KAV  52 53  JL  SENOPATI RAYA </alamatPerusahaan>
+        <telepon>021-2933 2888</telepon>
+        <fax>021-2933 2999</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-22060249</no_ls>
+        <tgl_ls>2022-06-13</tgl_ls>
+        <tgl_ls_expired>2022-07-13</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0049</no_izin>
+        <tgl_izin>2020-03-30</tgl_izin>
+        <tgl_izin_expired>2022-07-13</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0049</noizinterdaftar>
+        <tglizinterdaftar>2020-03-30</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-07-13</tglizinterdaftar_expired>
+        <no_lc>M04FB2206NU00281</no_lc>
+        <tgl_lc>2022-06-08</tgl_lc>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>MH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>93274.00</kapkapal>
+        <asuransi>STEAMSHIP MUTUAL</asuransi>
+        <catatanperiksa>LC NO : M04FB2206NU00281 dan 08 Juni 2022</catatanperiksa>
+        <tempatperiksa>BALIKPAPAN COAL TERMINAL, INDONESIA</tempatperiksa>
+        <tglperiksa>2022-06-12</tglperiksa>
+        <portperiksa>IDBPN</portperiksa>
+        <nopacklist>1482/BR/KCH/VI/2022</nopacklist>
+        <tglpacklist>2022-06-12</tglpacklist>
+        <noinvoice>1482/BR/KCH/VI/2022</noinvoice>
+        <tglinvoice>2022-06-12</tglinvoice>
+        <namaclient>KCH ENERGY CO., LTD.</namaclient>
+        <alamatclient>SUITE 4008 TRADE TOWER, 159-1 SAMSUNG-DONG, GANGNAM-GU, SEOUL, SOUTH KOREA T. 0234406200</alamatclient>
+        <tglmuat>2022-06-08</tglmuat>
+        <namavessel>MV SM CHALLENGER</namavessel>
+        <tglmuatvessel>2022-06-12</tglmuatvessel>
+        <noiupop>50/I/IUP/PMDN/2018</noiupop>
+        <tgliupop>2018-07-16</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>LC NO : M04FB2206NU00281 dan 08 Juni 2022</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>31759.806</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK </uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>KRYOS</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>16323906.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>3226161.09</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>2</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>12442.171</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>KRYOS</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>16323906.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>1263875.73</value_fob>
+        </loop>
+        <loop>
+          <idposTarif>3</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>36148.023</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDBPN</kdPortAsal>
+          <kdPortBongkar>KRYOS</kdPortBongkar>
+          <kdPortMuat>IDBPN</kdPortMuat>
+          <value_currency>16323906.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>3671916.18</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4031.00</cal_arb>
+          <cal_adb>5412.00</cal_adb>
+          <tm_arb>37.86</tm_arb>
+          <tash_adb>4.25</tash_adb>
+          <tsulf_adb>0.12</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>175172G4V6UA8KJO</nobayarroyalti>
+          <tglbayarroyalti>2022-04-27</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>9789.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>2</idseriAsal>
+          <idposTarif>2</idposTarif>
+          <nobayarroyalti>C8F421JNFCENAF81</nobayarroyalti>
+          <tglbayarroyalti>2022-05-20</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>9286.50</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>3</idseriAsal>
+          <idposTarif>3</idposTarif>
+          <nobayarroyalti>CDFAA55DEMO8U4VN</nobayarroyalti>
+          <tglbayarroyalti>2022-05-20</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>9240.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>4</idseriAsal>
+          <idposTarif>4</idposTarif>
+          <nobayarroyalti>EB63C0N9VHSF12NQ</nobayarroyalti>
+          <tglbayarroyalti>2022-05-24</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>9286.50</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>5</idseriAsal>
+          <idposTarif>5</idposTarif>
+          <nobayarroyalti>D23CC0N9VHSF0UEU</nobayarroyalti>
+          <tglbayarroyalti>2022-05-24</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>9286.50</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>6</idseriAsal>
+          <idposTarif>6</idposTarif>
+          <nobayarroyalti>82ED90N9VHPHCRPS</nobayarroyalti>
+          <tglbayarroyalti>2022-04-26</tglbayarroyalti>
+          <npwp>014346324725000</npwp>
+          <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>3000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>5815.80</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>7</idseriAsal>
+          <idposTarif>7</idposTarif>
+          <nobayarroyalti>56AC96U8EBQ5125L</nobayarroyalti>
+          <tglbayarroyalti>2022-04-22</tglbayarroyalti>
+          <npwp>014346324725000</npwp>
+          <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>9742.50</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>8</idseriAsal>
+          <idposTarif>8</idposTarif>
+          <nobayarroyalti>37AA36U8EBT0HF55</nobayarroyalti>
+          <tglbayarroyalti>2022-05-18</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>11655.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>9</idseriAsal>
+          <idposTarif>9</idposTarif>
+          <nobayarroyalti>CC4236U8EBT0HFJR</nobayarroyalti>
+          <tglbayarroyalti>2022-05-18</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>11655.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>10</idseriAsal>
+          <idposTarif>10</idposTarif>
+          <nobayarroyalti>75CAC6U8EBT0HEKJ</nobayarroyalti>
+          <tglbayarroyalti>2022-05-18</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>11655.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>11</idseriAsal>
+          <idposTarif>11</idposTarif>
+          <nobayarroyalti>C42540N9VHS9MLOG</nobayarroyalti>
+          <tglbayarroyalti>2022-05-18</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>11655.00</royalti>
+          <kurs>USD</kurs>
+        </loop>
+        <loop>
+          <idseriAsal>12</idseriAsal>
+          <idposTarif>12</idposTarif>
+          <nobayarroyalti>016EA1JNFCENA6JP</nobayarroyalti>
+          <tglbayarroyalti>2022-05-20</tglbayarroyalti>
+          <npwp>024945206012000</npwp>
+          <nmpersh>TIWA ABADI</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>7000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>11039.70</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

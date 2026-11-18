@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>014346324725000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. FAJAR SAKTI PRIMA</namaPerusahaan>
+    <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10 KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KOTA BALIKPAPAN  KALIMANTAN TIMUR</alamatPerusahaan>
+    <telepon>0541-633689</telepon>
+    <fax>0541-663689</fax>
+    <emailPerusahaan>0541-663689</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21030152</no_ls>
+    <tgl_ls>2021-04-01</tgl_ls>
+    <tgl_ls_expired>2021-05-01</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0061</no_izin>
+    <tgl_izin>2020-04-16</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0061</noizinterdaftar>
+    <tglizinterdaftar>2020-04-16</tglizinterdaftar>
+    <no_lc>696LC504140</no_lc>
+    <tgl_lc>2021-03-26</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>LR</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>93018.80</kapkapal>
+    <asuransi>THE UNITED MUTUAL STEAM SHIP ASSURANSCE ASSOCIATION LIMITED</asuransi>
+    <catatanperiksa>NO LC. 696LC504140, 26 MARET 2021</catatanperiksa>
+    <tempatperiksa>BALIKPAPAN OUTER ANCHORAGE, EAST KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-03-31</tglperiksa>
+    <portperiksa>IDBPN</portperiksa>
+    <nopacklist>131/FSP/TVI/IV/2021</nopacklist>
+    <tglpacklist>2021-04-01</tglpacklist>
+    <noinvoice>131/FSP/TVI/IV/2021</noinvoice>
+    <tglinvoice>2021-04-01</tglinvoice>
+    <namaclient>THERMA VISAYAS, INC.</namaclient>
+    <alamatclient>BRGY. BATO, TOLEDO CITY
+CEBU 6038, PHILIPPINES
+TIN NO : 005-031-663-000
+BUSINESS STYLE: THERMA VISAYAS, INC.</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-03-26</tglmuat>
+    <namavessel>MV CELINE OLDENDORFF</namavessel>
+    <tglmuatvessel>2021-03-31</tglmuatvessel>
+    <noiupop>540/063/IUP-OP/MB-PBAT/IV/2011</noiupop>
+    <tgliupop>2011-04-26</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. 696LC504140, 26 MARET 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>88000.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>PH</kdNegaraTujuan>
+      <kdPortAsal>IDBPN</kdPortAsal>
+      <kdPortBongkar>PHTLD </kdPortBongkar>
+      <kdPortMuat>IDBPN</kdPortMuat>
+      <value_currency>8370560.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>4185280.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4228.00</cal_arb>
+      <cal_adb>5303.00</cal_adb>
+      <tm_arb>35.74</tm_arb>
+      <tash_adb>3.44</tash_adb>
+      <tsulf_adb>0.10</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>2D4A28N3DNHUAECD</nobayarroyalti>
+      <tglbayarroyalti>2021-03-23</tglbayarroyalti>
+      <jmlVolume>80000.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>014346324725000</npwp>
+      <nmpersh>FAJAR SAKTI PRIMA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>59653.05</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

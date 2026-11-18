@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>024331100091000</npwp>
+        <refnumber>5368</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. BAYAN RESOURCES TBK.</namaPerusahaan>
+        <alamatPerusahaan>GEDUNG OFFICE 8 LANTAI 37 UNIT A H  JALAN SENOPATI NO  8B  SENAYAN  KEBAYORAN BARU  KOTA ADM  JAKART</alamatPerusahaan>
+        <telepon>021-2933 2888</telepon>
+        <fax>021-2933 2999</fax>
+        <emailPerusahaan>katherina.clorinda@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23100609</no_ls>
+        <tgl_ls>2023-10-31</tgl_ls>
+        <tgl_ls_expired>2023-11-30</tgl_ls_expired>
+        <no_izin/>
+        <tgl_izin/>
+        <tgl_izin_expired/>
+        <noizinterdaftar>03.ET-04.23.0540</noizinterdaftar>
+        <tglizinterdaftar>2023-10-02</tglizinterdaftar>
+        <tglizinterdaftar_expired>2026-10-02</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>TH</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>0.00</kapkapal>
+        <asuransi>-</asuransi>
+        <catatanperiksa/>
+        <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+        <tglperiksa>2023-10-31</tglperiksa>
+        <portperiksa>IDCGK</portperiksa>
+        <nopacklist>542/BR/TPEC-CS/X/2023</nopacklist>
+        <tglpacklist>2023-10-09</tglpacklist>
+        <noinvoice>542/BR/TPEC-CS/X/2023</noinvoice>
+        <tglinvoice>2023-10-09</tglinvoice>
+        <namaclient>TEAM ENERGY CORPORATION</namaclient>
+        <alamatclient>25TH FLOOR W FIFTH AVENUE BUILDING 5TH
+AVENUE, BONIFACIO, GLOBAL CITY</alamatclient>
+        <namavessel>K - MILE</namavessel>
+        <tglmuatvessel>2023-10-31</tglmuatvessel>
+        <noiupop>81201161016940002</noiupop>
+        <tgliupop>2023-01-02</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan/>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>0.005</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>BUYER SAMPLE MV KM HAKATA</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>PH</kdNegaraTujuan>
+          <kdPortAsal>IDCGK</kdPortAsal>
+          <kdPortBongkar>PHMNL</kdPortBongkar>
+          <kdPortMuat>IDCGK</kdPortMuat>
+          <value_currency>10.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>5.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4457.00</cal_arb>
+          <cal_adb>5542.00</cal_adb>
+          <tm_arb>31.15</tm_arb>
+          <tash_adb>7.15</tash_adb>
+          <tsulf_adb>0.19</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>18DBB61QUR0QMG0A</nobayarroyalti>
+          <tglbayarroyalti>2023-09-27</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG </nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>5300.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>6851.84</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

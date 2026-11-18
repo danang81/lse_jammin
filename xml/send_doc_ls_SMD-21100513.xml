@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>028528537727000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ATHA MARTH NAHA KRAMO</namaPerusahaan>
+    <alamatPerusahaan>JL IR  JUANDA RT 006  KEL  MALINAU HILIR  KEC  MALINAU KOTA  KAB  MALINAU  KALIMANTAN UTARA</alamatPerusahaan>
+    <telepon>02129303801</telepon>
+    <fax>02129303804</fax>
+    <emailPerusahaan>02129303804</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-21100513</no_ls>
+    <tgl_ls>2021-10-22</tgl_ls>
+    <tgl_ls_expired>2021-11-22</tgl_ls_expired>
+    <no_izin>03.ET-04.19.0138</no_izin>
+    <tgl_izin>2019-06-19</tgl_izin>
+    <noizinterdaftar>03.ET-04.19.0138</noizinterdaftar>
+    <tglizinterdaftar>2019-06-19</tglizinterdaftar>
+    <no_lc/>
+    <tgl_lc>0000-00-00</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>TH</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>0.00</kapkapal>
+    <asuransi>---</asuransi>
+    <catatanperiksa/>
+    <tempatperiksa>KAWASAN PABEAN TEMPAT MUAT</tempatperiksa>
+    <tglperiksa>2021-10-22</tglperiksa>
+    <portperiksa>IDCGK</portperiksa>
+    <nopacklist>022/AMNK-INV/CS/X/2021</nopacklist>
+    <tglpacklist>2021-10-10</tglpacklist>
+    <noinvoice>022/AMNK-INV/CS/X/2021</noinvoice>
+    <tglinvoice>2021-10-10</tglinvoice>
+    <namaclient>DANGJIN THERMAL POWER SITE DIVISION</namaclient>
+    <alamatclient>CHEMISTRY TEAM, POWER PLANT 1 #974 GYORO-RI, SEOKMUN-MYEON 31700</alamatclient>
+    <negaraclient/>
+    <tglmuat>0000-00-00</tglmuat>
+    <namavessel>K - MILE AIR</namavessel>
+    <tglmuatvessel>2021-10-22</tglmuatvessel>
+    <noiupop>188.44/K.722/2016</noiupop>
+    <tgliupop>2016-12-30</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan/>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>0.005</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>BUYER SAMPLE MV BAO WEALTH </uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>KR</kdNegaraTujuan>
+      <kdPortAsal>IDCGK</kdPortAsal>
+      <kdPortBongkar>KRTAE</kdPortBongkar>
+      <kdPortMuat>IDCGK</kdPortMuat>
+      <value_currency>5.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>5.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>5504.00</cal_arb>
+      <cal_adb>5798.00</cal_adb>
+      <tm_arb>19.18</tm_arb>
+      <tash_adb>4.11</tash_adb>
+      <tsulf_adb>0.12</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>PENGECUALIANNTPN</nobayarroyalti>
+      <tglbayarroyalti>0000-00-00</tglbayarroyalti>
+      <jmlVolume>0.0050</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>028528537727000</npwp>
+      <nmpersh>ATHA MARTH NAHA KRAMO</nmpersh>
+      <idprop>34</idprop>
+      <nmprop>Kalimantan Utara</nmprop>
+      <royalti>0.00</royalti>
+      <kurs>IDR</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

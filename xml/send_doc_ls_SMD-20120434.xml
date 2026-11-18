@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>017695024091000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. ANUGERAH BARA KALTIM</namaPerusahaan>
+    <alamatPerusahaan>JL  GERBANG DAYAKU RT 014  KEL  BAKUNGAN  KEC    LOA JANAN KAB  KUTAI KERTANEGARA  KALIMANTAN TIMUR 75391</alamatPerusahaan>
+    <telepon>0541263901</telepon>
+    <fax>0541263130</fax>
+    <emailPerusahaan>0541263130</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>SMD-20120434</no_ls>
+    <tgl_ls>2020-12-18</tgl_ls>
+    <tgl_ls_expired>2021-01-18</tgl_ls_expired>
+    <no_izin>03.ET-04.20.0100</no_izin>
+    <tgl_izin>2020-06-11</tgl_izin>
+    <noizinterdaftar>03.ET-04.20.0100</noizinterdaftar>
+    <tglizinterdaftar>2020-06-11</tglizinterdaftar>
+    <no_lc>CI1823600/32-01</no_lc>
+    <tgl_lc>2020-12-09</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>CURAH / BULK</cargotype>
+    <bendera>SG</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>56489.10</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NO LC. CI1823600/32-01, 09 DESEMBER 2020</catatanperiksa>
+    <tempatperiksa>JETTY PT ABK</tempatperiksa>
+    <tglperiksa>2020-12-16</tglperiksa>
+    <portperiksa>IDSRI</portperiksa>
+    <nopacklist>1845/FA-6/12/2020</nopacklist>
+    <tglpacklist>2020-12-18</tglpacklist>
+    <noinvoice>1845/FA-6/12/2020</noinvoice>
+    <tglinvoice>2020-12-18</tglinvoice>
+    <namaclient>S!NG HENG SENG CO., LTD.</namaclient>
+    <alamatclient>8/3 RATCHADAPISEK ROAD, KLONGTOEY, BANGKOK 10110,
+THAILAND</alamatclient>
+    <negaraclient/>
+    <tglmuat>2020-12-09</tglmuat>
+    <namavessel>MV. NATHAN BRANDON</namavessel>
+    <tglmuatvessel>2020-12-14</tglmuatvessel>
+    <noiupop>69/1/IUP/PMDN/2020</noiupop>
+    <tgliupop>2020-02-28</tgliupop>
+    <noiupopkpp/>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah/>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>---</nopetikemas>
+    <nosegel>---</nosegel>
+    <kesimpulan>NO LC. CI1823600/32-01, 09 DESEMBER 2020</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>55330.000</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAMiNG (NON COKING) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>TH</kdNegaraTujuan>
+      <kdPortAsal>IDSRI</kdPortAsal>
+      <kdPortBongkar>THKSI </kdPortBongkar>
+      <kdPortMuat>IDSRI</kdPortMuat>
+      <value_currency>1793798.60</value_currency>
+      <currency>USD</currency>
+      <value_fob>1793798.60</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>4000.00</cal_arb>
+      <cal_adb>4800.00</cal_adb>
+      <tm_arb>35.00</tm_arb>
+      <tash_adb>5.00</tash_adb>
+      <tsulf_adb>0.30</tsulf_adb>
+      <klasifikasibb>5100 - 6100</klasifikasibb>
+      <keterangan>SPK</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal/>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>414722G4UL1FPQS2</nobayarroyalti>
+      <tglbayarroyalti>2020-12-04</tglbayarroyalti>
+      <jmlVolume>55330.0000</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>015002926725000</npwp>
+      <nmpersh>WELARCO SUBUR JAYA</nmpersh>
+      <idprop>23</idprop>
+      <nmprop>Kalimantan Timur</nmprop>
+      <royalti>35364.69</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

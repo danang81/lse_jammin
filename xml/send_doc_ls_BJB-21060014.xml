@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LSE_Document>
+  <header>
+    <npwp>026719559011000</npwp>
+    <refnumber/>
+    <jenisLs>LS0012</jenisLs>
+    <status/>
+    <namaPerusahaan>PT. SEMBILAN TIGA PERDANA</namaPerusahaan>
+    <alamatPerusahaan>KANTOR TAMAN E 3 3 LT  3 UNIT D7  JL DR IDE ANAK AGUNG GDE AGUNG  KAWASAN MEGA KUNINGAN  RT  001 RW  002  KUNINGAN TIMUR  SETIA BUDI  JAKARTA SELATAN </alamatPerusahaan>
+    <telepon>02157950419</telepon>
+    <fax>02157950419</fax>
+    <emailPerusahaan>02157950419</emailPerusahaan>
+    <idkab/>
+    <idprop/>
+    <no_ls>BJB-21060014</no_ls>
+    <tgl_ls>2021-06-16</tgl_ls>
+    <tgl_ls_expired>2021-07-16</tgl_ls_expired>
+    <no_izin>03.ET-04.18.0194</no_izin>
+    <tgl_izin>2018-09-24</tgl_izin>
+    <noizinterdaftar>03.ET-04.18.0194</noizinterdaftar>
+    <tglizinterdaftar>2018-09-24</tglizinterdaftar>
+    <no_lc>LC5TF12019725</no_lc>
+    <tgl_lc>2021-06-12</tgl_lc>
+    <modetransport>Vessel</modetransport>
+    <cargotype>COAL IN BULK</cargotype>
+    <bendera>PA</bendera>
+    <jeniskapal>BULK CARRIER</jeniskapal>
+    <kapkapal>52471.00</kapkapal>
+    <asuransi/>
+    <catatanperiksa>NOMOR DAN TANGGAL L/C  : LC5TF12019725  14 JUNE 2021</catatanperiksa>
+    <tempatperiksa>TABONEO ANCHORAGE, SOUTH KALIMANTAN, INDONESIA</tempatperiksa>
+    <tglperiksa>2021-06-15</tglperiksa>
+    <portperiksa>IDTAB</portperiksa>
+    <nopacklist>PL-STP-VI-2021-001</nopacklist>
+    <tglpacklist>2021-06-16</tglpacklist>
+    <noinvoice>INV-STP-VI-2021-001</noinvoice>
+    <tglinvoice>2021-06-16</tglinvoice>
+    <namaclient>HTK SHIPPING AND IMPORT EXPORT COMPANY LIMITED</namaclient>
+    <alamatclient>ADDRESS : NO. 341 DA NANG, VAN MY WARD, NGO QUYEN DISTRICT, HAI PHONG CITY, VIETNAM</alamatclient>
+    <negaraclient/>
+    <tglmuat>2021-06-12</tglmuat>
+    <namavessel>MV. PACIFIC 08</namavessel>
+    <tglmuatvessel>2021-06-15</tglmuatvessel>
+    <noiupop>107/DISTAMBEN TAHUN 2012</noiupop>
+    <tgliupop>2012-03-27</tgliupop>
+    <noiupopkpp>-</noiupopkpp>
+    <tgliupopkpp>0000-00-00</tgliupopkpp>
+    <noiupopkolah>-</noiupopkolah>
+    <tgliupopkolah>0000-00-00</tgliupopkolah>
+    <nopetikemas>-</nopetikemas>
+    <nosegel>-</nosegel>
+    <kesimpulan>NOMOR DAN TANGGAL L/C  : LC5TF12019725  14 JUNE 2021</kesimpulan>
+    <gross_weight/>
+    <net_weight/>
+    <unit/>
+  </header>
+  <detailBarang>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <posTarif>27011900</posTarif>
+      <jmlVolume>5.140</jmlVolume>
+      <satuan>TNE</satuan>
+      <uraian_barang>INDONESIAN STEAM ( NON COKING ) COAL IN BULK</uraian_barang>
+      <kdNegaraAsal>ID</kdNegaraAsal>
+      <kdNegaraMuat>ID</kdNegaraMuat>
+      <kdNegaraTujuan>VN</kdNegaraTujuan>
+      <kdPortAsal>IDTAB</kdPortAsal>
+      <kdPortBongkar>VNBTN</kdPortBongkar>
+      <kdPortMuat>IDTAB</kdPortMuat>
+      <value_currency>385500.00</value_currency>
+      <currency>USD</currency>
+      <value_fob>385500.00</value_fob>
+      <noiup/>
+      <tgliup/>
+      <ska_type/>
+    </loop>
+  </detailBarang>
+  <detilBatubara>
+    <loop>
+      <idposTarif>1</idposTarif>
+      <cal_arb>6450.00</cal_arb>
+      <cal_adb>6893.00</cal_adb>
+      <tm_arb>8.65</tm_arb>
+      <tash_adb>13.52</tash_adb>
+      <tsulf_adb>0.58</tsulf_adb>
+      <klasifikasibb>&gt; 6100</klasifikasibb>
+      <keterangan>ROA</keterangan>
+    </loop>
+  </detilBatubara>
+  <detilAsal>
+    <loop>
+      <idseriAsal>1</idseriAsal>
+      <idposTarif>1</idposTarif>
+      <nobayarroyalti>6D72B0N9V8KVAJN2</nobayarroyalti>
+      <tglbayarroyalti>2021-06-08</tglbayarroyalti>
+      <jmlVolume>5.1400</jmlVolume>
+      <satuan>TNE</satuan>
+      <npwp>026719559011000</npwp>
+      <nmpersh>SEMBILAN TIGA PERDANA</nmpersh>
+      <idprop>21</idprop>
+      <nmprop>Kalimantan Tengah</nmprop>
+      <royalti>25786.17</royalti>
+      <kurs>USD</kurs>
+    </loop>
+  </detilAsal>
+</LSE_Document>

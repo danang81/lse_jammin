@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>023747371728000</npwp>
+        <refnumber/>
+        <jenisLS>01994</jenisLS>
+        <status>002</status>
+        <namaPerusahaan>PT. BARA TABANG</namaPerusahaan>
+        <alamatPerusahaan>KOMPLEK BALIKPAPAN BARU  JL  MT  HARYONO BLOK D4 NO  9 10KEL DAMAI BARU  KEC  BALIKPAPAN SELATAN  KO</alamatPerusahaan>
+        <telepon>0542 - 874147</telepon>
+        <fax>0542 - 874147</fax>
+        <emailPerusahaan>nasrullah@bayan.com.sg</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-23030136</no_ls>
+        <tgl_ls>2023-03-15</tgl_ls>
+        <tgl_ls_expired>2023-04-15</tgl_ls_expired>
+        <no_izin>03.ET-04.23.0052</no_izin>
+        <tgl_izin>2023-02-07</tgl_izin>
+        <tgl_izin_expired>2023-04-15</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.23.0052</noizinterdaftar>
+        <tglizinterdaftar>2023-02-07</tglizinterdaftar>
+        <tglizinterdaftar_expired>2023-04-15</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>HK</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>93728.00</kapkapal>
+        <asuransi>THE SWEDISH CLUB</asuransi>
+        <catatanperiksa>NO LC : M12MK2303NU00032, 10 MARET 2023</catatanperiksa>
+        <tempatperiksa>MUARA BERAU ANCHORAGE, SAMARINDA</tempatperiksa>
+        <tglperiksa>2023-03-12</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>1468/BT/KCH/III/2023</nopacklist>
+        <tglpacklist>2023-03-15</tglpacklist>
+        <noinvoice>1468/BT/KCH/III/2023</noinvoice>
+        <tglinvoice>2023-03-15</tglinvoice>
+        <namaclient>KOREA SOUTHERN POWER CO., LTD</namaclient>
+        <alamatclient>ADDRESS : 34 TH FL, BIFC BLDG, 40 MUNHYEONGEUMYUM-RO,
+NAM-GU BUSAN SOUTH KOREA 48400</alamatclient>
+        <namavessel>MV LEADING GLORY</namavessel>
+        <tglmuatvessel>2023-03-12</tglmuatvessel>
+        <noiupop>540/070/IUP-OP/MB-PBAT/V/2011</noiupop>
+        <tgliupop>2011-05-02</tgliupop>
+        <nopetikemas>-</nopetikemas>
+        <nosegel>-</nosegel>
+        <kesimpulan>NO LC : M12MK2303NU00032, 10 MARET 2023</kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>83635.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAM (NON COKING) COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>KR</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>KRHAS</kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>12744301.30</value_currency>
+          <currency>USD</currency>
+          <value_fob>6372150.65</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4245.00</cal_arb>
+          <cal_adb>5397.00</cal_adb>
+          <tm_arb>34.34</tm_arb>
+          <tash_adb>4.61</tash_adb>
+          <tsulf_adb>0.09</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>10C182G4VG4RNEBO</nobayarroyalti>
+          <tglbayarroyalti>2023-03-08</tglbayarroyalti>
+          <npwp>023747371728000</npwp>
+          <nmpersh>BARA TABANG</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>88000.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>432678.40</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>

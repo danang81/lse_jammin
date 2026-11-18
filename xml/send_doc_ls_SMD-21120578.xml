@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<SurveyorSendDocLs xmlns="http://tempuri.org/">
+  <string0>jammin_ekspor_2020</string0>
+  <string1>AzlJfwa</string1>
+  <string2>
+    <LSE_Document>
+      <header>
+        <npwp>017695024091000</npwp>
+        <refnumber>2710511811</refnumber>
+        <jenisLS>01994</jenisLS>
+        <status>001</status>
+        <namaPerusahaan>PT. ANUGERAH BARA KALTIM</namaPerusahaan>
+        <alamatPerusahaan>JL  GERBANG DAYAKU RT 014  KEL  BAKUNGAN  KEC    LOA JANAN KAB  KUTAI KERTANEGARA  KALIMANTAN TIMUR </alamatPerusahaan>
+        <telepon>0541263901</telepon>
+        <fax>0541263130</fax>
+        <emailPerusahaan>dsasmita@abk.co.id</emailPerusahaan>
+        <idkab>101</idkab>
+        <idprop>15</idprop>
+        <no_ls>SMD-21120578</no_ls>
+        <tgl_ls>2021-12-14</tgl_ls>
+        <tgl_ls_expired>2022-01-14</tgl_ls_expired>
+        <no_izin>03.ET-04.20.0100</no_izin>
+        <tgl_izin>2020-06-11</tgl_izin>
+        <tgl_izin_expired>2022-01-14</tgl_izin_expired>
+        <noizinterdaftar>03.ET-04.20.0100</noizinterdaftar>
+        <tglizinterdaftar>2020-06-11</tglizinterdaftar>
+        <tglizinterdaftar_expired>2022-01-14</tglizinterdaftar_expired>
+        <modetransport>Vessel</modetransport>
+        <cargotype>CURAH / BULK</cargotype>
+        <bendera>HK</bendera>
+        <jeniskapal>BULK CARRI</jeniskapal>
+        <kapkapal>63291.00</kapkapal>
+        <asuransi>CHINA SHIPOWNERS MUTUAL ASSURANCE ASSOCIATION</asuransi>
+        <catatanperiksa>NO LC : 800-01-0051054, 30 NOVEMBER 2021 </catatanperiksa>
+        <tempatperiksa>JETTY PT, ABK</tempatperiksa>
+        <tglperiksa>2021-12-14</tglperiksa>
+        <portperiksa>IDSRI</portperiksa>
+        <nopacklist>1949/FA-6/12/2021</nopacklist>
+        <tglpacklist>2021-12-14</tglpacklist>
+        <noinvoice>1949/FA-6/12/2021</noinvoice>
+        <tglinvoice>2021-12-14</tglinvoice>
+        <namaclient>SING HENG SENG CO.,LTD</namaclient>
+        <alamatclient>8/3 RATCHADAPISEK ROAD, KLONGTOEY, BANGKOK 10110,
+THAILAND</alamatclient>
+        <namavessel>MV. SPRING OASIS </namavessel>
+        <tglmuatvessel>2021-12-10</tglmuatvessel>
+        <noiupop>69/1/IUP/PMDN/2020</noiupop>
+        <tgliupop>2020-02-28</tgliupop>
+        <nopetikemas>---</nopetikemas>
+        <nosegel>---</nosegel>
+        <kesimpulan>NO LC : 800-01-0051054, 30 NOVEMBER 2021 </kesimpulan>
+      </header>
+      <detailBarang>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <posTarif>27011900</posTarif>
+          <jmlVolume>60500.000</jmlVolume>
+          <satuan>TNE</satuan>
+          <uraian_barang>INDONESIAN STEAMING (NON COKING) COAL IN BULK</uraian_barang>
+          <kdNegaraAsal>ID</kdNegaraAsal>
+          <kdNegaraMuat>ID</kdNegaraMuat>
+          <kdNegaraTujuan>TH</kdNegaraTujuan>
+          <kdPortAsal>IDSRI</kdPortAsal>
+          <kdPortBongkar>THKSI </kdPortBongkar>
+          <kdPortMuat>IDSRI</kdPortMuat>
+          <value_currency>4508460.00</value_currency>
+          <currency>USD</currency>
+          <value_fob>4508460.00</value_fob>
+        </loop>
+      </detailBarang>
+      <detilBatubara>
+        <loop>
+          <idposTarif>1</idposTarif>
+          <cal_arb>4000.00</cal_arb>
+          <cal_adb>4800.00</cal_adb>
+          <tm_arb>35.00</tm_arb>
+          <tash_adb>5.00</tash_adb>
+          <tsulf_adb>0.30</tsulf_adb>
+          <klasifikasibb>5100 - 6100</klasifikasibb>
+          <keterangan>SPK</keterangan>
+        </loop>
+      </detilBatubara>
+      <detilAsal>
+        <loop>
+          <idseriAsal>1</idseriAsal>
+          <idposTarif>1</idposTarif>
+          <nobayarroyalti>D54351JNF3P2JP7L</nobayarroyalti>
+          <tglbayarroyalti>2021-12-02</tglbayarroyalti>
+          <npwp>015002926725000</npwp>
+          <nmpersh>WELARCO SUBUR JAYA</nmpersh>
+          <idprop>23</idprop>
+          <nmprop>Kalimantan Timur</nmprop>
+          <jmlVolume>49950.0000</jmlVolume>
+          <satuan>TNE</satuan>
+          <royalti>110379.51</royalti>
+          <kurs>USD</kurs>
+        </loop>
+      </detilAsal>
+    </LSE_Document>
+  </string2>
+</SurveyorSendDocLs>
