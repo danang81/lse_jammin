@@ -734,32 +734,23 @@
             // `d` is the original data object for the row
             return '<table cellpadding="5" cellspacing="0" border="0" class="table table-hover table-condensed">' +
                     '<tr>' +
-                    '<td style="width:150px">No. Identitas Eksportir</td>' +
-                    '<td>' + d.eksportir_nomorIdentitas + '</td>' +
+                    '<td style="width:150px">Id perizinan</td>' +
+                    '<td>' + d.id_perizinan_bu_penjual + '</td>' +
+                    '<tr>' +
+                    '<td style="width:150px">Nomor SK Penjual</td>' +
+                    '<td>' + d.nomor_sk_bu_penjual + '</td>' +
                     '</tr>' +
                     '<tr>' +
-                    '<td>Alamat Eksportir</td>' +
-                    '<td>' + d.eksportir_alamatPerusahaan + '</td>' +
+                    '<td>Tarif</td>' +
+                    '<td>' + d.tarif + '</td>' +
                     '</tr>' +
                     '<tr>' +
-                    '<td>Nama Importir</td>' +
-                    '<td>' + d.imp_namaPerusahaan + '</td>' +
+                    '<td>Titik Jual</td>' +
+                    '<td>' + d.titik_jual + '</td>' +
                     '</tr>' +
                     '<tr>' +
-                    '<td>Alamat Importir</td>' +
-                    '<td>' + d.imp_alamatPerusahaan + '</td>' +
-                    '</tr>' +
-                    '<tr>' +
-                    '<td>Pengiriman</td>' +
-                    '<td>' + d.namaCaraPengirim + '</td>' +
-                    '</tr>' +
-                    '<tr>' +
-                    '<td>Tanggal Pemuatan Awal</td>' +
-                    '<td>' + d.tanggalPemuatanAwal + '</td>' +
-                    '</tr>' +
-                    '<tr>' +
-                    '<td>Tanggal Pemuatan Akhir</td>' +
-                    '<td>' + d.tanggalPemuatanAkhir + '</td>' +
+                    '<td>Peruntukan Penjualan</td>' +
+                    '<td>' + d.peruntukan_penjualan + '</td>' +
                     '</tr>' +
                     '<tr>' +
                     '<td>Action</td>' +
@@ -790,12 +781,12 @@
                     "defaultContent": ''
                 },
                 {"data": "id_transaksi_minerbaone"},
-                {"data": "tanggalAju"},
-                {"data": "nomorPermohonan"},
-                {"data": "no_lse"},
-                {"data": "namaLokasi"},
-                {"data": "eksportir_namaPerusahaan"},
-                {"data": "prosesName"},
+                {"data": "nama_surveyor_titik_serah"},
+                {"data": "nama_provinsi_asal_barang"},
+                {"data": "nama_badan_usaha_penjual"},
+                {"data": "pelabuhan_muat"},
+                {"data": "pelabuhan_bongkar"},
+                //{"data": "prosesName"},
                         //{"data": "actions"},
             ],
             "order": [[1, 'asc']],
